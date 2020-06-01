@@ -1,0 +1,20 @@
+Reading: Programmed Visions
+
+Author: Wendy Chun
+
+Units: 3, Zone:network technology
+
+Bibliography:Chun, Wendy H. K. 2011. Programmed Visions: Software and Memory. The MIT Press.
+
+Links:https://mitpress.mit.edu/books/programmed-visions
+
+
+Notes:
+
+Summary:
+
+A theoretical examination of the surprising emergence of software as a guiding metaphor for our neoliberal world.
+
+New media thrives on cycles of obsolescence and renewal: from celebrations of cyber-everything to Y2K, from the dot-com bust to the next big things—mobile mobs, Web 3.0, cloud computing. In Programmed Visions, Wendy Hui Kyong Chun argues that these cycles result in part from the ways in which new media encapsulates a logic of programmability. New media proliferates 'programmed visions,' which seek to shape and predict—even embody—a future based on past data. These programmed visions have also made computers, based on metaphor, metaphors for metaphor itself, for a general logic of substitutability.
+
+Chun argues that the clarity offered by software as metaphor should make us pause, because software also engenders a profound sense of ignorance: who knows what lurks behind our smiling interfaces, behind the objects we click and manipulate? The combination of what can be seen and not seen, known (knowable) and not known—its separation of interface from algorithm and software from hardware—makes it a powerful metaphor for everything we believe is invisible yet generates visible, logical effects, from genetics to the invisible hand of the market, from ideology to culture.

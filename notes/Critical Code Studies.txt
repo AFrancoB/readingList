@@ -1,0 +1,22 @@
+Reading: Critical Code Studies
+
+Author: Mark Marino
+
+Units: 1, Zone:network technology
+
+Bibliography:Marino, Marc C. 2020. Critical Code Studies. The MIT Press.
+
+Links:https://mitpress.mit.edu/books/critical-code-studies
+
+
+Notes:
+
+Summary:
+
+An argument that we must read code for more than what it does—we must consider what it means.
+
+Computer source code has become part of popular discourse. Code is read not only by programmers but by lawyers, artists, pundits, reporters, political activists, and literary scholars; it is used in political debate, works of art, popular entertainment, and historical accounts. In this book, Mark Marino argues that code means more than merely what it does; we must also consider what it means. We need to learn to read code critically. Marino presents a series of case studies—ranging from the Climategate scandal to a hactivist art project on the US-Mexico border—as lessons in critical code reading.
+
+Marino shows how, in the process of its circulation, the meaning of code changes beyond its functional role to include connotations and implications, opening it up to interpretation and inference—and misinterpretation and reappropriation. The Climategate controversy, for example, stemmed from a misreading of a bit of placeholder code as a “smoking gun” that supposedly proved fabrication of climate data. A poetry generator created by Nick Montfort was remixed and reimagined by other poets, and subject to literary interpretation.
+
+Each case study begins by presenting a small and self-contained passage of code—by coders as disparate as programming pioneer Grace Hopper and philosopher Friedrich Kittler—and an accessible explanation of its context and functioning. Marino then explores its extra-functional significance, demonstrating a variety of interpretive approaches.

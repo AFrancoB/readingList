@@ -1,0 +1,22 @@
+Reading: The Network Society
+
+Author: Jan Van Dijk
+
+Units: 3, Zone:network technology
+
+Bibliography:Van Dijk, Jan (2012). The Network Society (3 ed.). SAGE. ISBN 9781446248959. Retrieved 1 December 2016.
+
+Links:https://blogs.lse.ac.uk/lsereviewofbooks/2012/09/14/the-network-society-jan-van-dijk/
+
+
+
+Notes:
+
+Summary:
+
+Van Dijk’s analysis laudably avoids the overly deterministic tones of Castells and he identifies these differences in approach where necessary. Van Dijk’s moderate approach sees networks as organised according to levels from the chemical, biological to the societal but with each level dynamically interrelated in what he calls a heterarchical mode of organisation. Neither higher nor lower levels are in control but are co-determinate. Van Dijk argues against complete determination by the necessity of an operating system’s engagement with its environment in order to reproduce itself. Once a network, which is a collection of relatively closed systems engages with other systems the possibility for chance and random events are opened up.
+
+In contrast to Castells he is in favour of retaining social units individual/ family/ organisation) for analysis. One of the interesting arguments developed by Van Dijk is his explanation for apparent increasing individualisation evident in modern high-tech societies. In this context he sees the rise of individualism as the counterpoint to the increasing pervasiveness of the network i.e. the levelling of accessibility for each individual connected in a network. The potential uniformity leads to a social demand for the individual to differentiate, we are all on facebook but each page is unique- “generalization and standardization of the social environment meet the opposing trends of particularity and cultural differentiation”. (p. 175).
+
+Overall, this book is clearly laid out with each chapter focusing on distinct themes and problems such as Technology and the Network, Economy and the Network, Law and the Network. However in social network theory the human is reduced almost to the point of being a relay node, the sum of its own relations that are brought to bear on it by an overarching network. Van Dijk criticises the extremism of such a prioritising of form over substance but given the way he foregrounds the network over society it is not easy to see the family as the unit of analysis rather than the heterarchical organisation of appropriate network systems.
+

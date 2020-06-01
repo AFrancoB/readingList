@@ -1,0 +1,15 @@
+Reading: The Software Arts
+
+Author: Sack Warren
+
+Units: 1, Zone:network technology
+
+Bibliography:Sack, Warren. 2019.The Software Arts. The MIT Press.
+
+Links:https://dl.acm.org/doi/book/10.5555/3351845
+
+
+Notes:
+
+Abstract:
+An alternative history of software that places the liberal arts at the very center of software's evolution. In The Software Arts, Warren Sack offers an alternative history of computing that places the arts at the very center of software's evolution. Tracing the origins of software to eighteenth-century French encyclopedists' step-by-step descriptions of how things were made in the workshops of artists and artisans, Sack shows that programming languages are the offspring of an effort to describe the mechanical arts in the language of the liberal arts. Sack offers a reading of the texts of computing--code, algorithms, and technical papers--that emphasizes continuity between prose and programs. He translates concepts and categories from the liberal and mechanical arts--including logic, rhetoric, grammar, learning, algorithm, language, and simulation--into terms of computer science and then considers their further translation into popular culture, where they circulate as forms of digital life. He considers, among other topics, the 'arithmetization' of knowledge that presaged digitization; today's multitude of logics; the history of demonstration, from deduction to newer forms of persuasion; and the post-Chomsky absence of meaning in grammar. With The Software Arts, Sack invites artists and humanists to see how their ideas are at the root of software and invites computer scientists to envision themselves as artists and humanists. 

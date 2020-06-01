@@ -1,0 +1,22 @@
+Reading: Cyberwar's Subjects. In Cyberwar and revolution
+
+Author: S. Matviyenko and N. Dyer Witherford
+
+Units: 1, Zone:network technology
+
+Bibliography: Dyer-Witheford, N., & Matviyenko, S. (2019). Cyberwar’s Subjects. In Cyberwar and Revolution: Digital Subterfuge in Global Capitalism (pp. 73-116). Minneapolis; London: University of Minnesota Press. Retrieved May 23, 2020, from www.jstor.org/stable/10.5749/j.ctvcwnzsd.5
+
+Links:https://www.jstor.org/stable/10.5749/j.ctvcwnzsd.5
+
+
+Notes:
+
+Abstract:
+
+In wars in Syria, Ukraine, and elsewhere, it is common for soldiers to be contacted  on  their  mobile  phones  by  the  enemy,  with  messages  either  seductive (“I’ll send you my photo,” “When is your birthday?”1), to inveigle the release of  tactical intelligence, or derogatory (“You’re nothing but meat to your commanders!” “Your body will be found when snow melts”2), to demoralize  and  terrorize.  These  messages  are  far  from  state-of-the-art  digital influencing mechanisms, but, bold and crude, they combine the atavistic directness of  ideological recruitment and intimidation with the newest technological means of  individual subjectification. Yet, extreme as the conditions of  these battlefield conversations are, they exemplify a far broader condition of  the denizens of  states, quasi-states, and would-be-states involved in conflicts waged across digital networks traversed by campaigns of  propaganda, persuasion, and surveillance.
+
+To  analyze  these  conditions,  we  take  as  our  point  of   departure  the  Marxist theorist Louis Althusser’s (1971) appropriation of  Jacques Lacan’s ([1969–70] 2007) early work on the imaginary and symbolic orders. Althuss-er proposed that in capitalism, ideological state apparatuses (ISAs) generate social identity by “interpellating” or “hailing” subjects to engage them in an imaginary relation with the reality of  their exploited condition. This proposition has informed a rich line of  media studies analysis. However, recently, a number of  theorists—Slavoj Žižek (1989, 1997a), Teresa Bren-nan (2004), Jodi Dean (2008, 2010), Samo Tomšič (2015), and others—have developed and revised this Marxist–Lacanian position to adapt it to the conditions of  digital capitalism. In particular, they have emphasized the elements in Lacan’s later thought that elaborate the connection between pleasure (however painful or pain inflicting) and a capitalist discourse that entices ever-unsatisfied subjects to labor, in various forms, in search of an enjoyment (jouissance) that is always frustrated by the operations of  the very social order that sets it in motion (Lacan 2007, 80–81). 
+
+We  pursue  this  line  of   analysis  to  investigate  cyberwar  as  a  new,  personalized,  yet  far-reaching  and  border-perforating  mobilization  and  discipline of  populations.
+
+

@@ -1,0 +1,16 @@
+Reading: protocol: how control exists after decentralization. chapter 1 Physical Media
+
+Author: Alexander Galloway
+
+Units: 0.83, Zone:network technology
+
+Bibliography:Alexander   R.   Galloway (2004). protocol: how control exists after decentralization. chapter 1 'Physical Media.'  pp.  28-53.  MIT Press.
+
+Links:https://mitpress.mit.edu/books/protocol
+
+
+Notes:
+
+Abstract:
+
+The focus of this chapter is on distributed networks in the control society. Galloway takes his theories from Foucault's Sovereign vs. Disciplinary Power and Deleuze's Postscript on the Societies of Control and builds on them. Galloway first explains the concept of centralization and decentralization in sovereign and disciplinary societies respectively. Whereas centralization and decentralization facilitate control through hubs and nodes, each node in the distributed network is an autonomous agent. Galloway explores Internet protocols (TCP, IP, DNS) and demonstrates how they are used to regulate the content and operations of the Internet. 

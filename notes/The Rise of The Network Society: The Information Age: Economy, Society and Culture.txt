@@ -1,0 +1,42 @@
+Reading: The Rise of The Network Society: The Information Age: Economy, Society and Culture
+
+Author: Manuel Castells
+
+Units: 3, Zone:network technology
+
+Bibliography:Castells, Manuel (2000). The Rise of The Network Society: The Information Age: Economy, Society and Culture. John Wiley & Sons. p. 469 and Preface. ISBN 978-0-631-22140-1. Retrieved 19 October 2012.
+
+Links:https://www.hiig.de/en/revisiting-castells-network-society/
+
+
+Notes:
+
+Summary:
+
+Networks
+
+While in former times, individuals such as the entrepreneur, or collectives such as social classes, have been the efficacious economic actors, it is now networks that shape society foremost. Financial markets, companies, the media, political, cultural or other institutions are bound to the “networking logic”.
+
+    “(D)ominant functions are organized in networks pertaining to a space of flows that links them up around the world, while fragmenting subordinate functions, and people, in the multiple space of places, made of locales increasingly segregated and disconnected from each other” (ibid., p. 476). 
+
+Cultural codes, value, and power are produced and decided in a “meta-network” that “increasingly appears to most people as a meta-social disorder”. It is experienced as a “random sequence of events” following an “uncontrollable logic”, which changes human experience fundamentally (ibid., p. 477).
+Identity
+
+As the second fundamental element of the “network society”, he identifies significant changes in the formation of identities. Opposing to essentially abstract and instrumental networks, identity serves as the main source of meaning for individuals in the prevailing order. Castells notes that “societies are increasingly structured around the bipolar opposition of the Net and the Self” (ibid., p. 3). Identity is resulting from tensions between these two poles.
+
+Social movements, formed around national, religious or sexual identities, are key formations attempting to reassure autonomy in times of instability and structural change, caused by fluid networks. These movements vary between active cultural elites, which are open to new technologies and have a focus on libertarian identity politics, and groups with a lack of resources that drawback to traditional norms and values. On the one side, these movements can be a symptom of a social divide and cause social conflicts. On the other side, they can carry the potential for emancipation (Castells, 1997).
+Power: Networks and Switches
+
+Regarding power, Castells emphasizes that networks are the primary entities exerting power. Where in the past particular social interests dominated, it is now networks with their own logic of information flows. The “power of flows takes precedence over the flows of power” (Castells, 1996, p. 469). Castells argues that so called switchers, who in fact connect the networks “are the privileged instruments of power” and become “the fundamental sources in shaping, guiding and misguiding society”. The switchers hold real power in a system of inter-operating networks (ibid., p. 471). The ability to constitute, program and reprogram networks is another means to exercise power over others. Switchers and programmers are not constituted by single individuals or groups though, but of a network of decentralized, interconnected social actors. Power is therefore exercised in “a complex set of joint action” (Castells, 2009, p. 45). On a governmental level, this means that the nation-state has lost its ability to control the processes of cultural, economic, and social change. The network state emerges, who has to arrange itself with supranational institutions, multinational corporations, financial markets and other actors.
+Global Information Capitalism
+
+The emergence of the network society has been enabled by the pervasive implementation of ICTs. The new technologies took a key part in the restructuring of capitalism towards a global economy in the 1980s (Castells, 1996). The growth crisis of the economy in the 1970s was solved by opening up new markets of production and consumption on a global scale. Improved communication capabilities played a crucial factor. But another precondition for a global economy was the increased mobility of capital realized through financial deregulation. The rise of global informational capitalism was therefore enabled but not caused by new ICTs. Consequently, the emergence of informationalism has also led to organizational changes within companies and to the restructuring of labor. The “networked firm” can adapt better to the growing insecurities imposed by global, unclear markets. The spread of Japanese management techniques, lean and just-in-time production with their increased labor flexibility due to outsourcing and subcontracting are parts of this restructuring process. What was vertically and hierarchically organized before, is now replaced by a flexible, less-standardized networking logic.
+
+Within his “information technology paradigm”, Castells emphasizes technological innovations as a fundamental factor for social change, but at the same time, he considers changes to the organizational structures and policies as critical factors that have led to the status quo. “Management decisions, systems of industrial relations, cultural and institutional environments, and government policies are such fundamental sources” (ibid., p. 240). New ICTs open up possibilities that can be realized in different ways. The economic success of “informationalism” and its potential to innovate result from the application of information and knowledge, which is facilitated by new technologies. Even though the technologies do not determine social change, they always precede it. Changing organizational structures, for instance, were also triggered and enabled by technological innovation. Castells observes political, economic or other social actors in the way they adapt to innovations and they are less considered in the ways they shape technologies and innovations.
+Transformation of Labor
+
+Regarding the changing social structure, Castells notices that the implementation of ICTs requires skilled and self-reliant workers, “the networkers”. Contrary to previous forms of capitalism — characterized through authoritarian and exploitative methods —, the Network Society provides greater freedom in the workplace, because “networkers” need greater autonomy while performing less-standardized tasks (ibid., p. 246). However, at the same time, the automation and outsourcing of manufacturing is taking place, which leads to a divide between “upgraded” information work and “downgraded” precarious jobs (ibid., p. 251).
+
+Information work requires high education so that educational qualification increasingly selects the workforce. The following social polarization is not necessary following ICT-innovations, it is rather caused by the way they are being implemented. For instance, the way management has been restructuring and has been politically allowed to restructure work towards increased flexibility and international division of labor in global supply chains, put pressure on the welfare state and once relatively secure jobs (ibid., p. 239). Unions have also not been able to organize the workforce as in previous times, partly because they were politically under attack (as it happened under Reagan and Thatcher), but also because they were not capable of organizing the new “downgraded” workforce, which often consists of women and migrants in the service economy.
+
+Global informational capitalism is, therefore, “characterized by a tendency towards increased social inequality and polarization” (Castells, 2000, p. 380). The global division of labor is producing winners that are highly skilled information workers, and losers that are downgraded service and informal workers, or even unemployed and thus, structurally excluded populations. These marginalized people are found in excluded regions, such as large parts of Africa, but also within developed countries, e.g. in ghettos.
