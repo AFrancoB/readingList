@@ -1,0 +1,15 @@
+Reading: Liveness becomes Entelechy
+
+Author: Luke Church
+
+Units: 0.2, Zone:live coding
+
+Bibliography:Church, L., Söderberg, E., Bracha, G., & Tanimoto, S. (2016). Liveness becomes Entelechy - a scheme for L6. In The second international conference on live coding.
+
+Links:https://pdfs.semanticscholar.org/eab1/a05a42649f206f90545b005436fa21e219cf.pdf
+
+
+Notes:
+
+Integrated development environments have provided increasingly powerful tools for software creation, and yet the creation of complex computer programs remains difficult and time-consuming. Liveness in a programming environment has been identified as one direction in which to pursue further improvements in programmer productivity. We propose a scheme for achieving strategically predictive liveness, that is a scheme which can predict and evaluate considerable features of an application. The scheme exploits statistical properties of code to allow for synthesis and evaluation of code that is most likely to be useful to the developer. We hypothesise that this will help inculcate liveness into mainstream technical practice.
+

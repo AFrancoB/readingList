@@ -1,0 +1,14 @@
+Reading: Dislocated Sound: A Survey of Improvisation in Networked Audio Platforms
+
+Author: Roger Mills
+
+Units: 0.13333333333333, Zone:network music
+
+Bibliography:Mills, R. 2010. 'Dislocated Sound: A Survey of Improvisation in Networked Audio Platforms', in Proceedings of New Interfaces for Musical Expression, Sydney, Australia, 15-18 June 2010.
+
+Links:http://www.educ.dab.uts.edu.au/nime/PROCEEDINGS/papers/Paper%20J1-J5/P186_Mills.pdf
+
+
+Notes:
+
+The  evolution  of  networked  audio  technologies  has  created unprecedented  opportunities  for  musicians  to  improvise  with instrumentalists    from    a    diverse    range    of    cultures    and disciplines.   As   network   speeds   increase    and   latency   is consigned    to    history,    tele-musical    collaboration,    and    in particular  improvisation  will  be  shaped  by  new  methodologies that  respond  to  this  potential.  While  networked  technologies eliminate distance in physical space, for the remote improviser, this  creates  a  liminality  of  experience  through  which  their performance  is  mediated.  As  a  first  step  in  understanding  the conditions   arising   from   collaboration   in   networked   audio platforms,  this  paper  will  examine  selected  case  studies  of improvisation  in  a  variety  of  networked  interfaces.  The  author will    examine    how    platform    characteristics    and    network conditions influence the process of collective improvisation and the  methodologies  musicians  are  employing  to  negotiate  their networked experiences

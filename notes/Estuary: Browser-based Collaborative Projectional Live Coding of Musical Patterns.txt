@@ -1,0 +1,16 @@
+Reading: Estuary: Browser-based Collaborative Projectional Live Coding of Musical Patterns
+
+Author: David Ogborn
+
+Units: 0.33333333333333, Zone:network music
+
+Bibliography:Ogborn, David; Beverley, Jamie; Navarro Del Ángel. Luis; Tsabary, Eldad; McLean Alex. 2017.
+Estuary: Browser-based Collaborative Projectional Live Coding of Musical Patterns. International
+Conference on Live Coding (ICLC) 2017
+
+Links:
+
+
+Notes:
+
+This paper describes the initial design and development of Estuary, a browser-based collaborative projectional editing environment built on top of the popular TidalCycles language for the live coding of musical pattern. Key features of Estuary include a strict form of structure editing (making syntactical errors impossible), a click-only border-free approach to interface design, explicit notations to modulate the liveness of different parts of the code, and a server-based network collaboration system that can be used for many simultaneous collaborative live coding performances, as well as to present different views of the same live coding activity. Estuary has been developed using Reflex-DOM, a Haskell-based framework for web development whose strictness promises robustness and security advantages.

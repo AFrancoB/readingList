@@ -1,0 +1,14 @@
+Reading: Network Music and the Algorithmic Ensemble
+
+Author: David Ogborn
+
+Units: 0.56666666666667, Zone:network music
+
+Bibliography:Dean, R., McLean, A., & Ogborn, D. 2018-02-22. Network Music and the Algorithmic Ensemble. In The Oxford Handbook of Algorithmic Music. : Oxford University Press. Retrieved 7 Jun. 2020, from https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190226992.001.0001/oxfordhb-9780190226992-e-7.
+
+Links:https://books.google.ca/books?id=p45HDwAAQBAJ&pg=PT410&lpg=PT410&dq=network+music+oxford+handbook&source=bl&ots=KrN-wnOst8&sig=ACfU3U3LtinZ9v1KwJPdogEHkaHrWIZtMg&hl=es&sa=X&ved=2ahUKEwjtsrPUnfDpAhXwkOAKHdJeCKsQ6AEwBHoECAkQAQ#v=onepage&q=network%20music%20oxford%20handbook&f=false
+
+
+Notes:
+
+Network music happens when people make music with computer networks, and algorithmic approaches to network music introduce specific challenges and opportunities. Networking is an area of considerable complexity from a programming standpoint, involving the representation and handling of uncertainty and failure, and computer networks and networked forms are fundamental to contemporary governance and politics. The allure of network music lies both in this potential for play with key aspects of present-day power structures and in its potential support for musical relationships of friendship, collaboration, and participation. Key network music dynamics that emerge from the materiality of networking technologies revolve around considerations of latency and jitter, bandwidth, and security. Each of these dynamics is modified strongly when it becomes a matter not simply of network music, but more specifically algorithmic network music.

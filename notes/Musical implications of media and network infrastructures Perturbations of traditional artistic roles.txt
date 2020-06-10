@@ -1,0 +1,14 @@
+Reading: Musical implications of media and network infrastructures Perturbations of traditional artistic roles
+
+Author: Atau Tanaka
+
+Units: 0.3, Zone:network music
+
+Bibliography:Tanaka, A. 2001. Musical implications of media and network infrastructures Perturbations of traditional artistic roles.
+
+Links:
+
+
+Notes:
+
+The influence of hypermedia on musical artistic practice is considered. Qualities unique to hyperlink listener interaction and network infrastructure are taken as the fundamental basis to define a musical language for the medium. Network topology creates a space distinct from the time-specific event space traditionally associated with musical performance. Hypermedia access makes the listener a participant in an evolutionary compositional process. This situation puts in question traditional roles of composer and performer. Two network music works are discussed, an installation that juxtaposes network and acoustic space, and a net.audio project where the composer's role becomes one of creating an empty musical shell.

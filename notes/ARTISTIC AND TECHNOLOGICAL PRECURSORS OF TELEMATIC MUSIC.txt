@@ -1,0 +1,17 @@
+Reading: ARTISTIC AND TECHNOLOGICAL PRECURSORS OF TELEMATIC MUSIC
+
+Author: Mark Cook
+
+Units: 0.96666666666667, Zone:network music
+
+Bibliography:Cook, M.D. 2015. ARTISTIC AND TECHNOLOGICAL PRECURSORS OF TELEMATIC MUSIC.  CHAPTER 1 in Telematic Music: History and Development of the Medium and Current Technologies Related to Performance. pp. 1-29
+
+Links:https://www.bgsu.edu/content/dam/BGSU/musical-arts/documents/dma-documents/Cook-Mark.pdf
+
+
+Notes:
+
+This paper seeks to provide aspiring telematic musicians with the necessary knowledge and background that will enable them to participate in this art form by supplying a historical and aesthetic background for the elements of telematic art, discussing commonly used technologies and how they are implemented today, investigating performers who employ telematics, and examining the telematic opera Auksalaq. Additionally, this paper explores the adaptation of telematic art into telematic music
+
+Chapter I reviews artistic and technological precursors of telematic art, centered around its three main aspects: telematics, integration of art forms, and interactivity.
+

@@ -1,0 +1,15 @@
+Reading: Rethinking Collaboration in Networked Music.
+
+Author: Nicolas  Makelberge
+
+Units: 0.23333333333333, Zone:network music
+
+Bibliography:Makelberge, N. (2012). Rethinking Collaboration in Networked Music. Organised Sound, 17(1), 28-35. doi:10.1017/S1355771811000483
+
+
+Links:https://www.cambridge.org/core/journals/organised-sound/article/rethinking-collaboration-in-networked-music/87B68784740B3CA0F6CFB602525793CA
+
+
+Notes:
+
+This paper argues that today's sampling culture, emerging out of pioneering efforts in electroacoustic music in the 1950s carries a similar ethos of autonomy found in many significant advances in music instrumentation throughout history. By looking at the evolution of musical instruments, the author hopes to address these continuous effort towards autonomy, which, if proves legitimate should be of great concern for networked music research that deals with all forms of music praxis of varying reciprocity and group dynamics. By further looking into what sets collaboration apart from cooperation and collective creation, and elaborating on the ‘social’ of music, this paper hopes to extend the discourse on current trends of accessing, shaping and sharing music in solitude, from something often seen as unfortunate and anti-social, to something less so.

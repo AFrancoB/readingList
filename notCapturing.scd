@@ -1,20 +1,31 @@
-
+(
 ~notes.(
-	"Imagined Communities",
-	"Anderson",
-	"theory",
-	1,
-	30,
-	"Anderson, B. R. O. G. (1991). Imagined communities: Reflections on the origin and spread of nationalism. London: Verso. ", // biblio
-	"not provided", // url
+	"Musical implications of media and network infrastructures Perturbations of traditional artistic roles",
+	"Atau Tanaka",
+	"network music",
+	9,
+	"Tanaka, A. 2001. Musical implications of media and network infrastructures Perturbations of traditional artistic roles.", // biblio
+	"", // url
 	True,
-
 	"
-Select chapters!!
-
-
+The influence of hypermedia on musical artistic practice is considered. Qualities unique to hyperlink listener interaction and network infrastructure are taken as the fundamental basis to define a musical language for the medium. Network topology creates a space distinct from the time-specific event space traditionally associated with musical performance. Hypermedia access makes the listener a participant in an evolutionary compositional process. This situation puts in question traditional roles of composer and performer. Two network music works are discussed, an installation that juxtaposes network and acoustic space, and a net.audio project where the composer's role becomes one of creating an empty musical shell.
 "
 )
+)
+~order.("listaOrdenada");
+
+~query.("network music")
+
+"Migone, Christof. 2012. 'Soundtimeslanguage' Chapter 3 in sonic somatic: performances of the unsound body. Errant Bodies Press."
+
+
+// Jeff and McLean "speaking codes book"
+// Handbook of algorithmic muisc
+
+// network music will involve technichal discussion
+
+// technique after this.
+
 
 
 

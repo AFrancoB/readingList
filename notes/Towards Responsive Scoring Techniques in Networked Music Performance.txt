@@ -1,0 +1,33 @@
+Reading: Towards Responsive Scoring Techniques in Networked Music Performance
+
+Author: Rebekah Wilson
+
+Units: 0.3, Zone:network music
+
+Bibliography:Wilson, R., 2019. 'Towards Responsive Scoring Techniques in Networked Music Performance'. Proceedings of the 2019 TENOR Conference, Melbourne.
+
+Links:https://www.researchgate.net/publication/334784888_Towards_Responsive_Scoring_Techniques_for_Networked_Music_Performances/citations
+
+
+Notes:
+
+The latent and unstable nature of networked performances,
+where the delayed transmission and uncertain, unstable,
+and compressed reception of transferred information de-
+mands scoring conceptualizations that consider the loss of
+the presence information traditionally expected by musi-
+cians when performing together in a shared space and time.
+The focus of this study is to develop electronic network-
+aware responsive scoring techniques that consider the pri-
+mary constraints of networked music performances: i.e.,
+latency, uncertainty, multilocated, and digital. Using ma-
+chine-learning techniques to investigate and enhance digi-
+tally mediated presence technology, scoring possibilities
+are discussed that promote the experience of performing
+together while being remote from each other—connected
+via a public network and subject to latency. This study also
+looks at compositional and technical approaches to creat-
+ing responsive scores for networked music performances
+using analysis of transferred sound as a means to generate
+and control metadata and symbolic notation.
+

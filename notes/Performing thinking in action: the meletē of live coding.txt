@@ -1,0 +1,14 @@
+Reading: Performing thinking in action: the meletē of live coding
+
+Author: Emma Cocker
+
+Units: 0.5, Zone:live coding
+
+Bibliography:COCKER, E., 2016. Performing thinking in action: the meletē of live coding. International Journal of Performance Arts and Digital Media, 12 (2), pp. 102-116. ISSN 1479-4713 
+
+Links:http://irep.ntu.ac.uk/id/eprint/32025/
+
+
+Notes:
+
+Within this article, live coding is conceived as a meletē, an Ancient Greek term used to describe a meditative thought experiment or exercise in thought, especially understood as a preparatory practice supporting other forms of critical — even ethical — action. Underpinned by the principle of performing its thinking through 'showing the screen', live coding involves 'making visible' the process of its own unfolding through the public sharing of live decision-making within improvisatory performance practice. Live coding can also be conceived as the performing of 'thinking-in-action', a live and embodied navigation of various critical thresholds, affordances and restraints, where its thinking-knowing cannot be easily transmitted nor is it strictly a latent knowledge or 'know how' activated through action. Live coding involves the live negotiation between receptivity and spontaneity, between the embodied and intuitive, between an immersive flow experience and split-attention, between human and machine, the known and not yet known. Moreover, in performing 'thinking-in-action', live coding emerges as an experimental site for reflecting on different perceptions and possibilities of temporal experience within live performance: for attending to the threshold between the live and mediated, between present and future-present, proposing even a quality of atemporality or aliveness.

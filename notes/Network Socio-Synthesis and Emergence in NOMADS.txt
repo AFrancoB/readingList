@@ -1,0 +1,16 @@
+Reading: Network Socio-Synthesis and Emergence in NOMADS
+
+Author: M. Burtner
+
+Units: 0.36666666666667, Zone:network music
+
+Bibliography:Burtner, M., Kemper, S., & Topper, D. 2012. Network Socio-Synthesis and Emergence in NOMADS. Organised Sound, 17(1), 45-55. doi:10.1017/S1355771811000501
+
+Links:https://www.cambridge.org/core/journals/organised-sound/article/network-sociosynthesis-and-emergence-in-nomads/48F0AE8615EE3AAEA0D2DA1380DDD20A
+
+
+Notes:
+
+
+NOMADS (Network-Operational Mobile Applied Digital System) is a network client–server-based system for participant interaction in music and multimedia performance contexts. NOMADS allows large groups of participants, including the audience, to form a mobile interactive computer ensemble distributed across a network. Participants become part of a synergistic interaction with other performers, contributing to the multimedia performance. The system enhances local performance spaces, and it can integrate audiences located in multiple performance venues. Individual user input from up to thousands of simultaneous users across a network is synthesised into a single emergent sound and visual structure in an approach we call socio-synthesis. This paper recounts research leading up to NOMADS, outlines its technological architecture, and describes several implementations. Current applications include the telematic opera Auksalaq, and performances by the MICE Orchestra. The authors also consider the potential of large-scale human–computer ensembles as a paradigm for composition and performance.
+

@@ -1,0 +1,28 @@
+Reading: Scaling Up Live Internet Performance with The Global Net Orchestra
+
+Author: Roger Dannenberg and Tom Neuendorffer
+
+Units: 0.23333333333333, Zone:network music
+
+Bibliography:DANNENBERG , Roger B. and Tom NEUENDORFFER. 2014. Scaling Up Live Internet Performance with The Global Net Orchestra. Ann Arbor, Michigan, Michigan Publishing, University of Michigan Library.
+
+Links:https://www.researchgate.net/publication/298981678_Scaling_Up_Live_Internet_Performance_with_The_Global_Net_Orchestra/citations
+
+
+Notes:
+
+Networked or “telematic” music performances take many
+forms, ranging from small laptop ensembles using local
+area networks to long-distance musical collaborations
+using audio and video links. Two important concerns for
+any networked performance are: (1) what is the role of
+communication in the music performance? In particular,
+what are the esthetic and pragmatic justifications for per-
+forming music at a distance, and (2) how are the effects
+of communication latency ameliorated or incorporated
+into the performance? A recent project, the Global Net
+Orchestra, is described. In addition to addressing these
+two concerns, the technical aspects of the project, which
+achieved a coordinated performance involving 68 com-
+puter musicians, each with their own connection to the
+network, are described.

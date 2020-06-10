@@ -1,0 +1,15 @@
+Reading: Telematic Music: Six Perspectives
+
+Author: Pauline Oliveros, S. Weaver, M. Dresser, J. Pitcher, J. Braasch, and C. Chafe
+
+Units: 0.96666666666667, Zone:network music
+
+Bibliography:P. Oliveros, S. Weaver, M. Dresser, J. Pitcher, J. Braasch, and C. Chafe, “Telematic Music: Six Perspectives,” Leonardo Music Journal, vol. 19, no. 1, 2009.
+
+Links:https://ccrma.stanford.edu/groups/soundwire/publications/papers/chafeLMJ19-2009.pdf
+
+
+Notes:
+
+The  Telematic  Music  Panel  was  formed  as  a  result  of  a  concert  the  panelists  performed  together on November 16, 2007. Telematic music is defined as music performed live and simultaneously  across  geographic  location  via  the  internet.  The  concert  took  place  simultaneously   at   Rensselaer   Polytechnic   Institute   in   Troy,   New   York,   Stanford   University  in  Stanford,  California,  and  University  of  California  San  Diego.  The  audio  software  used  was  JackTrip  developed  by  Chris  Chafe  at  Stanford,  and  video  software  was  iCHATav.  The  Telematic  Music  Panel  gives  context  and  description  for  the  music  that took place November 16, 2007. This panel was presented December 16, 2007, at the International  Society  for  Improvised  Music  Conference  at  Northwestern  University  in  Evanston, Illinois. 
+

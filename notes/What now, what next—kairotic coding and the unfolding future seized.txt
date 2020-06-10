@@ -1,0 +1,14 @@
+Reading: What now, what next—kairotic coding and the unfolding future seized
+
+Author: Emma Cocker
+
+Units: 0.43333333333333, Zone:live coding
+
+Bibliography:COCKER, E., 2018. What now, what next—kairotic coding and the unfolding future seized. Digital Creativity, 29 (1), pp. 82-95. ISSN 1462-6268
+
+Links:http://llr.ntu.ac.uk/rpd/researchpublications.php?pubid=b6df3da5-d532-4a71-8495-20970057eee6
+
+
+Notes:
+
+Drawing on my experience as a critical interlocutor within the AHRC research projects Live Notation: Transforming Matters of Performance (2012) and Weaving Codes | Coding Weaves (2014–2016), in this article, I propose a conceptual framework for considering the challenges and opportunities for kairotic improvisation within live coding, conceived as an embodied mode of imminent and immanent intervention and invention-in-the-middle, a practice of radical timing and timeliness. Expanding my previous reflections on kairotic coding [Cocker, Emma. (2014). 'Live Notation: Reflections on a Kairotic Practice.' In Performance Research Journal, on Writing and Digital Media, edited by Jerome Fletcher and Ric Allsopp, 18 (5), 69–76. London: Routledge; Cocker, Emma. (2016). 'Performing Thinking in Action: The Meletē of Live Coding.' International Journal of Performance Arts and Digital Media 12 (2): 102–116. Cocker, Emma. (2017). 'Weaving Codes/Coding Weaves: Penelopean Mêtis and the Weaver-Coder's Kairos.' Textile 15 (2): 124–141], in this article, I address the kairotic liveness within live coding's improvisational performance by identifying two seemingly contradictory tendencies within this burgeoning genre. On the one hand, there is a call for improved media technologies enabling greater immediacy of semantic feedback supporting a faster, more fluid—perhaps even virtuoso approach to improvisation. Alongside, there remains interest within the live coding community for a mode of improvisational performativity that harnesses the unpredictable, the unexpected or as-yet-unknown. Rather than regard these two tendencies in antagonistic relation, my intent is to invite further debate on how the development of intelligent machines might better facilitate improvisatory flow, without eradicating the critical intervals and in-between spaces necessary for creative invention and intervention, without smoothing away the points of technical resistance and intransigence which arguably form a part of live coding's performative texture.
