@@ -1,0 +1,23 @@
+Reading: Live Coding From Scratch: The Cases of Practice in Mexico City and Barcelona
+
+Author: Hernani Villaseñor & Iván Paz
+
+Units: 0.23333333333333, Zone:live coding
+
+Bibliography:Villaseñor, Hernani & Paz Iván. 2020. 'Live Coding From Scratch: The Cases of Practice in Mexico City and Barcelona', Proceedings of the Fifth International Conference on Live Coding. Ireland. pp. 23-29
+
+Links:
+
+
+Notes:
+
+Live coding performance starting from a white screen is commonly
+termed from scratch. In this contribution, we present some thoughts
+about the possibilities and consequences of this technique, based on
+our experience as members of the live coding communities of Mexico
+City and Barcelona. For that, we described from scratch rules and
+definitions of each community and then, we comment on how this
+practice began at each place. We finish the text discussing why we
+consider that live coding from scratch is a technique whose practice
+can be used as an epistemic tool, through which new creative spaces
+and limits are explored.

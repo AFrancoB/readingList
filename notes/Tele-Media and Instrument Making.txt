@@ -1,0 +1,14 @@
+Reading: Tele-Media and Instrument Making
+
+Author: B Gremo
+
+Units: 0.43333333333333, Zone:network music
+
+Bibliography:Gremo, B. 2012. Tele-Media and Instrument Making. Organised Sound, 17(1), pp. 73-85
+
+Links:https://www.cambridge.org/core/journals/organised-sound/issue/26EF35D19AC693D2DF3DC7B75F7D69CD
+
+
+Notes:
+
+What does it mean to speak of tele-media as a musical instrument? The unfolding of this question is aided by analysis of the control domains of two existing instrument categories, acoustic instruments and digital controllers. Design criteria for making tele-media instruments are formulated thence, and also from consideration of the special capacity of tele-media to bring together multi-lateral non-proximate control sources. Such design anticipates musicians in different continents participating in single sonic outcomes. What does it mean for such a tele-instrument to facilitate virtuosic performance? Any high standard of instrument making urges that instrument makers do so. Virtuosity is understood in part as performance presence, an important issue for tele-media criticism. The broader topic concerning the relation between presence and transmission is represented narrowly here in a single argument. Transmission of performance intention is more important to remote performance presence than literal representations of musicians on stage. Performance presence is better facilitated by interactive graphic notations that dynamically render control domain data into images. Two tele-performances inform the discussion.

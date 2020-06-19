@@ -130,10 +130,30 @@
 
 	zone
 
+};
+
+
+// extract from the bibliography the part of it that starts with pp. And then counts the number of pages of given article
+~idPages= {|bibliostring|
+	var index= bibliostring.find("pp.");
+	var getPagesIndexes = bibliostring[index..(bibliostring.size)];
+	if( index == nil, {"There are no page numbers or they are not formatted correctly. Consider modifying the bibliography before inputting it into thr system".postln}, {~countPages.(getPagesIndexes)});
+};
+
+~countPages= {|string|  ( 1 + string.split($.)[1].split($-)[1].asFloat) - string.split($.)[1].split($-)[0].asFloat   };
+
+
+~lookFor= {|string, whereToLook|
+	var path, list, look, whatZone;
+
+	path= ~path;
+	list= CSVFileReader.read(~path++"/laLista.csv");
+	whatZone = switch(whereToLook,
+		"author", list.select({|item|  item[1].asString.containsi(string)    }),
+		"reading", list.select({|item|  item[0].asString.containsi(string)    }),
+		"zone", list.select({|item|  item[4].asString.containsi(string)    })
+	)
 }
-
-
-
 
 
 

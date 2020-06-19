@@ -1,0 +1,14 @@
+Reading: Live Coding of Consequences
+
+Author: Nick Collins
+
+Units: 0.16666666666667, Zone:live coding
+
+Bibliography:Collins, Nick. 2011. 'Live Coding of Consequence', Leonardo 44(3): pp. 207-211
+
+Links:https://composerprogrammer.com/research/livecodingpractice.pdf
+
+
+Notes:
+
+The fast pace of computerized life has provoked equally dy-namic artistic responses. In one current of contemporary per-formance practice, usually termed “live coding,” the actors seem to take their relationship with computers to a natural conclusion. In intimate portraits of human and machine, they accept the challenge of programming on the spot, typically for an audience in a concert setting. Although there are gentler slopes away from the hot lights, where live coding is just inter-active code prototyping on interpreted systems or a networked chatter, many liberating stresses and radical joys have come out of the explicit live scene. Usually, the programming is carried out within some sort of arts programming environment, such that the program output affects audio and visuals and the op-erator projects his/her screen during performance to make the process (in principle) transparent. From being intently hunched within the creation and manipulation of computer code to acting and dancing through algorithmic rules away from computer screens, the human operator’s role is critical. This article will explore many rich veins of work within this scene, acknowledge many historical precedents, touch upon the inter-relation of human and machine rules and, possibly, not proceed in quite the manner expected of it.

@@ -1,0 +1,14 @@
+Reading: Computing as If Infrastructure Mattered
+
+Author: JF Blanchette
+
+Units: 0.1, Zone:network technology
+
+Bibliography:Blanchette, J-F. (2012). Computing as If Infrastructure Mattered. Communications of the ACM 55(10). pp. 32-34.
+
+Links:
+
+
+Notes:
+
+

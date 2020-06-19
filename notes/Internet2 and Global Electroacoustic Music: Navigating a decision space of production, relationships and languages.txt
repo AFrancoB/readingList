@@ -1,0 +1,14 @@
+Reading: Internet2 and Global Electroacoustic Music: Navigating a decision space of production, relationships and languages
+
+Author: I Whalley
+
+Units: 0.4, Zone:network music
+
+Bibliography:Whalley, I. 2012. Internet2 and Global Electroacoustic Music: Navigating a decision space of production, relationships and languages. Organised Sound, 17(1). pp. 4-15
+
+Links:https://www.cambridge.org/core/journals/organised-sound/issue/26EF35D19AC693D2DF3DC7B75F7D69CD
+
+
+Notes:
+
+Using Internet2 for audio performance, supported by digital video communication between players, provides the opportunity for networked electroacoustic music practitioners to connect with, bridge, amalgamate and lead diverse sound-based music traditions. In combination with intelligent/multi-agent software, this facilitates new hybrid sonic art forms. Extending prior work by the author, Mittsu no Yugo (Whalley 2010a) recently explored this direction. While Internet2 expands production/aesthetic possibilities, accommodating established aesthetics in tandem requires careful consideration. Beginning from a prior model of a decision space (Whalley 2009), the paper discusses the extended decision terrain and choices that Internet2 brings, and some of the compromises that need to be made to realise the proposition. The paper is then part conceptual map, and part artistic perspective.

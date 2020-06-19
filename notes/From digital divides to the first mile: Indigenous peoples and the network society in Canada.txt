@@ -1,0 +1,14 @@
+Reading: From digital divides to the first mile: Indigenous peoples and the network society in Canada
+
+Author: Rob McMahon
+
+Units: 0.83333333333333, Zone:network technology
+
+Bibliography:McMahon, Rob. 2014. 'From digital divides to the first mile: Indigenous peoples and the network society in Canada.' International Journal of Communication 8: 25. pp. 2002-2026
+
+Links:https://ijoc.org/index.php/ijoc/article/view/2456/1187
+
+
+Notes:
+
+Indigenous peoples interact with the emergent network society in diverse ways that reflect the colonialism/self-determination dialectic. One area where this process unfolds is in the bridging of digital divides. I use the concept of the First Mile to show how First Nations and Inuit peoples in Canada’s geographic periphery are asserting their self-determination in the sphere of digital ICTs. While most digital divide literature presumes that a connection to the network society is inherently beneficial, when framed in the context of historic and ongoing processes of colonialism, integration alone is not adequate. An example of a not-for-profit satellite network cooperative demonstrates how three Indigenous organizations shaped the problem of the digital divide into an opportunity to establish a platform for digital self-determination.

@@ -1,0 +1,14 @@
+Reading: Live Coding Practice
+
+Author: Nick Collins
+
+Units: 0.2, Zone:live coding
+
+Bibliography:Collins, Nick. 2007. 'Live Coding Practice'. Proceedings of NIME.
+
+Links:https://composerprogrammer.com/research/livecodingpractice.pdf
+
+
+Notes:
+
+Live coding is almost the antithesis of immediate physicalmusicianship, and yet, has attracted the attentions of a numberof computer-literate musicians, as well as the music-savvyprogrammers that might be more expected. It is within thecontext of live coding that I seek to explore the question ofpractising a contemporary digital musical instrument, which isoften raised as an aside but more rarely carried out in research(though see [12]). At what stage of expertise are the membersof the live coding movement, and what practice regimes mighthelp them to find their true potential?

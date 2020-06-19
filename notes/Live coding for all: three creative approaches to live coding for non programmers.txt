@@ -1,0 +1,15 @@
+Reading: Live coding for all: three creative approaches to live coding for non programmers
+
+Author: Mauro Herrera, Jaime Lobato, Alberto Cerro, F. J. Lomelí
+
+Units: 0.26666666666667, Zone:live coding
+
+Bibliography:Herrera Machuca, M., Lobato Cardoso, J. A., Torres Cerro, J. A. and Lomelí Bravo, F. J. 2016. ‘Live coding for all: three creative approaches to live coding for non programmers’, International Journal of Performance Arts and Digital Media, 12(2), pp. 187-194.
+
+Links:https://www.visgraf.impa.br/Data/RefBib/PS_PDF/livecode2019/proceedings_v1_2d_web.pdf?fbclid=IwAR1aBCtlhpFfqhHgeGalIa4Tdk_dK7Z9N_1c4rMp3rN__pMHYvm_4Ur9WFE
+
+
+Notes:
+
+There is often a gap between intention and reception in a live coded performance. For example, audiences unfamiliar with computer programming may not appreciate the inherent drama of the performance. Even seasoned programmers may be unable to fully appreciate a performance if they are unfamiliar with the specific platform being used. We feel this may be needlessly alienating audiences and communities. We believe that we have found a way to make our live coding performances more accessible using human language, sonification, and gesture. In this article, we will illustrate this using three of our most recent projects: Albures y un Manifiesto (Puns and a Manifesto), Poesías Automatón and Human Instruction. We will describe these performances, taking care to outline the specific techniques and processes within these projects that we have used to broaden our audience base. Lastly, we will report on the experiences of our audience members and workshop participants. Our aim here is to show that our practices, while remaining faithful to the spirit of live coding, produce a result that can be appreciated by most members of our audience.
+

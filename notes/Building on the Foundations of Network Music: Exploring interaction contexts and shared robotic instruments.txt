@@ -1,0 +1,14 @@
+Reading: Building on the Foundations of Network Music: Exploring interaction contexts and shared robotic instruments
+
+Author: O Vallis
+
+Units: 0.36666666666667, Zone:network music
+
+Bibliography:Vallis, O., Diakopoulos, D., Hochenbaum, J., & Kapur, A. 2012. Building on the Foundations of Network Music: Exploring interaction contexts and shared robotic instruments. Organised Sound, 17(1). pp. 62-72
+
+Links:https://www.cambridge.org/core/journals/organised-sound/issue/26EF35D19AC693D2DF3DC7B75F7D69CD
+
+
+Notes:
+
+Historically, network music has explored the practice and theory of interconnectivity, utilising the network itself as a creative instrument. The Machine Orchestra (TMO) has extended this historical idea by developing the custom software suite Signal, and creating a shared, social instrument consisting of musical robotics. Signal is a framework for musical synchronisation and data sharing, designed to support the use of musical robotics in an attempt to more fully address ideas of interconnectivity and embodied performance. Signal, in combination with musical robotics, also facilitates the exploration of interaction contexts, such as at the note level, score level and sound-processing level. In this way, TMO is simultaneously building upon the historical contributions and developing aesthetics of network music.

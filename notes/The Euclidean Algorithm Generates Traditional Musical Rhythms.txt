@@ -1,0 +1,14 @@
+Reading: The Euclidean Algorithm Generates Traditional Musical Rhythms
+
+Author: Godfried Toussaint
+
+Units: 0.33333333333333, Zone:live coding
+
+Bibliography:Toussaint, Godfried. 2003. The Euclidean Algorithm Generates Traditional Musical Rhythms. School of Computer Science, McGill University Montréal, Quebec, Canada.
+
+Links:http://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf
+
+
+Notes:
+
+TheEuclideanalgorithm(whichcomesdowntousfromEuclid’sElements) computesthegreatestcom-mondivisoroftwo givenintegers.It is shownherethatthestructureoftheEuclideanalgorithmmaybeusedtogenerate,veryefficiently, a largefamilyofrhythmsusedastimelines(ostinatos), insub-SaharanAfricanmusicin particular, andworldmusicin general.Theserhythms,heredubbedEuclideanrhythms,have thepropertythattheironsetpatternsaredistributedasevenlyaspossible.Euclideanrhythmsalsofindapplicationin nuclearphysicsacceleratorsandin computerscience,andarecloselyrelatedto severalfamiliesofwordsandsequencesofinterestin thestudyofthecombinatoricsofwords,suchasEuclideanstrings,towhichtheEuclideanrhythmsarecompared

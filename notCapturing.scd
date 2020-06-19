@@ -1,35 +1,91 @@
-(
+(// for individual entries
+~biblio= "Couldry, Nick, and Ulises A. Mejias. 2019. 'Data colonialism: Rethinking big data’s relation to the contemporary subject'. Television & New Media 20, no. 4. pp. 336-349";
+
 ~notes.(
-	"Musical implications of media and network infrastructures Perturbations of traditional artistic roles",
-	"Atau Tanaka",
-	"network music",
-	9,
-	"Tanaka, A. 2001. Musical implications of media and network infrastructures Perturbations of traditional artistic roles.", // biblio
+	"Data colonialism: Rethinking big data’s relation to the contemporary subject",
+	"Nick Couldry & Ulises A. Mejias",
+	"network technology",
+	~idPages.(~biblio),
+	~biblio, // biblio
 	"", // url
 	True,
 	"
-The influence of hypermedia on musical artistic practice is considered. Qualities unique to hyperlink listener interaction and network infrastructure are taken as the fundamental basis to define a musical language for the medium. Network topology creates a space distinct from the time-specific event space traditionally associated with musical performance. Hypermedia access makes the listener a participant in an evolutionary compositional process. This situation puts in question traditional roles of composer and performer. Two network music works are discussed, an installation that juxtaposes network and acoustic space, and a net.audio project where the composer's role becomes one of creating an empty musical shell.
+
 "
 )
 )
+
+
+McMahon, Rob. "From digital divides to the first mile: Indigenous peoples and the network society in Canada." International Journal of Communication 8 (2014): 25.
+
+
+
+
+(// for book chapters
+~chapters= [
+	["Introduction", "Introduction", "pp. 1-43"],
+	[4, "Tactic shadows and new media", "pp. 284-321"]
+];
+
+~chapters.collect({|item|
+
+	~notes.(
+		item[1].asString,
+		"Caleb Kelly",
+		"sound studies",
+		~countPages.(item[2].asString),
+		"Kelly, Caleb. 2009."++ item[1].asString ++"Chapter "++ item[0].asString++ "Cracked Media: The sounds of malfunction. MIT Press"++" " ++item[2].asString, // biblio
+		"https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxlbGluc3RhbnRlZGVzaXNpZm8zfGd4OjZiMmVmNzI0MmVmMmFhMTE", // url
+		True,
+		"
+cracked media
+
+"
+)
+
+})
+)
 ~order.("listaOrdenada");
 
+~query.("live coding")  // 25 units for network and live coding music  // 5 units to spare in something else
 ~query.("network music")
 
-"Migone, Christof. 2012. 'Soundtimeslanguage' Chapter 3 in sonic somatic: performances of the unsound body. Errant Bodies Press."
+~query.("sound studies")
+
+~lookFor.("Building on the", "reading")
 
 
-// Jeff and McLean "speaking codes book"
-// Handbook of algorithmic muisc
+~query.("live coding").collect({|item|  item[1].postln})
 
-// network music will involve technichal discussion
-
-// technique after this.
+~query.("network music").collect({|item|  item[1].postln})
 
 
+~query.("network technology").collect({|item|  item[1].postln})
+
+
+// meeting
+
+// scope of the field survay and topic paper.
+
+// talk a little bit in depth about my phd work. conferences, concerts, etc.
+
+// talk about the list and how to make it more accurate.
 
 
 
+
+// nime proceedings check for lc and nm
+
+// isea proceedings telematics
+
+// audible empire!!!
+
+// less ascott and more stuff for telematic art
+
+// internet art and net art!!!!!!
+
+
+// virtual reality in relationship with VR.
 
 
 

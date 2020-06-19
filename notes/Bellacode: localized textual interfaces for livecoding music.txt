@@ -1,0 +1,14 @@
+Reading: Bellacode: localized textual interfaces for livecoding music
+
+Author: Luis Navarro del Angel & Marianne Teixido & Emilio Ocelotl & Ivanka Cotrina
+
+Units: 0.3, Zone:live coding
+
+Bibliography:Del Ángel, Luis N., Teixido, Marianne, Ocelotl, Emilio and Cotrina, Ivanka. 2019. 'Bellacode: localized textual interfaces for livecoding music'. Proceedings of the Fourth International Conference on Live Coding. Madrid.
+
+Links:https://iclc.toplap.org/2019/papers/paper111.pdf?fbclid=IwAR2-VZoiRbfegvhfsrj_qHdwxDa9TUlotStWpyM5K6OuTfw3S6spmP8oJvQ
+
+
+Notes:
+
+In   May   2018,   the   collective   RGGTRN   presented   a   series   of   live   coding   workshops   focused   on   thedevelopment of localized live coding esolangs, targeting the underlying affordances of TidalCycles via theEstuary web-based environment. This paper focuses on the interpretation of the live coding esolangs LaCalle and Sucixxx created during the workshops. We expose these languages here as they engage critically with both live coding practice and the specificity of the artist-programmer. This paper ends with a brief analysis of an anonymous survey deployed during the workshops and a brief discussion of future work.On the basis of this account, we suggest localization as an aspect to be further explored in live codingpractice.
