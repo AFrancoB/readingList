@@ -1,56 +1,74 @@
 (// for individual entries
-~biblio= "Couldry, Nick, and Ulises A. Mejias. 2019. 'Data colonialism: Rethinking big data’s relation to the contemporary subject'. Television & New Media 20, no. 4. pp. 336-349";
+
+~biblio= "Dean, Jodi. 1984. 'Of Other Spaces: Utopias and Heterotopias' Trans. Jay Miskowiec. AMC: Architecture / Mouvement / Continuité 5 (1984): pp. 46-49";
 
 ~notes.(
-	"Data colonialism: Rethinking big data’s relation to the contemporary subject",
-	"Nick Couldry & Ulises A. Mejias",
-	"network technology",
+	"Of Other Spaces: Utopias and Heterotopias",
+	"Michel Foucault",
+	"time studies",
 	~idPages.(~biblio),
 	~biblio, // biblio
 	"", // url
 	True,
 	"
-
 "
 )
 )
 
-
-McMahon, Rob. "From digital divides to the first mile: Indigenous peoples and the network society in Canada." International Journal of Communication 8 (2014): 25.
 
 
 
 
 (// for book chapters
 ~chapters= [
-	["Introduction", "Introduction", "pp. 1-43"],
-	[4, "Tactic shadows and new media", "pp. 284-321"]
+	[1, "Lived Time and Polytemporality", "pp. 25-47"],
+	[5, "Generational Time", "pp. 119-141"],
+	["Conclusion", "Conclusion", "pp. 143-146"]
 ];
 
 ~chapters.collect({|item|
 
 	~notes.(
-		item[1].asString,
-		"Caleb Kelly",
-		"sound studies",
+		item[1].asString ++ " book: Feminism, Time, and Nonlinear History. Breaking Feminist Waves",
+		"Victoria Browne",
+		"time studies",
 		~countPages.(item[2].asString),
-		"Kelly, Caleb. 2009."++ item[1].asString ++"Chapter "++ item[0].asString++ "Cracked Media: The sounds of malfunction. MIT Press"++" " ++item[2].asString, // biblio
-		"https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxlbGluc3RhbnRlZGVzaXNpZm8zfGd4OjZiMmVmNzI0MmVmMmFhMTE", // url
+		"Browne, Victoria. 2014."++ item[1].asString ++"Chapter "++ item[0].asString++ " in Feminism, Time, and Nonlinear History. Breaking Feminist Waves. Palgrave Macmillan, New York"++" " ++item[2].asString, // biblio
+		"https://www.dukeupress.edu/in-the-meantime", // url
 		True,
 		"
-cracked media
-
 "
 )
 
 })
 )
+
+
 ~order.("listaOrdenada");
 
 ~query.("live coding")  // 25 units for network and live coding music  // 5 units to spare in something else
 ~query.("network music")
 
+9.8666666666667 + 15.6 + 13.899966666667 + 12.966666666667 + 33.629993333334 + 33.746703333333
+// bin of lc nm: 26.4 units
+
 ~query.("sound studies")
+~query.("time studies")
+
+13.89 + 12.96
+
+25.4 + 26.85 + 33.62 + 33.74
+
+// bin of sound / time studies: 19.1
+
+~query.("network technology")
+
+// bin of net tech: 47
+
+~query.("theory")
+
+// bin of theory: 54
+468 + 339
 
 ~lookFor.("Building on the", "reading")
 
@@ -63,42 +81,61 @@ cracked media
 ~query.("network technology").collect({|item|  item[1].postln})
 
 
-// meeting
-
-// scope of the field survay and topic paper.
-
-// talk a little bit in depth about my phd work. conferences, concerts, etc.
-
-// talk about the list and how to make it more accurate.
 
 
 
+// Music practices: Live Coding and Network music
 
-// nime proceedings check for lc and nm
+11.3 + 15.6
 
-// isea proceedings telematics
+26.9
 
-// audible empire!!!
+// sound and time studies
 
-// less ascott and more stuff for telematic art
+13.666 + 12.9666
 
-// internet art and net art!!!!!!
+26.6
+
+// theory
+
+34.4
+
+// network, infrastructure and software studies
+
+33.6
+
+33.6 + 34.4 + 26.6 + 26.9
+
+// total
+((((121.5 * 30) / 3)) / 8) /5
 
 
-// virtual reality in relationship with VR.
+1215 / 16
+
+// Plan:
+
+July and August I have to read 150 pages per week; 30 pages a day not counting sat and sun
+
+September to December I have to read 75 pages per week; 11 pages every day
+
+January and February I have to read 130 pages per week; 26 pages a day not counting sat and sun
 
 
 
+// education course // this goes to:
+
+// design a teaching phillosophy and syllabus!!
+
+// knwoledge transmission: zero workshops?
+
+// from spet: once a month meet with cometi members (separately)!!!
 
 
+// synthesise your readings to add up to a broader argument
 
+// include as much as possible for the exams
 
-
-
-
-
-
-
+// map de imagined fields and what arguments emerge?!?!?
 
 
 

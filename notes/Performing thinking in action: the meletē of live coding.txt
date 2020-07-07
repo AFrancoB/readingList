@@ -12,3 +12,282 @@ Links:http://irep.ntu.ac.uk/id/eprint/32025/
 Notes:
 
 Within this article, live coding is conceived as a meletē, an Ancient Greek term used to describe a meditative thought experiment or exercise in thought, especially understood as a preparatory practice supporting other forms of critical — even ethical — action. Underpinned by the principle of performing its thinking through 'showing the screen', live coding involves 'making visible' the process of its own unfolding through the public sharing of live decision-making within improvisatory performance practice. Live coding can also be conceived as the performing of 'thinking-in-action', a live and embodied navigation of various critical thresholds, affordances and restraints, where its thinking-knowing cannot be easily transmitted nor is it strictly a latent knowledge or 'know how' activated through action. Live coding involves the live negotiation between receptivity and spontaneity, between the embodied and intuitive, between an immersive flow experience and split-attention, between human and machine, the known and not yet known. Moreover, in performing 'thinking-in-action', live coding emerges as an experimental site for reflecting on different perceptions and possibilities of temporal experience within live performance: for attending to the threshold between the live and mediated, between present and future-present, proposing even a quality of atemporality or aliveness.
+
+
+--------------------
+
+So there are three terms here to distinguish:
+
+performing-of-thinking. This concept refers mostly to the 'show us the screens' of live coding. In which thinking the performance is part of the performance. The computational process is in the fore along with the audiovisual effects (the result of the thinking).
+
+thinking-in-action. This refers to the thoughts that emerge from acting. The immanent critical thinkign that comes with live coding praxis. This is where the kairotic timeliness comes into play. 
+
+meletē  : my own interest is also in how the performing of
+thinking practised within live coding might even augment other forms of critical action, cultivating the
+potential of a more ethical — perhaps even resistant — mode of human agency and subjectivity. Thsi is why it is relevant to observe live coding as a thought-experiment.
+
+Melete is a reflexive process. A way of thinking that is defined by Foucault.
+
+A miniature thatv allows us to think in a more simple way of broader processes.
+
+Melete are live action that are not withdrawn to the private. This activities of public thinking through exercise (thought experiments) prepare the person to engage with a broader context. 
+
+
+
+
+--------------------
+
+Imagining live coding as a meditative thought experiment!!
+
+"preparatory practice supporting other forms of critical — even ethical — action"  <- this can be used to claim that the strategies and technologies I will design can enact and tackle broader questions. Questions of critical importance.
+
+
+Again, Cocker emphasis the visibility of the thought process in the "show us the screens" of live coding.
+
+‘thinking-in-action is a very relevant term. 
+
+(Cocker, 2016, 104)
+"I explore how the process-oriented performativity of live coding relates to wider debates concerning the
+epistemic — even aesthetic-epistemological — potential of artistic endeavour"
+
+
+Here live coding is defined as multimoda: textual, visual, aural, mathematic, etc.
+
+Ideas of reflecivity can be implied from cocker's description of live coding.
+
+(Self) Reflexibity . writing and modifying a program while running it. Evokes the notions of reflexivity explored by Jodi Dean.
+
+"Performing its thinking through the ‘showing of the screen’"
+
+Performing its thinking through showing of the screen!!!!!!!!!!!!!!! Be aware of this reflecivity it is related to Jodi Dean!!!
+
+The computatgional process is in the fore along with the audiovisual side-effects!!
+
+"Analogous to the
+pulsing live body within other forms of performance, the flashing cursor marks the point of decision-
+making — of consciousness perhaps — within the live programming of code; the movement of the
+coder’s thinking as its oscillates between sense-making through the discontinuous, abstract notational
+form of code and the ‘continuous’ — even sensuous — experience of coding as a lived experience."
+
+Emphasis given to the multimodality of live coding
+
+"Indeed, rather than simply ‘users’ of existing software
+products (whose source code remains hidden, inaccessible, undisclosed) for some live coders the
+production of the programming language itself is often an intrinsic part of practice and performance."
+
+Then the question of reflexivity is discussed further:
+
+Moreover, he argues that the ‘decisive epistemic modus’ through which art
+performs, presents and exhibits its ‘work in the work’ is always one of showing: ‘we are dealing with
+“showings” that in equal measure reveal something and show themselves while in showing, hold
+themselves back [...] their métier is not representation, but presence’
+
+Yet it is never clear what (quid) it is, only that (quod) it is’
+
+
+What live coding is concerned is that of circulation rather than what is being circulated?
+
+Here is the key to express live coding in terms of communicative capitalism as proposed by Jodi Dean:
+
+(Cocker, 2016, 106)
+"Conceived in this sense, the performative
+act of ‘showing the screen’ within live coding might be considered less a device for revealing to an
+audience what or how something is unfolding (where meaning is legible at the level of linguistic or
+methodological reasoning), but purely that something is unfolding, the revelation of artistic thought ‘in
+action’ with, in and through the materiality and mediality of the performance itself."
+
+Exploring the potential of the what if. The effects of the process rather than the designed plan of it.
+
+Aesthetic critique can be made here. Lack of comitment of a critique and jumping around through various possibilites.
+
+What if of speculative experimentation!!!
+
+Live coding is a liminal practice in various senses and in many ways.
+
+live coding performance is not one of simply showing one’s
+expertise (as rehearsed and scripted), but also seeks to create the germinal conditions wherein something
+unplanned for or unanticipated might arise.
+
+They argue that whilst such principles of ‘thinking through doing’ are often associated with a ‘largely
+negative lexicon’ (the uncertain, invisible, incomprehensible), at other times, ‘not knowing is not only to
+be overcome, but sought, explored and savoured; where failure, boredom, frustration and getting lost are
+constructively deployed’
+
+Fetishism of failure and the limits of this thinking!!!***** <- consider this for a broader criticism of live coding
+
+Disclosure of the thinking process and the production process of a performance.
+
+Reflexivity that allows the documentation of the unfolding of its own existence.
+
+Live coding is self reflective in more registers than a 'common arte work'
+
+(Cocker, 2016, p. 110)
+one might situate live coding within a wider lineage of post-1960s performance practices, which reject
+virtuosity (and its wilful concealment of the practise or effort), instead exposing the mechanisms of
+production, including the incorporation of rehearsal and preparation into the space-time of the
+performance itself
+ 
+^This sort of clashes with Collins practice observations on live coding
+
+What emerges through live coding is a form of knowledge capable of working within situations
+that are newly encountered and not already known, or rather a mode of knowing that is activated and
+emerges simultaneous to the situation in which it is finds itself, and that alone is adequate to the task of
+responding to that situation
+
+^exploration of the new, 
+
+
+excerpt from cocker:
+
+This mode of knowledge as ‘intensification’ refuses the paradigm of commodification which is all too easily reabsorbed by capital but rather as Alain Pottage argues, its ‘power exists only en acte, or in actu, (which) is to say — in language
+closer to Spinoza ... that is ‘is’ only in the process of its exercise’ (1998, 22)
+
+
+Not a knowledge that is easily banked and transferable then, but rather acquired through practice, moreover, activated only in-and-through practice. In these terms, the epistemological significance of live coding is not just in its ‘performing thinking’ in action (showing its thinking as a live event, the ‘making visible’ of the ‘work of work’), but also in how it performs ‘thinking-in-action’ (where the specificity of its thought remains immanent and not anterior to the performance itself)
+
+
+
+Here the author introduces kairotic thinking and elaborates on it properly.
+
+Emphasis on the rhythmic slowing down that opens the moment to a register that allows other kind of decisions to be made.
+
+The three presents of Husserl:  present-of-thepresent moment, retetion/past of the present moment and protention future of the present moment.
+
+Live coders inhabit the future-of-the-present moment and the present-of-the-present moment.
+
+**** Live coding is future-oriented then.
+
+‘Only if we open ourselves up to a time in which
+the future plays a structuring role in the value and effectivity of the past and present can we revel in the
+indeterminacy, the becoming, of time itself’ (Grosz, 1999, 11). For Grosz, this practice of leaning into the
+future has epistemological as well as ethics implications — she asks:
+‘What would a science or a body of knowledge be like that, instead of invoking the
+criteria of repeatability and the guarantee of outcomes ... sought to endlessly
+experiment without drawing conclusions? Would such a science approximate the
+singularity and uniqueness of art or intuition? Could experimental techniques
+themselves be derived experimentally, artistically, inventively, nonteleologically?’
+(1999, 11).
+
+Summary, Cocker enages with the way live coding is: 
+performing-of-thinking in action within live coding (a making visible of its working process
+including the states of uncertainty and not knowing) and its performing of thinking-in-action (which
+refers more explicitly to the immanent and even kairotic nature of a mode of thought emerging
+synchronous to the performance itself)
+
+
+my own interest is also in how the performing of
+thinking practised within live coding might even augment other forms of critical action, cultivating the
+potential of a more ethical — perhaps even resistant — mode of human agency and subjectivity. Thsi is why it is relevant to observe live coding as a thought-experiment.
+
+Melete is a reflexive process. A way of thinking that is defined by Foucault.
+
+A miniature thatv allows us to think in a more simple way of broader processes.
+
+Melete are live action that are not withdrawn to the private. This activities of public thinking through exercise (thought experiments) prepare the person to engage with a broader context
+
+(Cocker, 2016, p. 115)
+meletē of live coding can be
+conceived explicitly as a praxis, where its mode of thought is less concerned with the development of
+theoretical knowledge (theoria), nor solely with a mode of making or production (poiēsis), but rather its
+thinking-in-action is inherently related to the enactment and exercise of a politics of action, moreover, of
+ethical-political action
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

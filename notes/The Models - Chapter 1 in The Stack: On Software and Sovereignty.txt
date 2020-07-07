@@ -1,0 +1,18 @@
+Reading: The Models - Chapter 1 in The Stack: On Software and Sovereignty
+
+Author: Benjamin Bratton
+
+Units: 2.4666666666667, Zone:network technology
+
+Bibliography:Bratton, Benjamin H. 2016. 'The Models' Chapter 1 in The Stack: On Software and Sovereignty. The MIT Press. pp. 1-74
+
+Links:https://dl.acm.org/doi/book/10.5555/3019193
+
+
+Notes:
+
+
+Notes:
+
+In The Stack, Benjamin Bratton proposes that these different genres of computation -- smart grids, cloud platforms, mobile apps, smart cities, the Internet of Things, automation -- can be seen not as so many species evolving on their own, but as forming a coherent whole: an accidental megastructure called The Stack that is both a computational apparatus and a new governing architecture. We are inside The Stack and it is inside of us. In an account that is both theoretical and technical, drawing on political philosophy, architectural theory, and software studies, Bratton explores six layers of The Stack: Earth, Cloud, City, Address, Interface, User. Each is mapped on its own terms and understood as a component within the larger whole built from hard and soft systems intermingling -- not only computational forms but also social, human, and physical forces. This model, informed by the logic of the multilayered structure of protocol 'stacks,' in which network technologies operate within a modular and vertical order, offers a comprehensive image of our emerging infrastructure and a platform for its ongoing reinvention. The Stack is an interdisciplinary design brief for a new geopolitics that works with and for planetary-scale computation. Interweaving the continental, urban, and perceptual scales, it shows how we can better build, dwell within, communicate with, and govern our worlds.thestack.org 
+

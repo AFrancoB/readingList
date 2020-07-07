@@ -1,19 +1,18 @@
-Reading: Assembly
+Reading: We, Machinic Subjects - Chapter 7 in Assembly
 
 Author: Michael Hardt & Antonio Negri
 
-Units: 1.25, Zone:theory
+Units: 0.6, Zone:theory
 
-Bibliography:Hardt, Michael. & Negri, Antonio. 2017.  How to open a property to the common. Chapter 6 in Assembly.  New York :  Oxford University Press
+Bibliography:Hardt, Michael. & Negri, Antonio. 2017.  We, Machinic Subjects. Chapter 7 in Assembly.  New York :  Oxford University Press. pp. 107-124
 
 Links:https://blogs.lse.ac.uk/lsereviewofbooks/2018/01/31/book-review-assembly-by-michael-hardt-and-antonio-negri/
 
-Hardt, Michael. & Negri, Antonio. 2017.  How to open a property to the common. Chapter 6 in Assembly.  New York :  Oxford University Press. pp. 85-106
-Hardt, Michael. & Negri, Antonio. 2017.  We, Machinic Subjects. Chapter 7 in Assembly.  New York :  Oxford University Press. pp. 107-124
 
 Notes:
 
 To read: Chapter 6 (How to open property to the common) pages 85-106 and chapter 7 pages 107-124 (We, Machinic Subjects)
 
 However, Chapter Seven, ‘We, Machinic Subjects’, provides a glimpse of the resignation and complacency veiled in the paroles of revolutionary activism. The chapter begins with a call to reconceptualise the relationship between humans and machines: ‘Instead of rejecting technology […] we must start from within the technological and biopolitical fabric of our lives and chart from there a path of liberation’ (107). The authors bring together Martin Heidegger, Theodor Adorno and Max Horkheimer and criticise them for ‘positing an ontological division and even opposition between human life and machines’ (109) in the wake of the Second World War. Instead, Hardt and Negri follow Gilles Deleuze and Félix Guattari in arguing that humans and machines belong on the same ‘ontological plane’ (122) and form ‘machinic assemblages’ (121). This is intended to provide the principles of a ‘humanism after the critical adoption of the Nietzschean declaration of the ‘‘death of man’” (121). The future of revolutionary politics thus resides in properly acknowledging the inseparability of humankind and machine, of accepting our ontological position as ‘machinic subjects’.
+
 

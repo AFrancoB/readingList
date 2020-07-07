@@ -1,0 +1,15 @@
+Reading: Conceiving Open Systems book: Two bits: The cultural significance of free software
+
+Author: Christopher Kelty
+
+Units: 1.2, Zone:time studies
+
+Bibliography:Kelty, C. M. 2008.Conceiving Open SystemsChapter 5in Two bits: The cultural significance of free software. Durham: Duke University Press. pp. 143-178
+
+Links:https://www.twobits.net/pub/Kelty-TwoBits.pdf
+
+
+Notes:
+
+For Christopher M. Kelty, the history, existence, and proliferation of Free Software is a story of an exemplar recursive public. A recursive public is a public invested in maintaining an affinity—an imaginary of a moral and technical order that   brings   people   together   and   is   “constituted   by   a   shared   concern   for maintaining  the  means  of  association  through  which  they  come  together  as  a public”  (p.  28).  In  the  case  of  Free  Software,  it  is  this  affinity  towards  the modifiability of its existence that makes its grouping as a public possible.  Kelty  is  quick  to  show  that  the  Internet  alone  is  not  a  recursive public. Instead,  the  Internet  is  a  medium  for  which  a  public  can  come  together:  it  is infrastructure.  Infrastructure  is  said  to  have  three  main  components:  artifacts  or devices  that  convey  information;  activities  or  practices  that  involve  engagement or  sharing;  and  social  arrangements  or  organizational  forms  that develop  around the  first  two  (Lievrouw  &  Livingstone,  2003,  pp.  2-3). Two  Bits  presents  Free Software as a kind of “collective technical experimental system” amongst/built by “geeks”  that  is  made  up  of  five  ongoing  and  embedded  practices  (p.  15). In  the book, Kelty discusses how geeks have “figured out” these practices as a recursive public  and  how  the  practices  have  spread/proliferated  into  other  online projects like Connexions (an academic commons community). Listed respectively, the five practices  that  make  Free  Software  recursive  are:  (1)  fomenting  the  (open  source software)  movement,  (2)  sharing  source  code,  (3)  conceptualizing  open  systems, (4) writing licenses, and (5) coordinating collaborations. 
+

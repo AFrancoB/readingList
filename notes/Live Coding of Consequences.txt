@@ -12,3 +12,76 @@ Links:https://composerprogrammer.com/research/livecodingpractice.pdf
 Notes:
 
 The fast pace of computerized life has provoked equally dy-namic artistic responses. In one current of contemporary per-formance practice, usually termed “live coding,” the actors seem to take their relationship with computers to a natural conclusion. In intimate portraits of human and machine, they accept the challenge of programming on the spot, typically for an audience in a concert setting. Although there are gentler slopes away from the hot lights, where live coding is just inter-active code prototyping on interpreted systems or a networked chatter, many liberating stresses and radical joys have come out of the explicit live scene. Usually, the programming is carried out within some sort of arts programming environment, such that the program output affects audio and visuals and the op-erator projects his/her screen during performance to make the process (in principle) transparent. From being intently hunched within the creation and manipulation of computer code to acting and dancing through algorithmic rules away from computer screens, the human operator’s role is critical. This article will explore many rich veins of work within this scene, acknowledge many historical precedents, touch upon the inter-relation of human and machine rules and, possibly, not proceed in quite the manner expected of it.
+
+-----------------------------
+
+The relationshio computer-artists seems to be naturalised in the figure of the live-coder.
+
+(Collins, 2011, p. 207)
+Although there are gentler
+slopes away from the hot lights, where live coding is just inter-
+active code prototyping on interpreted systems or a networked
+chatter, many liberating stresses and radical joys have come out
+of the explicit live scene
+
+This joys are related to the enjoyment of the affection network of communicative capitalism!!
+
+Attention: there are some definitions of live coding which are interesting here!!
+
+
+1. Live electronic music used to define the algorithms to manipulate live before the concert, live coding new feature is that even this algorithm now can be manipulated live!!
+
+2. Digital content is created through computer programming as a performance. <- this is my casual and go-to definition of live coding.
+
+Other definitions are given that emphasis something:
+
+The possibility to change the rules of the system while executing the system.
+
+FORTH coding in the 80s, Ron Kuvila made a first live coding show in 1985 in this context.
+
+The point of the article seems to be the emphasis on human decision-making processes against the rigidity of instructions given to a computer system.
+
+*****
+Humans acting against their computer programs!!!
+
+
+Some precedents to algorithmic composition are mentiones: Guiddo D'Arezzo is one, literary figures and texts like COrtazar or Herman Hesse's Glass Bid Game.
+
+
+So the hsitory of this thing: In 2000 musicians were aware of the need to project the screens to show people that they were actually performing. In 2004 TOPLAP was founded in Hamburg in the "changing grammars" festival.
+
+
+Confrontation is in the heart of live coding ¿? 
+The more profound the
+live coding, the more a performer must
+confront the running algorithm, and
+the more significant the intervention in
+the works, the deeper the coding act.
+
+
+Collins claims that live coding relies in the interaction with a system of rules that is designed int he first place to be broken.
+
+'raising sociopolitical and technological issues'
+
+'maximise the potential to change our mind'
+
+live coding: all the permutations of the human amongst the algorithms  <- taken from collins be sure to not write this down
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

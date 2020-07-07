@@ -1,0 +1,22 @@
+Reading: The Cultural Critique of Intellectual Property Law - Conclusion in Coding Freedom: The Ethics and Aesthetics of Hacking
+
+Author: Gabriella Coleman
+
+Units: 1.2666666666667, Zone:network technology
+
+Bibliography:COLEMAN, E. 2013. 'The Cultural Critique of Intellectual Property Law' Conclusion in Coding Freedom: The Ethics and Aesthetics of Hacking. PRINCETON; OXFORD: Princeton University Press. pp. 123-160
+
+Links:https://gabriellacoleman.org/Coleman-Coding-Freedom.pdf
+
+
+Notes:
+
+Bookreview by Elizabeth Yaniga: https://sites.uci.edu/technoethno/2014/05/27/review-coding-freedom-the-ethics-and-aesthetics-of-hacking-by-gabriella-coleman/
+
+ Gabriella Coleman attempts to address these questions through an ethnographic exploration of the open-source software movement and the hackers who strove to maintain it through the late 90’s and early 2000’s. Her inquiry is a well-articulated exploration of the implications of hacker culture and work, as she identifies the tension between liberalism and romantic individualism inherent in the hacker ethic and identity. Most importantly, Coleman points out a glaring contradiction inherent to information capitalism. She identifies that speech, notably the exchange of ideas upon which information capitalism depends for its vitality, must remain free. However, intellectual property, or the commodification of these ideas, is one of the fundamental tenets of the neoliberal system.  For Coleman, the portrait of the Open Source hacker is an illustration of this tension and the potential for its resolution.
+
+Open Source Software and the hackers that produce it are extremely invested in the idea that in order for good code to continually be produced, it must be shared and built upon as a communal and open process. According to this ethic, this is how the best code gets written. Coleman further explores this productive process in her third and fourth chapters
+
+In her final chapter Coleman suggests that this use of the liberal tradition, which is at the center of American identity and in many ways is popularly unquestioned, allowed the movement to frame itself in terms that left it unscathed in debates between the left and the right typical in the contemporary neoliberal context (accusations of communism did not stick, for example). It is here that she returns to her originating question regarding the tension between enclosure and openness in information capitalism, and the case study of the Open Source Software hacker as illustrative of how it is most recently mitigated via the employment of the liberalist rhetoric of freedom (namely free speech) and autonomy within a neoliberal structure of productive relations.
+
+

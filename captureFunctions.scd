@@ -1,12 +1,58 @@
-// Book Capture page
-
-// Theory:
-
-// Anthony Faramelli: "Resistance, Revolution and Fascism Zapatismo and Assemblage Politics",
-//                    "Digital Resistance"
-
 
 ~path = thisProcess.nowExecutingPath.dirname;
+
+// function to count units read
+/*~count*/
+
+
+/*// function to scratch readings
+~out = {};*/
+
+
+
+~defListEntries = { |listName|
+
+	var path = ~path;
+	var list = CSVFileReader.read(path++"/"++listName++".csv"); // extract the name of the notes from a list
+
+	var getName = list.collect({|item|   item[0][1..]   })[1..];
+
+	var extractFromNotes;
+
+	extractFromNotes = getName.collect({|item, iter|
+
+		var fromFile = TabFileReader.read(path++"/notes/"++item.asString++".txt");
+
+		fromFile[0]++"\n"++fromFile[2]++"\n"++fromFile[4]++"\n"++fromFile[6];
+	});
+
+	extractFromNotes
+};
+
+//~defListWriter.(~defListEntries.("listaOrdenada"), "definitiveList_AFB");
+
+~defListWriter = {|listOfEntries, nameOfList|
+
+	var path = ~path;
+	var filePath = path++"/"++nameOfList++".txt";
+	var newFile = File(filePath,"w");
+	var defList = newFile.write("Reading list - Alejandro Franco Briones" ++ "\n" ++ "\n");
+
+	defList.close;
+
+	listOfEntries.collect({|item,iter|
+
+
+		var orderedFile= File(filePath, "a");
+		orderedFile.write((iter+1).asString ++ " " ++ item.asString.replace("[", "- ").tr($],$\n)++"\n");
+		orderedFile.close
+
+
+	})
+
+
+};
+
 
 
 ~notes = {|name, author, zone, pages, biblio, links, list, notes|

@@ -1,0 +1,318 @@
+Reading: What now, what next—kairotic coding and the unfolding future seized
+
+Author: Emma Cocker
+
+Units: 0.43333333333333, Zone:live coding
+
+Bibliography:COCKER, E., 2018. What now, what next—kairotic coding and the unfolding future seized. Digital Creativity, 29 (1), pp. 82-95. ISSN 1462-6268
+
+Links:http://llr.ntu.ac.uk/rpd/researchpublications.php?pubid=b6df3da5-d532-4a71-8495-20970057eee6
+
+
+Notes:
+
+Drawing on my experience as a critical interlocutor within the AHRC research projects Live Notation: Transforming Matters of Performance (2012) and Weaving Codes | Coding Weaves (2014–2016), in this article, I propose a conceptual framework for considering the challenges and opportunities for kairotic improvisation within live coding, conceived as an embodied mode of imminent and immanent intervention and invention-in-the-middle, a practice of radical timing and timeliness. Expanding my previous reflections on kairotic coding [Cocker, Emma. (2014). 'Live Notation: Reflections on a Kairotic Practice.' In Performance Research Journal, on Writing and Digital Media, edited by Jerome Fletcher and Ric Allsopp, 18 (5), 69–76. London: Routledge; Cocker, Emma. (2016). 'Performing Thinking in Action: The Meletē of Live Coding.' International Journal of Performance Arts and Digital Media 12 (2): 102–116. Cocker, Emma. (2017). 'Weaving Codes/Coding Weaves: Penelopean Mêtis and the Weaver-Coder's Kairos.' Textile 15 (2): 124–141], in this article, I address the kairotic liveness within live coding's improvisational performance by identifying two seemingly contradictory tendencies within this burgeoning genre. On the one hand, there is a call for improved media technologies enabling greater immediacy of semantic feedback supporting a faster, more fluid—perhaps even virtuoso approach to improvisation. Alongside, there remains interest within the live coding community for a mode of improvisational performativity that harnesses the unpredictable, the unexpected or as-yet-unknown. Rather than regard these two tendencies in antagonistic relation, my intent is to invite further debate on how the development of intelligent machines might better facilitate improvisatory flow, without eradicating the critical intervals and in-between spaces necessary for creative invention and intervention, without smoothing away the points of technical resistance and intransigence which arguably form a part of live coding's performative texture.
+
+
+----------------------------------------------------------
+
+This is about kariotic improvisation and how we form futures from it. Is a thorough observation on (british) live coding. Particularly the practice of Alex Mclean.
+
+"conceived as an embodied mode of imminent and immanent intervention and invention-in-the-middle, a practice of radical timing and timeliness"
+
+Key to note: invention in the middle. -- resonates with Deleuze idea of haecceity!!!!
+
+Kairos has two meanings here: A cut, a temporal opening and a 'will to invent' as a response to the temporal opening in the living present.
+
+(Cocker, 2018, p. 83)
+kariotic liveness bound to two contradictions in live coding practice:
+there is a
+call for improved media technologies enabling
+greater immediacy of semantic feedback, a
+shift towards predictive coding modelled on
+previous patterns and habits supporting a faster,
+more fluid—perhaps even virtuoso—species of
+programming improvisation
+
+So, automatised prediction to be faster, more fluid which clashes with the live coding tendency to embrace uncertainty and the yet to be found and known.
+
+(Cocker, 2018, p. 83)
+harnesses the unpredictable, the
+unexpected or as-yet-unknown, where perform-
+ance emerges as a vital site for experimental
+exploration
+
+Two futures emerge here, one that is lineal and is based on the past and another one in which emergence and uncertainty dominate.
+
+Instead of favouring the potential antagonism between the technological improvement and the live coding's potential for emergence, the author attempts to dig further into such tension and observe further.
+
+(Cocker, 2018, p. 83)
+How might technological innovation
+increase the potential for inventive forms of
+improvisatory performance, where a heightened
+level of collaboration or co-improvisation with
+machines allows for the emergence of the unex-
+pected, by combining increased performance
+capacity with a continued embrace of risk and
+uncertainty, error and failure? Indeed, how
+might predictive technologies—perhaps coun-
+ter-intuitively—enable that which cannot be
+predicted in advance, a truly experimental or
+surprising mode of improvisation made poss-
+ible through a more intuitive collaboration
+between human and non-human?
+
+A relevant concept for the author is think-in-action which is defined as: Note: Immanent == intrinsic, inherent, from within, analysing the internal logic of something. Kantean term. Immanent movement of thought refers to: how a thought moves based on its own structure.
+
+(Cocker, 2018, p. 83)
+‘thinkings-in-the-act’ or ‘thought in the act’
+refers to the immanent movement of thought
+as it is performed, activated only in-and-
+through practice.
+
+Cocker's definition of live coding:
+
+(Cocker, 2018, p. 84)
+live coding, a form of digital improvisation
+that explicitly foregrounds the real-time charac-
+ter of computational processes. Broadly speak-
+ing, live coding describes the improvisatory
+composition of predominantly computer-gen-
+erated audio-visual material, where the writing
+of code itself—or other executable instructions
+—is presented as a live event for an audience.
+
+
+Relevant to live coding is not only to show the artist labouring at their computer but it is also an exercise on transparency, "show us your screen", which displays code to give the audience an interface, an access to the performers creative and decision-making process.
+
+Ofte, in live coding the performers create their own software and, while in the performars, such software is running a program without being stopped.
+
+The system that is running is also waiting for new instructions. The program executes itself and waits for new instructions.
+
+The performance and code writting are unseparable. Live coding, also described as on-the-fly is a kariotic improvisatory practice. Cocker framed it as kariotic coding.
+
+Context of live coding in Cocker's research: europe and murika.
+
+experimental spaces... coding as performance. Code becomes the piece, not its 'recording device'.
+
+programming as perform-
+ance art, performance art notation as code,
+code as speech, bodies as interpreters, involving
+improvisational sound works (where computer
+code and the artists’ bodies become instruments)
+
+(Cocker, 2018, p.84-85)
+The model of ‘liveness’ within this project
+privileged the durational, embodied, non-repea-
+table moment of performance, drawing atten-
+tion to an improvisatory species of liveness
+wherein the mode of articulation emerges as a
+live event simultaneous to the unfolding experi-
+ence, rather than as live re-activation of a pre-
+existing script or score that was rehearsed or
+planned in advance.
+
+Emma Cocker is definitively thinking that live coding exists as a always present tense exploration. The time it takes learning to code, the time to gather samples, materials, the time it takes to enable the computer for the performance, the ideas, etc. Disappear and an instant of creative and imaginative production happens.
+
+(Cocker, 2018, p. 85)
+kairotic improvisation, a
+practice alert to the live circumstances of its
+own production, capable of creating the con-
+ditions for whilst simultaneously responding to
+the contingencies within its own emergence.
+
+kairos has many definitions and uses. Here kairos = good timing or the right time!
+
+Not an abstract lienar passage of time but an opening an opportunity a juncture. a convergence perhaps?
+
+Adaptation to an always mutating situation and articulating it with the will to invent!
+
+(Cocker, 2018, p. 85)
+Kairotic improvisation
+involves letting go of or loosening one’s attach-
+ment to any preconceived ideas for the unfold-
+ing of a performance, surrendering to the
+contingencies within each new situation.
+
+
+Even thought the sample-gathering practice is acknolwedge there is still an emphasis in the blank page. 
+
+(Cocker, 2018, p. 86)
+‘has-been’ in order to repeat as
+before, within a kairotic practice the future per-
+formance is ever-emergent, ontologically living
+as much as live
+
+Cocker does not favour spontaneity or originality as a sign of authenticity. 
+
+The future is open insofar the past experience can be actualised in a generqative and emergent way, the future remsains open then.
+
+
+
+‘à-venir surges between the foreseeable, “pro-
+jectable”, “plannable”, and programmable
+future present and the radical future, that is ...
+that which exceeds or is more than this future
+possibility’. The concept à-venir refers to a gap
+or ‘creative interval’ between the ‘as is’ of the
+present and the ‘not yet’ of the future; not the
+‘not yet’ of the future conceived as a continu-
+ation of the present, but rather that of the ‘to-
+come’
+
+
+Antonio Negri the kairos is the time for revolutions:
+
+He describes kairòs as the
+‘restless’ instant where naming and the thing
+named attain existence (in time), for which he
+draws example from the way that the poet
+‘vacillating, fixes the verse’
+
+a point of rupture, of decision. A time of limits, of being in the edge.
+
+Kairos proposes a radical future thatd erives from rupture disconinuity and of necessary intervention.
+
+Nonlinearity of time is related to agency. The temporal realm of uncertainty and futurity is the realm of agency
+
+
+Weaving unveils a history of computation that goes beyond efficiency and mass-production. It tells the story of collaboration and co-operation between human beings and machines.
+
+Tactile understanding of computation.
+
+technology is not so much put to use as
+worked-with, the process unfolding through
+attending to—even collaborating with—the
+resistance exerted by the technology or appar-
+atus rather than conceiving it simply as a tool
+that needs to be brought under control, mas-
+tered
+
+Rather than reducing the role of the
+human operator, live coding requires heigh-
+tened levels of dexterity, attention, cognitive
+agility and tactical intelligence; it is a practice
+of timing and timeliness, of biding one’s time
+and knowing when to act. Kairos is experienced
+in-the-midst-of whilst simultaneously felt as
+out-of-time, the event of kairotic timeliness or
+ex-temporising operating outside or beyond
+the temporal frame of chronos
+
+Flow describes the state of total concentration and immersion that a live coder experience when playing.
+
+Loss of self consciousness when in the flow.
+
+Being in the flow seems effortless but it is not.
+
+But how can kariotic imporvisation take place in such a mediated environment? how can the mediation of language allow somehting like this?
+
+instinctive response can be intuitive!!!****
+
+Live coding is maybe counterintuitive, the outcome of a code often exceeds expectations or go beyond the imagination of the performer (which is why lc may be so rich)
+
+It is relevant to be able to evaluate the outcome of the code being coded as fast as possible. This is a conlfict with the lag between coding and its output.
+
+(cocker, 2018, p.89)
+there are parallel threads of arrhythmic liveness:
+the live (yet arguably no longer live) unfolding
+of the effects generated through the event of cod-
+ing, and the live event of coding writing itself,
+both of which are simultaneously experienced
+by coder-performer and audience
+
+
+(Cocker, 2018, p. 89)
+One response to the ‘problem’ of techni-
+cal latency is a call for improved media technol-
+ogies enabling greater immediacy or ‘timeliness’
+of execution feedback, alongside reducing the
+scope for error, effectively making the perform-
+ance more ‘real-time’, increasing the perception
+of its ‘liveness’.
+
+
+
+Tanimoto developed a system of hierarchical degrees of liveliness:
+
+Level 1 (Informative) no semantic feedback
+
+Level 2 (Informative and Significant) Semantic feedback is available on demmand.
+
+Level 3 (Informative, Significant and Responsive). Incremental semantic feedback is automatically provided and is actualised with new edits.
+
+Level 4 (Informative, Significant, Responsive, and Live). The software would translate automatically any edit into a change in the program
+
+---- Level 5 (tactically prediction) The program runs and predicts the next programers actions
+
+Level 6 would
+involve further ‘intelligent inference of the pro-
+grammer’s intentions or desires’ (Tanimoto
+2013). For Tanimoto (2013), the ‘intelligence
+required to make such predictions into the sys-
+tem is an incorporation of one kind of agency—
+the ability to act autonomously. Agency is com-
+monly associated with life and liveness.   <- Here liveness spreads from the programmer towards the code and the tool themselves.
+
+
+
+
+Level 5 liveness plays in detriment of uncertainty and favours the perfection and efficiency of a 'perfect performance'
+
+(Cocker, 2018, p. 90-91)
+the eradication of error and delay in favour of more
+easily attainable complexity and precision,
+speed and efficiency, productivity and repeatability
+
+At this point, rather than favouring the human-computer relationship and allowing a better and more productive co-operation. The agency of the computer erases the creative power of resistance and failure immanent to such relationship.
+
+Co,puter predictability throws the live coding act towards somethings similar to the identical repetition of the past as it perfects its statistical process it becomes... predictable...
+
+
+Kairos expects new forms of respond to every new situation. It is extremely contingent. Allows us to repudiate the habitual.
+
+In this sense, the predcitive liveness and intelligent computer act as a mirror that pushes the performer into something that cannot be harness by its computational capabilities.
+
+The kairotic moment depends on managing slowness. By slowing down things that are normallly imperceptible come to the fore
+
+In this sense acceleration does not allow intervals of transition (in which we linger and hope). Thus impovirishing our capability to reflect and change.
+
+(Cocker, 2018, p. 92)
+tactical prediction could
+be viewed as an attempt to ‘destroy the temporal
+interval’ at the same time diminish the likeli-
+hood of forgetting.
+
+
+
+Live coding and its tensions with total liveness makes the temporal interval that is referred to visible and attainable.
+
+******  SPACE FOR LISTENING!!! ***** ^^^
+
+(Cocker, 2018, p. 93)
+The challenge then is
+one of leaning towards rather than away from
+the void of the not-yet-known; moreover, to
+resist ‘filling’ that void too hastily with a reper-
+toire of predicted forms and practised rhythms.
+
+Resist to fill that void. The void of unlistening.
+
+****** This is a good way of concluding the notes of this text ***** 
+Thinking kariotically technology allows live coders to use AI agents or predictive tech not to strive towards an idealised and efficient 'perfect performance' but to find a space of co-operation and collaboration with the computer agents that might lead the performer towards unexpected places. Ceasing the kariotic moment of ruptur and jump beyond the edge into the uncertain and the yet-to-be-known.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

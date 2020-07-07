@@ -12,3 +12,125 @@ Links:https://composerprogrammer.com/research/livecodingpractice.pdf
 Notes:
 
 Live coding is almost the antithesis of immediate physicalmusicianship, and yet, has attracted the attentions of a numberof computer-literate musicians, as well as the music-savvyprogrammers that might be more expected. It is within thecontext of live coding that I seek to explore the question ofpractising a contemporary digital musical instrument, which isoften raised as an aside but more rarely carried out in research(though see [12]). At what stage of expertise are the membersof the live coding movement, and what practice regimes mighthelp them to find their true potential?
+
+------------------------------------
+
+(Collins, 2007, 1)
+I wish to discuss the practice of live coding, not only as an
+area of investigation and activity, but also in the sense of
+actually practising to improve ability
+
+Computers and electronic music is ubiquitous, live coding can become a natural way of practicing electronic music performatively.
+
+He talks about balance between coding and musical ideas and bañance between preconcieved material and improvisation with a hint of disatisfaction. 
+
+Programming requires as much time as music to develop as a practice!!
+
+Comparing a violinists to a live coder the coder seems to be much less trained than the violinist
+
+*** why to compare a virtuoso cultural subject with a live coder, that might not be interested in virtuosity?
+
+
+Monitored for a month performance practices....
+
+
+Discuss the controversy of body presence and control (physicality) vs automaticity in which the computer organises the sounds as scored by the programmer.
+
+Dissociate control and physicality!!
+
+
+With practice and knpowing the effects of the code it was possible to exercise control. As Oloffson claims.
+
+
+No interest in a control of note by note stream. But rather control of a more general structure!!!
+
+(Collins, 2007, p. 3)
+In a psychological study of
+developing physical musicianship Nielsen [10, p.289] notes
+that ‘the theory of learning strategies developed in reading,
+mathematics and similar learning areas where the cognitive
+aspects predominate, can be used in a learning area where
+motor performance is critical.’ This raises the possibility that
+perhaps motor musicianship could learn from live coding?
+
+
+
+Automatisation of subtasks!!! <- maybe AI,
+
+free up as many resources as possible to deeper
+algorithmic engagement and long term formal musical
+planning
+
+Further, some live coders have argued that the
+priority is systems development, and that ‘internalising
+musical style through regular practice seems the wrong
+approach, for me at least. What we should be doing i s
+reflecting upon our livecoding style, then externalising b y
+adding functions and operators to our livecoding language of
+choice’
+
+Which means that live coding externalises certain aspects of music creation that are internal.
+
+That is interesting!!!
+
+
+Long term form !!!!!! <- connectivity exercise
+
+Many strategies and tactics to develop ability as a coder are described: for example the cadavre exquisite, orchestra jams, etc.
+
+This paper has been an attempt to discuss certain policies of
+deliberate practice and the potential of future live coding
+concert performances. The stage is waiting for the first true
+virtuoso of algorithm.
+
+
+
+But we
+currently have no master teachers to guide us, and must risk
+the possibility of ineffective practice [8, p.287] whilst
+enjoying the sense of open discovery. Since I’ll never get the
+time to practice properly if I keep writing papers like this, I
+look forward to enrolling in retirement as a mature student at a
+future academy of live coding.
+
+This paper might be usefull to understand what is happening at the NIL, and it relates perfectly with Hernani/Ivan Paz paper on from scratch live coding in  Mexico City and Barcelona. There are weird and unsettling comparisons with classical music and also very weird aspirations to virtuoso cultures that might be a difference between hernani's approach and collins'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

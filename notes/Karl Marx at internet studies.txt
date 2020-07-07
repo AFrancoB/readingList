@@ -14,3 +14,199 @@ Notes:
 Abstract:
 
 The task of this paper is to point out the relevance of Karl Marx for Internet Studies. Marxian  concepts  that  have  been  reflected  implicitly  or  explicitly  in  Internet  Studies  include: (1) dialectics; (2) capitalism; (3) commodity/commodification; (4) surplus value, exploitation, alienation, class; (5) globalization; (6) ideology/ideology critique; (7) art and aesthetics; (8) class struggle; (9) commons; (10) public sphere; (11) communism. The paper provides a literature overview for showing that, and how, Marxian concepts have been used in Internet Studies. Internet Studies to a certain extent analyse the Internet, economy  and  society  in  Marxist-inspired  studies  terms,  yet  do  not  acknowledge  the  connection  to  Marx  and  thus  seem  superficial  in  their  various  approaches  discussing  capitalism, exploitation and domination. We argue that it is time to actively remember that Marx is the founding figure of Critical Studies and that Marxian analyses are crucial for understanding the contemporary role of the Internet and the media in society
+
+
+---------------------------------------------------
+
+The more people spend their time online the more crucial it is t engage with Internet Studies. The economic crisis of 2008 brought to the fore many Marxist ideas and the struggle against capitalism itself.
+
+Does Internet Studies engage implicitly and/or explicitedly with MArxian concepts?
+
+(Fuchs & Dyer-Witheford, 2013, p. 783)
+IS to a certain extent analyse
+the economy and society in Marxist-inspired studies terms, yet do not acknowledge the
+connection to Marx and thus seem superficial in their various approaches discussing
+capitalism, exploitation and domination
+
+
+1. dialectics;
+2. capitalism;
+3. commodity/commodification;
+4. surplus value, exploitation, alienation, class;
+5. globalization;
+6. ideology/ideology critique;
+7. art and aesthetics;
+8. class struggle;
+9. commons;
+10. public sphere;
+11. communism.
+
+(Fuchs & Dyer-Witheford, 2013, p. 784)
+Marx’s own works are shaped by grounded normative judgements (Lukes, 1985) that condemn
+capitalism as oppressive, exploitative, alienating, estranging and heteronomous, and pre-
+sent an alternative vision of a better world (‘the realm of freedom’) that is characterized
+by well-rounded individuality, pluralistic activities, abundance, the abolition of hard
+work and wage labour due to technological productivity, the disappearance of the perfor-
+mance principle and exchange, the free production and distribution of goods (‘from each
+according to his ability, to each according to his needs’), and free time for idle and higher
+activity.
+
+
+Today's state of marxism and today state of capitalism:
+
+- Capitalism is global! :: Marx and Engels emphasised international solidarity
+
+- The importance of technology, knowledge and the media in contemporary society was anticipated by the Marx and Marxian analysis. General intellect, machinery and means of communication
+
+- The generalised misery provoked by neoliberal politics has renewed the categories of class and the idea of class struggle!!
+
+- Current surveillance capitalism renews interest in Marxist theories of Empire!
+
+- The ecological crisis reactualizes a theme that runs throughout Marxian works:
+that there is an antagonism between modern industrialism and nature that results
+in ecological destruction
+
+- Capitalism inherently will provoke crisis liek the one in 2008.
+
+Marxian idea that human emancipation from exploitation, oppres-
+sion, discrimination and the inevitable linkage between privilege and misery can come
+only from struggle by the exploited and disadvantaged themselves
+
+Time has come to take Marx seriously. <- Naise!!
+
+
+So in this text will be shown how Internet shapes and is shaped by capitalism. The dialectic loops between capital and internet and other ICTs.
+
+
+
+Dialectics- every historical process is fluid. Things are never fixed.
+
+digital dialectic --- ??
+
+The text emphasises that dialectics are not deterministic, or causal. *** Important to renovate Marxism
+
+"capitalism is dialectical because of its objective antagonistic
+structures and that the negation of this negativity can only be achieved by human praxis"
+
+
+ONE SHOULD THINK if the INTERNET DIALECTICALLY!!!!!!!!
+
+technology in capitalism as being shaped by an antagonism between pro-
+ductive forces and relations of production
+
+Survelliance by google depends on the freedom of its users to move. But by surveilling and commodifying users this become economically exploited. Should google be abolished or transformed into a publicly organised and controlled search engine?
+
+"The Internet holds at the same time potentials for ‘capitalist spectacle and
+commodification’ and the construction of ‘cybersituations’ that are ‘aimed at progressive
+change and alternative cultural and social forms’ (Best and Kellner, 2001: 237)."
+
+
+Web 2.0 is particularly exploitative. Been watched is a source of exploitation. Internet prosumers generate surplus value.
+
+Terranova: Exploitation of free labour in the internet.
+
+Internet is a playground and a factory, The distinction between work and play is blurred, which creates situations in which it is not clear of we are working or playing.
+
+(Fuchs & Dyer-Witheford, 2013, p. 789)
+"Harvey (1990) says that the rise of a flexible regime of accumulation in combination
+with new communication technologies has brought about a new phase of time–space
+compression of capitalism."
+
+According to Dyer-Witheford (1999: 130), the internet is an electronic pathway that allows the free circulation of money, commoditties and power.
+
+Dean applies the commodity fetishism theorem
+to ‘Internet fetishism’ (Dean, 2005, 2009). She further criticizes the assumption that
+online politics is inherently critical and constitutes relevant political activities as itself
+ideological, arguing that communicative capitalism advances communication without
+communicability (Dean, 2004, 2005, 2009) that frequently ideologically blinds users.
+
+Participatory web is an ideological project. Filling the web with content is in itself a ideologically charged activity that forwards digital forms of capitalist life.
+
+the artistic sphere is one in which the capacities of new
+media technologies are explored, experimented with and put to work. In the abstract, the
+promises of these capacities are familiar: interactivity as a form of empowerment and the
+overcoming of alienation (we come to recognize our own contributions to the products of
+interactive processes); the virtual as a liberation from the physical constraints of the mate-
+rial world; artificial intelligence as the zenith of human creativity and, simultaneously, as a
+means of endowing the inanimate world with our own imperatives and putting it to work.
+It is in the discordance between the claims of autonomy made on behalf of art – the recog-
+nition of the potential that things might be otherwise – and the way in which these claims
+are in practice all too easily folded back into the logic of capital (and its own irrational
+autonomy), that Adorno (1997), drawing on Marx, located the critical potential of art.
+
+******
+The internet can be a means for the circulation of class struggle!!!!!!!!
+
+"Hardt and Negri (2000: 290–294) of ‘immaterial labour’, involved largely in communi-
+cational and computerized work, as the key constituent of a new class composition – ‘the
+multitude’ – challenging global capitalism."
+
+
+As terrestrial enclosures had met with resistances, so some saw
+the cyber-spatial land grab facing a scattered but persistent insurrection that includes
+hacktivism, Free and Open Source Software (FOSS) and Peer-to-Peer (P2P) piracy
+(Dyer-Witheford, 2002).
+
+
+
+Questions of general intellect are particularly relevant for the internet, a space in which knowledge is produced and shared...
+
+
+Contra Hardt and Negri it can be said that some key words are used in a context of 'soft capitalism' to produce a perception of change without actually commiting to it: participation, self-organization and cooperation can become empty troppes very easily in the internet.
+
+What distinguishes Marxist interest in digital commons from liberal and reformist versions of the
+same theme is the insistence that communal ownership of the means of production must
+supersede capitalism.
+
+Productivity increase can be transformed into collective resources and not into profit.
+
+‘open source’ circulation of knowledge and invention would be an important element of new forms of cooperative
+production
+
+Resist commodification, map the already existing struggles all around the internet
+
+via the promise of networked, interactive,
+media; the media is no longer just the message – it is the answer, 
+The result is a depoliti-
+cization and thus a dismantling of the promise of emancipation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

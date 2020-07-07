@@ -1,19 +1,16 @@
-Reading: Resistance, Revolution and Fascism: Zapatismo and Assemblage Politics
+Reading: Capitalism and Fascism of Everyday Life - Resistance, Revolution and Fascism: Zapatismo and Assemblage Politics
 
 Author: Anthony Faramelli
 
-Units: 6, Zone:theory
+Units: 0.66666666666667, Zone:theory
 
-Bibliography:Faramelli, A. (2018). Resistance: Zapatismo and Assemblage Politics. In Resistance, Revolution and Fascism: Zapatismo and Assemblage Politics (pp. 65–92). London: Bloomsbury Academic. Retrieved June 22, 2020, from http://dx.doi.org/10.5040/9781350050099.ch-003
+Bibliography:Faramelli, A. 2018. Capitalism and the Fascism of Everyday Life. In Resistance, Revolution and Fascism: Zapatismo and Assemblage Politics. London: Bloomsbury Academic. pp. 15-34
 
-Faramelli, A. (2018). Revolution and Fascism. In Resistance, Revolution and Fascism: Zapatismo and Assemblage Politics (pp. 35–64). London: Bloomsbury Academic. Retrieved June 22, 2020, from http://dx.doi.org/10.5040/9781350050099.ch-002
-
-Faramelli, A. (2018). Capitalism and the Fascism of Everyday Life. In Resistance, Revolution and Fascism: Zapatismo and Assemblage Politics (pp. 15–34). London: Bloomsbury Academic. Retrieved June 22, 2020, from http://dx.doi.org/10.5040/9781350050099.ch-001
-
-Links:https://anthonyfaramelli.academia.edu/research#monographs
+Links: http://dx.doi.org/10.5040/9781350050099.ch-001
 
 
 Notes:
+
 
 Observations: 
 The book I am proposing here is a good way of anchoring my two most relevant theorethical fields (decolonial theory and assemblage theory), articulating them together and emphasising temporality as a key concept to reflect the politics that I favour. Anti-fascism, anti-capitalism, critical positions vis-a-vis revolutionary thinking, critical time studies and (conceptual & social) networks are explored.
@@ -70,4 +67,3 @@ so that different events come into contact with each other. Thf time will be gro
 “the first gods”) and the zapatistas who are yet to be born. Zapatismo uses
 the communication enabled by this topological understanding of time as a
 diagnostic mechanism to locate and resist their repressive fascistic drives.
-	
