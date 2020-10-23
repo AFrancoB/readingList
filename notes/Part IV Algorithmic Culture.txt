@@ -13,3 +13,452 @@ Notes:
 
 Even though I do not know the pages contained in this chapter I would like to only choose 30.
 
+
+--------------------------------
+Mari Simoni
+
+30. The audience reception of algorithmic music
+
+-- Audience reception theory and research
+
+Reception theory to response to literary text.
+
+"Stuart Hall, a founder of the Birmingham School of Cultural
+Studies, extended Jauss’s theory to include media and communication studies (Hall 1993)."
+
+Reception theory: encoding and decoding a message
+
+Decoding can be done in different ways. Familiarity between decoders and encoders makes the message pass in a smoother way.
+
+
+
+Composer / performer / audience
+
+
+composer (creative genious) "The composer communicates through a highly stylized artefact such as a
+musical score."
+
+"This musical score is presented to skilled performers, whose role in the
+ontology is to interpret the composer’s message through musical performance. The
+audience, oftentimes enveloped in the cultural formalism of the concert hall, is a passive
+recipient of the interpreted message."
+
+
+
+Computer (and other devices) soon undermined the triple part ontology.
+
+
+
+But there is a problem:
+
+"In audience reception theory, the coterie is considered the ideal
+audience to decode an encoded message: an audience of professionally competent critics.
+The paradox of composing and performing music for the coterie is that the feedback loop
+between composer/performer and audience is limited to the experiences of the elite,
+assuring with near certainty that the music will not be understood beyond the coterie."
+
+
+"‘Is there a gap between many contemporary composers and the general audience today?’"
+
+"Landy identifies the ‘something to hold onto’ factor (SHF) as necessary in order for
+meaning to be decoded in electroacoustic music. The SHF includes musical attributes
+such as pitch, rhythm, homogeneity of sound and the search for new sounds; textures not
+exceeding four sound types at once; and programs, which could be natural sounds,
+processed familiar sounds, or acousmatic tales (Landy 1994, 2006). Weale (2006)
+contributed to this research by developing a methodology that measures a composer’s
+intention (e.g. encoding) against a listener’s response (e.g. decoding) across levels of
+experience."
+
+"The goal of these program is not akin to the Turing Test but instead to foster an ontological reductionism that oftentimes
+means that the composer, performer, and audience member is the same person."
+
+"If we take the long view with a glance over our
+shoulder to the past, generative practice is analogous to music making in the Middle
+Ages, when the composer and performer were usually the same person; music was
+seldom written down but instead passed on through the oral tradition. In both secular
+and sacred music, audience reception was critical to a musician’s livelihood. Without
+question, we are in a period of social, technological, and cultural flux, propelled forwards
+by (p. 535) a goulash of Moore’s Law mixed with artistic inquiry. But fear not: things will
+sort themselves out ... just as the centuries of the Dark Ages ceded to the Baroque."
+
+-- Hypothesis and research questions
+
+"The premise of this study is that reception theory may be applied to the audience
+reception of algorithmic music using a cognitive-affective model to understand the
+process of the decoding of meaning over time."
+
+
+Experimental observation:
+
+So the subjects have to first be asked about cognitive (correct or incorrect responses) and affective responses (any answer is valid).
+
+
+An subjects have to classify the  music heard to four categories:
+
+Acoustic, acousmatic, algorithmic and landscape.
+
+"Eighty-eight percent correctly identified Carter as acoustic music that
+(p. 541) employs an algorithm. That same percentage also identified Penderecki as
+acoustic and realized the composer’s intent to create a soundscape. Seventy-five percent
+identified Truax as algorithmic acousmatic composition but did not realize Truax’s intent
+was to create a soundscape. It’s possible that the duration of Riverrun confounded the
+listener’s ability to perceive it as a soundscape composition. A clear majority of subjects
+recognized Helmuth’s composition was an acousmatic soundscape."
+
+
+Other survays were made (3 days after intial survey and 3 weeks after initial survey)
+
+Riverun.
+
+Generally, the subjects showed interest but not relate to the aesthetic and compositional idea. General comments on how it is too repetitive, the material is too homogeneous, etc...
+
+
+Canon for threee instruments (Carter)
+
+Mostly appreciating the ¿real? instruments and the intellectual effort concerning the arithmetics however it is the "least memorable" and it is harmonically off. 
+
+Abandoned Lake in Maine (Mara Helmuth)
+
+Even thought a lot of subjects relate with the piece, there seems to be a dissonance that is very salient given some components. People quickly categorise what belongs and hwat not to this piece.
+
+A subject identifyed the bird specie that was prominent in the piece, acquiring somo special attachment to it. Is this actual culture playing a role here?
+
+Trenody for the victims of hiroshima
+
+People identified very quickly the strong affective reaction that the author was looking for. However no one would describe it as aesthetically pleasing.
+
+Many problems identifying how was this music made and why. Interesting.
+
+-- Comparative analysis
+
+The less info one has about a piece of music the one focuses more in cognitive aspects of it. If one satisfies the hows and whats of a piece one focuses on affective components.
+
+Piece these subjects like the most was the abandoned lake in Maine. Which is a soundscape. It has enough familiarity.
+
+Unsuprisingly the piece that critiques murika: "Two of the case study subjects reported that
+their least favourite composition was Threnody for the Victims of Hiroshima. This
+composition had the strongest affective response of any of the compositions for both
+Survey-2 and Survey-4. The subjects simply did not enjoy hearing the chaos, anger,
+confusion, and profound human suffering communicated through this piece."
+
+-- Summary
+
+
+"‘something to hold onto factor’" <- musicians/scientist discovering culture.
+
+"Even if the subjects have ‘something to hold onto’ cognitively or (p. 555) affectively, it does not necessarily translate into acceptance or aesthetic appreciation of a work."
+
+--------------------------------------------------------------
+
+(Micro)Politics of Algorithmic Music: Towards a
+Tactical Media Archaeology
+
+Geoff Cox and Morton Riis
+
+Algorithms modulate through different scales and registers.
+
+From Curtis Road's micro-rhythms to Longplayer of Jem Finer.
+
+From microtemporal processes to larger datasets
+
+"Our reliance on them is a leap of faith and yet they are abstractions with powerful effects"
+
+There are a lot of unintended behaviours emerging from it.
+
+"hey do not merely manage and organize sound, as in the case of selection
+algorithms for Spotify or iTunes, but generate the deep rhythms and structures of what
+constitutes cultural and political life."
+
+Algorithms are not only a set of instructions that help artists to achieve new musical forms.
+but
+"algorithms become epistemological tools to understand the increased
+dependency on scripts, scores, and programs as part of informational systems and wider
+socio-technical assemblages that shape our operational logic and decisions"
+
+
+So the arguments here relate to media archeology and tactical media and not to political economy.
+
+
+"there are emergent kinds of music to discover that we simply would not be able to hear were it not for the use of certain algorithms."
+
+"Our claim is that it is only through exposing the way that algorithms operate as part of wider socio-technical assemblages
+that musical and political experimentation can really develop."
+
+-- From macro to micro politics of algorithmic music
+
+"Hecker creates an ever-changing generative three-channel audio piece in which the artist starts
+an algorithmic process, and then steps back to let the computer execute a never-repeated
+autopoietic expression that stages technology as the creating force. It could be claimed
+that these examples have a specific ‘sound’ to them, but they also demonstrate a strategic
+quality—which comes out of the algorithmic approach to composition—to foreground
+computation and technology as a self-organizing creative force, while human agency
+fades into the background"
+
+Through algorithms, a political rationale is developed based in control structures and accelerated automation.
+
+
+"Collective works such as Arseny Avraamov’s The Symphony of
+the Factory Sirens of 1922"
+
+Avraamov's work is an example of: human-nonhuman assemblages, undermining of authorship, use of sound as a tactical weapon, 
+
+The cacerolazos of the indignados movement, another example.
+
+
+"Political subjects and objects become ‘entangled’ and are activated by scripts
+and scores that operate under particular conditions that require technical, legal, and
+discursive detail to fully account for their transformative potential."
+
+--- Composition as political reworking
+
+Discusses Cornelious Cardew and the scratch orchestra
+
+"Clearly, algorithms play an important part in this as they define
+how the music is generated but in the case of live coding, unlike much electronic music,
+the processes themselves are made somewhat apparent as changes to the code are made
+public at the time of the performance."
+
+Scratch orchestra is an algorithm.
+
+The problem of it was its overreliance on notation and conceptual totalisation: masses, history, etc.
+
+This is relevant:
+
+"inherent contradiction that in legislating for nonconformity it
+operated its own tyranny (as, arguably, all algorithms do)"
+
+--- Microtemporal rhythms
+
+"Algorithms do not simply define an ensuing
+event but also a movement and rhythm of signals that oscillate between various
+materialities and systems."
+
+This concept by Miyazaki:
+
+‘algorhythmics’ in the one hand a finite, step-by-step sequence of instructions to solve a problem (algorithm), in the other hand it is a temporal ordering of infinite movement (rhythm)
+
+
+The vibrations of the speaker cone are microtemporal.
+
+"This close description of musical events taking place within the demodulated electromagnetic waves becomes an
+alternative way of analysing and conceptualizing the way in which algorithms function
+and somewhat control our experience and behaviour."
+
+
+Modulation is what is measured in a microtemporal framework.
+
+-- Microtemporal tactics:
+
+Media is the realm of micropolitics in music?????? that makes sense to me.
+
+"tactical media offers
+contemporary forms of political action that lie somewhere between creative
+experimentation and a reflexive engagement with communicative forms and social
+change, using tactics that recognize shifting identifications, temporary alliances, and
+affinities according to relations, contingency, and context"
+
+
+"Part of the difficulty of the use of tactical use is that it is prone to recuperation,
+effectively nullifying its critical effects."
+
+The wiki of tacticak media:
+"Tactical media is a term coined in 1996,[1][2][3] to denote a form of media activism that privileges temporary, hit-and-run interventions in the media sphere over the creation of permanent and alternative media outlets. Tactical media describes interventionist media art practices that engage and critique the dominant political and economic order."
+
+
+An example of tactical media display:
+
+"Robin Hood uses financial technology upon itself, with a dynamic
+data-mining algorithm called Parasite. The algorithm analyses the big data of financial
+transactions to raise money and redistribute wealth. So rather than examine the broader
+political efficacy of these tactical interventions, this chapter aims to concentrate on those
+tactics that expose the relatively hidden layers of technological complexity through the
+inner workings of algorithmic machines. In this sense the chapter can be read as a
+tactical intervention in itself, to draw attention to algorithmic details in order to break
+down informational and networked flows of power—echoing Michel Foucault."
+
+
+-- Tactics of media archeology
+
+Explaining Foucault's conception of history:
+
+"Foucault’s notion of history opposes
+the traditional one, which is built upon drawing the great lines, building large-scale
+chronological tables that order series of continuous events and reflections (Foucault
+1972, 3–4). Instead of lines of continuity, he insists on writing a history that focusses on
+discontinuity and rupture. The term ‘archaeology’ becomes central for Foucault in
+unfolding his counterhistory to investigate how various discourses within historical
+documents are often conflicting and contradictory. The archaeological excavation thus
+becomes a rewriting, a transformation of what has already been written, focusing greatly
+on the gaps or the forgotten details—meaning that the archaeological study always
+functions on many levels at the same time—comparing and opposing them (Foucault
+1972, 157)."
+
+
+
+Media archeological approach:
+
+"The aim of the media archaeological approach then is
+not to negate the ‘reality’ of technological development, but rather to balance it by
+placing it within a wider and more multifaceted social and cultural frame of reference
+(Huhtamo 1997, 223)."
+
+History as a multilayered dynamic system. Instead of a narrative of obsolescense for technology.
+
+"The tactic, or tactical,
+on the other hand, is described as not belonging to a spatial or institutional context.
+Tactics can be understood as dynamic processes that are dependent on flowing
+temporalities which constantly open up to new opportunities that must be seized on the
+wing. Thus tactics have no base at their disposal in which they can ‘capitalise on its
+advantages, prepare its expansions, and secure independence with respect to
+circumstances’"
+
+
+
+So: ‘antidiscipline’: Everyday practices are potentially ‘tactical in character’, offering new ways of operating
+and doing politics.
+
+"the media archaeological approach develops
+perspectives on the dynamic and fluid processes of technological apparatuses, thus
+unfolding what could be described as antidisciplinary tactics and antihistorical
+epistemologies."
+
+-- The Media Archeological Ear
+
+Listening to historical material!!
+
+"Ernst describes how technical repeatability
+generates ‘an almost ahistorical functional reenactment’[...]
+and thus an experience of media time in contrast to the historicist notion of time."
+
+"The claim is that the human sensory apparatus is inadequate for certain tasks and that
+acoustic archaeology requires the media itself to uncover other hidden aspects of
+knowledge."
+
+"media-archaeological ear is
+more like a microphone and the objects in question become less historical and more
+processual."
+
+-- Microtemporality and time criticality
+
+"but as Ernst claims, the monochord operates as a
+time machine: ‘it lets us share, participate at the original discovery of musicological
+knowledge’"
+
+"Similarly, the computer is not to be misinterpreted as a
+static machine with static memory but decidedly a temporal and mutable (sonic) machine."
+
+
+
+-- Algorhythmics
+
+¿Sonifying the otherwsie inaccessible unfolding of algorithms?
+
+-- Microrhythmc are political:
+
+"As a consequence, politics can be understood to no longer operate simply on
+a macro socio-economic level or in ideology alone but increasingly from mutations at a
+micro-scale or molecular level. In other words, there is a dynamic between micropolitics
+and politics in general, and algorithms modulate between the details of microtemporal
+processes and larger totalizing data sets like history or society."
+
+How all this blabla relates to DnG:
+
+"Through this perspective, the quantum flow always
+implies that something eludes or escapes the overcoding machine, because the
+segmented line implies a substitution of faltering perspectives in favour of totalitarian
+overcoming lines (Deleuze and Guattari 2005, 217–219)."
+
+"The micropolitical thus becomes
+a shift of perspective away from high-level totalitarian decision makers, and instead
+provides focus on how power is exercised at the minute level of individual subjects and
+through ‘everyday techniques that form perception, desires and judgments of
+individuals’ (Scherer 2007, 564)."
+
+"Microtemporality reminds us that
+politics is not simply human-centred but also involves nonhuman entities such as
+algorithms that express not only new forms of power that dictate how certain events
+unfold but also new lines of flight."
+
+-- Tactical media
+
+"In this way tactical media’s tactics are somewhat like the experimentation of
+Cardew, amongst others, inasmuch as they play with the spatio-temporal determinants of
+compositional assemblages as emergent forms of political organization. Algorithms are
+already tactical in this sense with respect to the way they operate relationally and
+contingently. Such an approach offers a conceptualization that corresponds very well to a
+microtemporal understanding of the algorithm, as we cannot reduce the algorithm to a
+set of predetermined instructions or rules, but we instead need to include an
+understanding that incorporates the wider apparatus and its execution in time."
+
+"This conceptualization resonates well with Deleuze and Guattari’s understanding of the
+abstract machine—a machine that can be both an overcoding totalitarian machine and at
+the same time a decoding detotalitarian machine that flows and emits new quanta,
+something that is constantly changing on a molecular level (Deleuze and Guattari 2005,
+223–224)."
+
+-- Tactical Media Archeology
+
+"‘Tactical media archaeology’ becomes operative at the point where media and more
+specifically the nondiscursive realm of technical infrastructures and algorithmic
+processes become active archaeologists of knowledge"
+
+
+-----------------
+
+
+So, Cardew failed because of its totalising view (that did not minded the molecular)
+
+Microrhythms are inherent rhythms of the media (the machiens harddrive, the algorithms wait patterns, the speed of the broswer, etc)
+
+The microrhythmic is the overflow that escapes the overcoded machines.
+
+Shift perspective from the totalising to the éveryday technique that form perception, desires and judgments of ¿individuals?
+
+"Doing so collapses the belief that we can
+distance ourselves from the world through formal procedures, just as algorithmic music
+cannot separate itself from the world around us. Our claim is that algorithms need to be
+understood as part of temporal, relational, and contingent operations that are sensitive to
+their conditions and future trajectories. Only in this way can algorithmic music begin to
+make sense—politically at least."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

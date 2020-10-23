@@ -11,4 +11,129 @@ Links:http://from.esad-gv.fr/designgraphique/_archives_etudiants/DNSEP_2016/Clar
 
 Notes:
 
+Code describes what it does and does it.
+
+Power of speech and the paradoxical lost of the voice.
+
+Machine-human communication have integrated affect, intellect and language into production.
+
+"The fact that the user ’ s thoughts and actions are some-
+what determined by the operating system or graphical user interface recalls the ways
+the user is interpellated in the Althusserian sense to demonstrate how ideology calls
+us to order through its God-like commands and procedures."
+
+Kittler says that we can understand code throught: command and control.
+
+"Although instructional, program code cannot simply be reduced
+to its functional aspects, as it also extends the instability already inherent to the rela-
+tionship of speech to writing, where it can also go out of control."
+
+Code can exist through ideology too. The idea of interpellation of Althusser is relevant here.
+
+As one's subjectivity forms when it recognises interpellation, so we can think of software. It is meaningful as long as it interpellates.
+
+Butler (exitable speech): words and actions are related. You say something and it can alter the world. 
+
+"As linguistic beings we are bound to language as part of the constitution
+of subjectivity (as Althusser described it), so the call to order starts as a form of insult,
+and we enter into language antagonistically."
+
+"The speculation is that esoteric languages similarly
+shift attention from command and control toward cultural expression and refusal"
+
+
+How can actions emerge from a speaking subject if it is speaking what forms the subject in the first place?
+
+"Interpellation seems to be bound up in contradiction in this respect, poised
+between the subject that speaks and the subject that is constituted through speech. If
+subjects are constituted in language in this paradoxical way, it follows that they also
+have the ability to reconstitute themselves through language, and even reconstitute
+the institution of language itself."
+
+"it is not that interpellation doesn ’ t occur but that it operates in ever
+more subtle ways across complex informational networks, along with the networked
+forms of subjectivity it partly constitutes."
+
+"So although on the surface program code appears to
+operate in a similar sovereign manner with straightforward agency, namely a command
+to execute an instruction from sovereign code, the argument that unfolds through
+this book is that in significant ways these operations are also prone to bugs and failure,
+and in significant ways can be considered to be out of control, like speech."
+
+
+"the practice of live
+coding exemplifies how the practice of coding, its writing, working, and creative use,
+establishes an unstable relation to its output. In this sense, although of course code
+largely determines its output, the broader apparatus including the idiosyncrasies of
+the programmer provide indeterminate outcomes and help to stress the expressive
+dimension of software production as a whole."
+
+Code produces an unstable relationship with its output. ***** this is very relevant.
+
+
+We have to understand code as expression and action. 
+
+"excitable program code."
+
+
+Something exceeds the "command and control" possibilities of code as it has efects that cannot be determine only be the expression implied in the code. 
+
+-- Coding Expression
+
+Code as procedure and expression.
+
+More than the demonstration of formal logic.
+
+Literate programming paradigm is invoked as a form of expression that shifts the meaning of coding (beyond command and control)
+
+"here are many examples of recursion that encourage the author or
+reader to reflect on their role within the construction of the text, and on the ways in
+which meaning is constructed."
+
+Epistemologic recursion (the text talks about recursive epistemology but I am interested in the other concept)
+
+Not only execution is the only meaning code acquires but also the "literate" commentaries that are meaningfull to other programers. Double coding refers to this two expressive forms of code.
+
+"The example, using a technique referred to as double (or multiple) coding, exempli-
+fies the material aspects of code both on a functional and an expressive level, even if
+it further confuses interpretation by its nonfunctionality or inability to communicate
+clearly (which is part of the point, of course)."
+
+"program code has an aesthetic dimension that extends
+beyond the conventions of programming which stress the efficiency and brevity of
+source code."
+
+Like executable code, there is something overdetermined about all writing in this
+sense. In “ Talking Back, ” bell hooks stresses the inherent politics of forms of writing
+that hold on to speech, for both writing and speech can express resistance to forms
+of power — as with the rejection of capital letters in her name.
+
+This is what we are going to be talking about: formal logic and meaning.
+
+So, we are going to talk about the realm of what is possible and the realm of meaning and how they enmeshe through code.
+
+
+We live in the era of "despotic numbers" according to Badiou, that is why articulating logic with meaning-production makes sense to the author.
+
+"insisting on a discourse
+that derives from an understanding of the human condition and of politics that oper-
+ates through language rather than simply through the economy"
+
+"But under the present conditions of finan-
+cial capitalism, human action is rendered economic and its force is annulled, as it is
+“ expressed not with words but with numbers, ” as Boris Groys put it."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

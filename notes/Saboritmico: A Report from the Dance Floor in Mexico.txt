@@ -13,3 +13,109 @@ Notes:
 
 RGGTRN (pronounced reɣɣaeˈtɾon), originally an electroacoustic and mixed music duo founded in 2012 in Mexico City, has evolved into a collective that engages in algorithmic dance music and audiovisual improvisation informed by the Latinx context that revolves around its members. This text is a first effort to document our journey as a nomadic group interested in music such as reggaeton, cumbia sonidera, and tribal. This article discusses: 1) the interaction between the performer, the audience, and the technology; 2) the multiple layers of exclusion that live coding communities exercise towards gender and division of labor within the audiovisual performance; 3) the collective musical culture of the members of RGGTRN, the communities they belong to and for which they perform.
 
+----------------------------------------------------------
+
+1) interaction: performer/code/audience
+2) Layers of exlcusion in audiovisual performances
+3) The communities emerging from live coding practices
+
+
+
+
+1)  Neither a live band nor a dij. Something in between. A distance between the liveness of a latin band and what rggtrn can do.
+
+The audience was dancing (but in the culturally latinx sense, in couples) rggtrn invites to a more individualised dance experience. 
+
+(Ocelotl & Del Ángel & Teixido, 2018, par.5)
+"we think that working with code gives the possibility of expanding the musical thoughts of each member of the collective as we consider that our live coding approach is directly related to an arrangement of experiences that are expressed in our lines of code."
+
+Each performans unveils problems of the practice being build.
+
+Visuals tend to be relegated to the background.
+
+Division of labour on rggtrn's practice and performances. Visualist experience, ironically, lack of visibility.
+
+(Ocelotl & Del Ángel & Teixido, 2018, par. 11)
+"The predominance of the sound over the video is a manifestation of these gendered power relations established under a mutual, silent and harmful consensus."
+
+The visual artist is often displaced offstage, because of cultural and technical barriers in live coding venues.
+
+A broad history of exlcusion and lack of visibility of women in electronic and electroacoustic music.
+
+The intersectional paragraph:
+"The work that Joanne Armitage, Norah Lorway, Alexandra Cárdenas, Shelly Knotts and Miri Kat (Bolt 2017) have done to achieve visibility within the live coding scene is very important. Nevertheless, alongside the gender perspective, we should also consider other factors of exclusion and invisibilization including geographical location, language and economic and sociocultural status; we should be aware that these intersect, generating barriers of double or multiple exclusion."
+
+"performances to happen inside a scene dominated by contemporary, electroacoustic, and acousmatic music"
+
+Mispronunciation of reggeatron was the birth of the band's name.
+
+"We think that the name of the collective represents some kind of glitch that happens when translating words and practices from one language, culture, or environment to another. For us, this glitch that is multidirectional and both positive and negative, presents constantly to us in different ways when composing and performing with English-derived programming languages like SuperCollider. Examples of these include misunderstanding functions, mistranslating and transliterating concepts and appropriating inbuilt sounds and synthesizers, among others. All of these makes us feel a bit of discomfort during the process of composition and result in musical hybridization and sometimes just musical assimilation."
+
+Electroacoustic and academically trained musicians do not consider seriously the music made by the collective.
+
+
+Divisions and hierarchies of musical genres. 
+
+"We, as Mexicans, are immersed in this type of music, we know how to dance it—at least the basic steps. It is part of our collective musical culture and it is associated with the festive character of the country."
+^^
+this right here is nostalgic essentialism.
+
+Are hybrid genres of mexican origin performed in algoraves? like nopa beat, nortech, tribal?
+
+
+Well, MicoRex is the live coding bolero band that happens to be one of the first and most relevant bands of LC in Mx.
+
+"In our exploration, we have found that problematics described by sound, image and software are representative of day-to-day aspects of Mexican society, namely women frequently constrained by assumptions of a lack of knowledge and expertise, a persistent devaluation of the country’s culture(s) and an intent of neocolonialization through foreign cultural products."
+
+Assuming responsability for the aesthetic and intellectual production of rggtrn.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

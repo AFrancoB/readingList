@@ -12,4 +12,622 @@ Links:www.jstor.org/stable/10.5749/j.ctvcwnzsd.5
 Notes:
 
 
+The imaginary and symbolic of Lacan as read by Althusser is the framework of analysis for this work.
+
+Althusser:
+"in capitalism, ideological state apparatuses (ISAs) generate
+social identity by “interpellating” or “hailing” subjects to engage them in
+an imaginary relation with the reality of their exploited condition. This
+proposition has informed a rich line of media studies analysis."
+
+How can this be adapted to the digital domain?
+
+"entices ever-­unsatisfied subjects to labor, in various forms, in search of an
+enjoyment (jouissance) that is always frustrated by the operations of the
+very social order that sets it in motion"
+
+So, cyberwar as a way to discipline the popullation.
+
+Cyberwar is when "network users are interpellated as subjects by
+world-­market states and would-­be states to facilitate antagonisms"
+
+Cyberwar activities: from DDoS attacks,
+hacking, and trolling to sharing, liking, or commenting
+
+
+Network users that become instrumental in cyberwar are always in a state of confussion.
+"yet greater misrecognition by the subjects of cyberwar of their own
+exploitation and vulnerability."
+
+Firstly, when networks emerged from their military origins into regular popullation they were considered: "technology of freedom".
+
+
+Personal computers are the anthitesis of the ideological state apparatuses.
+
+The liberal/libertarian viewpoint: “cyberspace” as an autonomous realm be-
+yond the reach of the state (Barlow 1996)
+
+"Such network libertarianism would eventually be
+assimilated into neoliberalism, decomposing into a “Californian ideology”
+(Barbrook and Cameron 1996) that celebrated both the free authenticity
+of online communication and the Reaganite deregulation that proclaimed
+the dismantling of the state while funneling giant defense contracts to
+Silicon Valley."
+
+The origins of the current hegemony is the libertarian position on networks.
+
+The raqdical account has as a foundational text the accounts on nomadology by DnG.
+
+For Deleuze and Guattari war is an activity bound to the nomads (Gengis Kahn). Such warrioirs are a mobile decentralised force. Paradoxically, war ia we know it, is not an activity that has to do with state formations and sedentary power.
+
+War, in such war-machines, is always subordinated to the becoming that the assemblage technology/technique<->Human<->media (in the case of Gengis Kahn: metalurgy/Warrior/Horse).
+
+Where the key is: War, as undertsood under this nomadic formations has to be captured by States in their process of formation. The State exercises violence based on this "primordial" war-machine.
+
+So every new becoming (which means every technological turn, media turn) can form a war-machine and all that comes with it: the possibility of transformation (transgressive becoming).
+
+The decentralised war machine resonates broadly with the internet's infrastructure and things like: "packet-­switching, many-­to-­many, digital “meshworks,” with a potential to
+subvert the control of state masters."
+
+
+It is important to realise the difference between the radical view of the internet and the liberal one:
+"In such accounts, networks appear not, as in the liberal version, just as an
+escape from the state but also as counterpower, militantly contesting it."
+
+
+For the liberal standpoint the escape space that is the internet helps like-minded individuals to meet and exchange. To perform other identities online, etc.
+
+In the radical version, the idea of an individual is lost. A bunch of dividuals emerge that draw lines of flight with radical new possibilities that antagonise and act as counterpowers to state and liberla forces.
+
+All of these are a bunch of experiments and views that were only possible before the dotcom crash in 2000: The Internet (1.0). The current situation is quite different.
+
+In the current context, big capital has caputred all these experiments and has instrumentalised them in a very new context:
+
+Web 2.0 is characterised by:
+- user-­generated content, 
+- algorithmically targeted advertising, 
+- big data–­sucking surveillance
+
+
+In this web the States, semiStates and its "proxies (whatever a proxy is)" can solidify once again their monopoly on violence.
+
+The best advice towards the web:
+
+"Today both liberal and radical insistence on the antistatist valence of the
+digital networks mystifies and occludes what is unfolding in a way that
+can itself be termed ideological."
+
+----- new section
+levee en massee
+
+
+levee en massee == Superiority in numbers against a professional army.
+
+
+"“the French populace was reached, radicalized, educated,
+and organized so as to save the revolution and participate in its wars.”"
+
+The 21st century has its leveé en masse in the network. and it is related to Islamic terrorism (digital jihadism)
+
+"“Today’s mobilization,” she continues,
+“may not be producing masses of soldiers, sweeping across the European
+continent, but it is effecting an underground uprising whose remarkable
+effects are being played out on the battlefield every day” (85). “Cyber-­
+mobilization” is bringing about broad “social, ideological, and political
+changes”; successfully harnessing these elements is “the key to advantage
+in future war.”"
+
+Cyberwar is a matter of mobilization (how mobilization resonates with circulation?)
+
+Mobilization is what connects war with "peace". Mobilization is in both states.
+
+Relating the idea of a general intellect to a militarty notion. Capitalism needs general intellect in the sense of a distributed knowledge production to ensure its reproduction  and advance, but what about understanding this intelect also in terms of military organisation.
+
+So knowledge should be militant.
+
+"If we restore this process to view, the concept of mo-
+bilization, including the formation of specific subjectivities for cyberwar,
+makes sense, although it is a mobilization that, as we will argue later, is as
+much concerned with activating machines as it is with galvanizing users."
+
+
+A mobilization concerned on activating machiens AND galvanizing users (forming subjectivities)
+
+
+--------------
+cyberwar apparatus
+
+Cyberwar ascended at the same time of google and facebook. It is not contemporary to nomadic warmachines,autonomy and/or liberal narratives of the net.
+
+Cyberwartime is the time of the web 2.0 and bounded to platoform internet.
+
+"managing proprietorial software"
+
+different to the ideology state apparatus of althuser the cyberwar apparatus is not state-centric. 
+
+But: "Today, it has hypertrophied into a cycle
+of 24/7 entertainment, where, Žižek (1997b) says, we are interpellated
+by a constant exhortation to “fun” and where the disciplinary functions
+of ideology are interfused with enjoyment (Flisfeder 2018, 42). This is
+nowhere more so than in the realm of the digital platforms."
+
+Entertainment and enjpyment are at the centre of interpellation.
+
+also. In althusser interpellation is too cognitive.
+
+"Today, not only chatting, liking, sharing, gaming, viewing,
+and other fun has become work but also walking, breathing, sleeping, and
+doing nothing, as these activities are submitted to technological surveil-
+lance (Cederström and Fleming 2012)."
+
+This is super relevant:
+"Just as labor power becomes a commodity in capitalism, so does jouissance in
+“communicative capitalism” (Dean 2009)."
+
+
+"Althusser via Wendy Chun’s (2004) earlier “On
+Software,” the user is “interpellated” by social media from the moment
+of sign-­in"
+
+
+|“commercial Web 2.0 plat-
+forms are attractive because they allow us, as users, to explore and build
+knowledge and social relations in an intimate, personalized way,” while
+at the same time paradoxically “narrowing down the field of possibili-
+ties” in ways that “favor the formation of specific subject positions.”|
+
+
+The nation state abruptly re-enters the arena through war. It uses platforms like facebook, etc to interpellate subjects of its own or antagonists.
+
+"it is possible to construct within social media interpellative micromachines,
+that is to say, specific user communities, as a sort of “partisan” presence
+inside ostensibly foreign digital territory" <- in facebook it is possible to form a community.
+
+"This cyberwar seeding of subjectification involves agents." Russian troll armies, american sock puppets or isis recluters.
+
+
+Forms of interpellation: recluting (shifting from public to private the conversation),
+
+trolling (publicly identifying and detsroying (metaphorically or not) an enemy)
+
+Agents of cyberwar depend on viral spread.
+
+Here, like Dean proclaims, we have to acknowledge the spread of affect. The network is affective not only infrastructure.
+
+Process of "emotive contagion".
+
+
+Peter Sloterdijk has an interesting position:
+
+Amazon, google etc work on the "foam level" not in the macrostructures of the waves nor the personal bubbles.
+
+Such foams form irregular hills that antagonise with each other. Such is the state of the world.
+
+The subject being interpellated in cyberwar apparatus differs from the Althussean ideological state apparatus since it is: "a subject that is not talked to but talked about"
+
+Thus, a subject of surveillance!!!! **********
+
+"Panoptic surveillance and virtual mobilization are reciprocally related
+in complex and contradictory ways."
+
+
+A feedback loop between the subjects being surveilled and to "mobilize virtual recruiters, troll armies, patriotic hackers,
+and social media communities against their opponents."
+
+"a subject not only addressed by the homeland ISAs but
+also exposed to adversary address and, because of this, then subjected to
+processes of surveillance and censorship, watching and blocking, that in
+turn become constitutive of subjectivity."
+
+Regarless that this is a State game: "the “user” as a subject of global digital capital."
+
+Just to confirm: war has been absorbed by capital. and capital is learning how to operate in a state of total war, as zapatismo claims.
+
+Also: here there is a contradiciton rising from this analysis: the centralised and global capitalism of the early 21st century against the antagonistic state-driven capital agents that operate more locally.
+
+This is an excellent summary at the middle of the paper:
+"In summary, cyberwar operates through apparatuses of subjectification
+that work across platforms and are aimed at the populations of these plat-
+forms (populations that can be conceived of as combined human–­device
+assemblages) both at home and abroad. This apparatus employs specific
+agents (bearing in mind that, as we will discuss later, these agents may be
+wholly or partially automated) that issue the interpellative call or summons
+(itself the outcome of long-­preceding chains of interpellative subjection).
+But this call thenceforward depends for its efficacy on networked conta-
+gion (whereby if the process “takes,” each interpellated subject becomes
+an interpellator), a process that may go nowhere but whose accumulative
+outcome can be filter bubbles or echo chambers (the death stars or black
+holes of cyberwar) of autodisciplining subjects. The preemption and
+targeting of such digital enemy partisans, real or imagined, become the
+task of the conjoined surveillance and censorship mechanisms by which
+each regime’s cyberwar apparatus attempts to prevent its own infiltration
+and disrupt the adversary. This is how cyberwar engages the continuous
+process of reproducing the “economic, political, juridical and cognitive
+fiction of the subject” (Tomši č 2015, 6)."
+
+
+Cyberwar apparatuses: a collection of institutions and practices.
+
+ISAs and CYberwar Apparatus co-exist and co-form.
+
+While Althusser recognises the ISA and the "repressive apparatus" as two separate entities, one operating fundamentally with ideology (communication) and the other through violence the authors are proposing, through the cyberwar apparatus, that many instances of cybernetic communications fall into both categories. The cyberwar apparatus uses both violence and communication to produce subjects and forms of interepllation.
+
+----- new section
+sexing cyberwar
+
+The cyberwar subject is male.
+
+In many ways: "cyberwar interpellates women as subjects of exclu-
+sion and victimization" 
+
+Women at the start of cyberwar: ENAC project during world war two (US), enigma project (UK), etc.
+
+
+WOmen's erasure of war: "However, this female presence at the origin of cyberwar was subject to a
+triple erasure. First, the overall masculine path of military–­technoscientific
+development ensured women working on early computer projects were
+mostly subordinated to, and hence eclipsed by, men. Second, most were
+at the end of the war rapidly replaced either by men or by computers
+overseen by men. Third, their contribution was then largely forgotten,
+in one of the “invisibilizing moves” by which women have repeatedly
+been “written out of the histories of war”"
+
+"subjects of cyberwar, hackers, are predominantly male"
+
+THIS IS INTERESTING:
+
+"It is therefore possible to present the gender-
+ing of cyberwar as a process in which the digital domains of a feminin-
+ity acculturated to civilian conversation are turned into battlefields and
+devastated by high-­technology militarized masculinity."
+
+Emphaisse the historic rol of the women as the civilian in wars by cyberwar subjectivity. But there is also another side of such story:
+
+Mobilizing affect (psychological operations) is a very important activity in cyberwar, mobilizing affect has historically being female.
+
+Even weaponising feminity (as, foe example the femme fatale spy) using female avatars to interact and distract the eenmy while stealing data, etc.
+
+But also cyberwar is opening war for women.
+
+"Theresa Grafenstine, the inspector general of
+the U.S. House of Representatives, spoke to the issue: “We are absolutely
+in the middle of a cyberwar,” she told a congressional briefing. “It’s a new
+cold war.” Presenting data demonstrating that America’s cybersecurity
+workforce is dominated by men, she declared, “If you think we’re going
+to win this war with only half our army—­they’re going to eat our lunch!”
+and robustly suggested it was time to “slap Cinderella with a laptop”
+(Bratton 2015). Thus Haraway’s “cyborg” feminism is now exhorted to
+recover its faith in the military–­industrial complex."
+
+
+This is very interesting, this adds up to Nancy Fraser's analysis of the ways in which neoliberalism and feminism overlap. But even more, the cyberwar subject (which mmight be a helpful subjective formation for what will come after neoliberalism) can offer continuities with more authoritarian forms of capitalism yet to come or yet to be understood.
+
+But war is always a gendere dperformance if you join our ranks you are automatically masculinised and if you join enemy's ranks you are feminised.
+
+"Her analysis thus joins that of other feminists who point to the very specific
+shaping and limitations of gender-­equity initiatives, and the push for di-
+versity and inclusion, in the context of neoliberalism and militarization
+(Fraser 2013; Enloe 2016)."
+
+
+---
+For if, as Brunner (2013, 104–­6) argues, the drive
+for “technological omnipotence” is a deep dynamic of masculinization,
+militarization, and neoliberalism, this raises the possibility that the human
+participants in cyberwar, however gendered, may be overtaken by the
+intensifying production of automated cyberwar assemblages::::
+
+--- new section
+Automatic subjects
+
+
+"Cyberwar, at the cutting edge of a highly automated phase of capital, is fundamentally a
+process of machinic mobilization, in which humans increasingly play the
+role of relays within processes whose speed and complexity are deeply
+inhuman, or at least ahuman."
+
+Twitter bots, DDoS attacks
+
+"DDoS attacks are weaponized machinic interpellation,"
+
+DDos attacks saturate the enemy with messages schedule and repeated:
+"seen as a mode of digital insurgency against state and corporate
+power: examples include DDoS attacks made by the group Electronic
+Disturbance Theatre from 1998 to 1999 in support of the Zapatistas, us-
+ing the FloodNet program"
+
+DDos, antother tool weaponised by States.
+
+Bots and DDoS are dwarfed by AI agents...
+
+Autonomous weapons, automatic targetings by reading massive databases.
+
+IoT can become a Web of Weapons.
+
+"Capital develops its most advanced
+technologies in warfare; in cyberwar, we see it advance toward a concrete
+actualization as what Marx (1977, 255) called an “automatic subject” or
+what Liu (2010) terms the “Freudian robot.”"
+
+
+-------
+Unconscious war
+
+
+“Even if you do not
+see the war, the war sees you” is the logic of the blind gaze of cyberwar,
+a regime in which although “the subject does not see where [this regime]
+is leading, he follows” (Lacan 1998, 75)
+
+
+The consequences of cyberwar can go much more beyond human intentionality or understanding:
+"As one cybersecurity expert puts it, “By allowing Stuxnet to spread
+globally, its authors committed collateral damage worldwide”"
+
+
+Computers and automatic systems misrecognise often.
+
+"A “setting of electronically mediated subjectivity [that] is one of in-
+finite doubt and ultimate reflexifisation” intensifies “the fundamental
+uncertainty accompanying the impossibility of totalization” in a sym-
+bolic environment where “there is always another option, link, opinion,
+nuance or contingency that we haven’t taken into account” (Dean 2014,
+212). Computational propaganda that aims to mystify invasions and oc-
+cupations, or promote cynical disaffection from an adversary’s political
+system, actively weaponizes the “decline in symbolic efficiency,” but it is
+endemic to the whole field of cyberwar."
+
+
+decline of symbolic efficiency == the reference by which a symbol operates. The deep layers of abstraction that make the original symbol meaningless.
+
+"this lack drives to ever more compulsive (because unfulfillable) attempts to attain
+a definitive identity."
+
+"The blackout of Syria’s internet connection thus also becomes
+an epistemological blackout about its cause, a blackout in which every
+initial position on the politics of Syria’s civil war could be preserved and
+reinforced."
+
+
+A blackout becomes also an epistemological blackout. Initial positions are not affected but reinforced.
+
+"Perhaps this is precisely what often drives the
+ongoing ubiquitous disclosure: exposure hurts and pleases users at the
+same time—­the contradictory sensation that Lacan named by the French
+term jouissance."
+
+
+The world of the symbolic is the world of the machine. So the lacanian "law of the father" is very close to the protocological and algorithmic logic with which we understyand the network
+
+So we are nominally free but actually unfree.
+
+"either becoming a “dupe” who enacts a misunderstanding of the system, while
+having some understanding of it, or a “nondupe,” the one who believes
+in controlling the system by reducing computer to source code (think of
+a hacker, a corporate CEO, or the internet libertarian, fetishizing code as
+a solution to anything) (Chun 2008, 300)."
+
+
+"As such, the user, who is not fully
+unaware of the problems, yet dismisses them, is the necessary link in
+the cyberwar assemblage. The user is forced to act stupidly. This stupid-
+ity “is not always at odds with intelligence but can operate a purposeful
+exchange with its traits. . . . Intelligence itself depends on a withholding
+pattern that in some cases matches the irremediable reluctance of the
+stupid” (Ronell 2002, 10)."
+
+
+Why we think of computers in terms of connection and progress rather than war, collapse antagonism?
+
+
+"Here the user is trapped in the representational data chain as
+negativity, as a figure of exclusion, whose place is persistently taken over
+by data: the subject is not present but always already represented. On the
+other hand, the user-­subject is a “suture” that works to bridge the gaps,
+often by imagining connections or relations in operations of the porous
+“accidental megastructure” of the stack (Bratton 2016), where there are
+none"
+
+
+"Instead of
+choosing between a possibility of being paranoid or a possibility of being
+followed, one refuses to take these as mutually exclusive and to be divided
+by such choice, especially when the right option to choose seems apparent."
+
+
+"That daydream would be our continuing reverie about the plenitude
+and peace of the promised digital future, while the unbearable real is war
+and cyberwar, burning with ever-­increasing intensity"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

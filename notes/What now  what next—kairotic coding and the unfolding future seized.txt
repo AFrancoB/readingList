@@ -26,8 +26,7 @@ Kairos has two meanings here: A cut, a temporal opening and a 'will to invent' a
 
 (Cocker, 2018, p. 83)
 kariotic liveness bound to two contradictions in live coding practice:
-there is a
-call for improved media technologies enabling
+there is a call for improved media technologies enabling
 greater immediacy of semantic feedback, a
 shift towards predictive coding modelled on
 previous patterns and habits supporting a faster,
@@ -85,7 +84,7 @@ of code itself—or other executable instructions
 
 Relevant to live coding is not only to show the artist labouring at their computer but it is also an exercise on transparency, "show us your screen", which displays code to give the audience an interface, an access to the performers creative and decision-making process.
 
-Ofte, in live coding the performers create their own software and, while in the performars, such software is running a program without being stopped.
+Often , in live coding the performers create their own software and, while in the performars, such software is running a program without being stopped.
 
 The system that is running is also waiting for new instructions. The program executes itself and waits for new instructions.
 

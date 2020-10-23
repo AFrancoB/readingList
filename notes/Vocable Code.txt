@@ -12,3 +12,342 @@ Links:http://from.esad-gv.fr/designgraphique/_archives_etudiants/DNSEP_2016/Clar
 Notes:
 
 
+So code does what it expresses. Poetry is similar as it is speech and text.
+
+The aesthetique aspects of code/text. Pay attention to this.
+
+Dada poetry: "A deliberate confusion was produced, somewhat similar
+to coding practices in which written form and output are conflated."
+
+Ursonate foregrounds the sounding effects of language but also obliterates the meaning of it.
+
+"In one sense, this is poetry about the
+shape of words in the mouth, and the direct, perhaps synesthetic relationship between
+mouth shape and the sound generated."
+
+
+Code can make forms explicit, which is not very evident with written form. Perhaps there is something in common in this with spoken word.
+
+Code and spoken word can make explicit components of the text that are not entirely so on its written form.
+
+
+Ursonate is shaped after German. It needs an intepreter, just like code.
+
+"The same relationship of code and interpreter is
+apparent with computer code; a running program exists as a combination of the code
+with a language interpreter."
+
+"The example further demonstrates that a computer
+program can undermine the distinction between its function as a score and its perfor-
+mance, in similar ways to the sound poem (but in quite different ways to conventional
+musical scores)."
+
+**** How is the body implicated in coding langs?
+
+-- Coding language
+
+"languages consist of closed systems of discrete semiotic elements, and that meaning
+is organized out of differences between elements that are meaningless in themselves."
+
+
+Competence / Performance of languages. One is the abstract system of symbols another is its use.
+
+Writing writes. The words written down carry their own source code embedded in the formal logic of the language. ¿?¿?¿?¿? WTF does that even mean?
+
+"Chomsky ’ s conclusion is that grammar is independent of meaning, and that the separation from semantics is essential to the
+study of syntactic structure."
+
+Separatin syntax from meaning.
+
+Computers no onger favour access the code and to show the user what is the computer doing. Graphic Interfaces have been favoured...
+
+"Behind this crucial issue of access to information is the history of the sharing of
+source code, itself rooted in the history of the UNIX operating system and its precari-
+ous position between the promises of the public domain and commercial enterprise,
+corresponding to the differences between free software and open-source develop-
+ment."
+
+
+Encouraging the users to become writers of executable code.
+
+"For Cramer, these writerly
+aspects of coding break down the false distinction between the writing and the tool
+with which the writing is produced (and in terms of the computer, between code and
+data)."
+
+Something about "Notation and execution are collapsed".
+
+"Another example might be Alvin Lucier ’ s composition
+I am sitting in a room (for voice on tape) (1969), 23 a script read by a performer and
+repeated 32 times as a loop. The score explains the concept like a program: at each
+iteration, the sound is recorded, played back, and then rerecorded, and hence becomes
+a representation of the resonance of the room itself as well as the body of the speaker.
+The instruction is executed, but the work is more about the irregularities of speech
+(including Lucier ’ s stutter) and its inherent musicality, to reveal that speech is so much
+more than the articulation of words. But also the words themselves can be said to
+perform, as they execute their instructions recursively."
+
+So this words perform the instructions they execute recursively.
+
+Expression and execution of code collapses.
+
+-- Notation
+
+Quotation marks allow us to distinguish between the voice being spoken and the voice being written.
+
+"This is spoken"
+
+"Quotation or exclamation marks empha-
+size that the words are not simply printed but are spoken in written form. Similarly
+in coding practices, “ commenting out ” is used to distinguish the voice of the program
+from that of the programmer."
+
+Communication not directed to the machine: precise names for variables, syntax colouring, comments, etc.
+"Together these aspects of programs are known as “ secondary notation, ”
+a pejorative term suggesting that code ’ s primary purpose is to be executed by a com-
+puter, and only secondarily to be understood by a human. However, in terms of
+human understanding, the names given to abstractions, their spatial arrangement,
+and their appearance on the page are as important as the logic contained within."
+
+This example is gorgeous:
+
+"This demonstrates the effectiveness of secondary notation, but as Oracle is used
+primarily in large-scale businesses, including much of the global financial infrastruc-
+ture, Feuerstein ’ s examples of excessive CEO compensation, union busting, and war
+crimes in a mainstream published book about technology were met with an outcry."
+
+
+The code:
+
+
+CREATE OR REPLACE PROCEDURE update_tragedies (warcrim_ids
+IN name_varray, num_victims IN number_varray) IS BEGIN...
+
+Variable names matter, LOL
+
+Literate style (Perl Poetry) Poetry that can be compiled as pearl lang. Perl is oriented towards literate style of coding.
+
+"N. Katherine Hayles asserts in Writing
+Machines : “ Literary texts, like us, have bodies, an actuality necessitating that other
+materialities and meanings are deeply interwoven into each other. ” 29 Imaginative and
+political possibilities emerge from this recognition."
+
+
+
+Indeterminism
+
+A difference between what exists and what is possible.
+
+“The act of making discrete extends through multiple levels of scale, from the physical
+process of forming bit patterns up through a complex hierarchy in which programs
+are written to compile other programs. ”"
+
+This is interesting:
+
+"Writing makes these units yet more discrete through inscription. Programmers oscil-
+late between these modes at the level of the human-computer interface, translating
+between machine behavior and human perception, 31 with the human made somewhat
+computerized and the computer somewhat anthropomorphized."
+
+Digital/Analogue divide in computer is problematised up here.
+
+
+
+
+"Speech grounds language in the voice, and orientational meta-
+phor grounds semantics in the body. It follows that computer software cannot have
+access to systems of meaning without at least some kind of reference to bodily rela-
+tionships."
+
+Reference to the body.
+
+
+SOftware is becoming more and more responsive to the nevironment. More connected to it.
+
+Programs become more than pure logic, 
+
+This is very relevant:
+******* 
+Thus programming are mbedded in broader language systems where meanings are produced by social practice.
+
+Apparently, machines are TOO rational to actually convey speech. The author will, apparently, explore that in the following section.
+
+-- Machines
+"So what would it take for a machine to speak convincingly?"
+
+Kempelen's speech machine (from the XVIII c)
+
+The idea behing the machine was to give a vocie to people that would require one.
+
+"following in the spirit of what Kempelen refers to as “ the basic tenets
+of society. ”"
+
+First experiment on sound synthesis.
+
+
+¿¿??? this text sucks. 
+
+This is usefull to challenge the MIDI paradigms of music creation via computers.
+
+"If the machine is con-
+sidered to lack a soul, it is because it manipulates symbols but does not understand
+them or produce meanings in them. Wittgenstein likens this to the workings of a
+pianola, translating marks and following patterns rather than expressing intentional-
+ity as such: “ The living reading machine produces as output solutions to arithmetical
+problems, texts spoken aloud, proofs of logical theorems, notes played on a piano,
+and suchlike. These ‘ machines ’ may be born, like an idiot savant, or trained. ”"
+
+
+
+Ok, .... something relevant here I guess:
+
+"The significant fact for Hayles is not whether
+speech is subordinate to writing (the position that Derrida takes) or whether writing
+is derived from speech (de Saussure ’ s position), but that code exceeds both in address-
+ing both humans and machines."
+
+
+Code does more than communicating to humans or contorling machines. But code has its own modes of signification 
+
+"Hayles considers code to determine actions with
+little ambiguity, although she does admit to the existence of noise with higher-level
+languages. For her purpose, she has problems with de Saussure ’ s “ dematerialized view
+of speech ” and Derrida ’ s “ linguistic indeterminacy, ” 61 as neither seems adequate to
+describe computational processes and actions."
+
+--------------------
+"If code undermines the distinctions between speech and writing and
+exceeds them, it is because it is a special kind of human-machine writing that makes
+things happen; in other words, it acts like speech."
+
+
+--Speech Act
+
+In what ways to say something is to do something?
+
+Programs do what they say at the moment that they start doing them.
+
+
+"In the analogy to code, what becomes useful is the recognition that
+speech produces an enormous variety of articulations that resist computational analy-
+sis, as described in the previous section."
+
+
+Speech is action?
+"There is necessarily a connection between saying something and
+physical action in a general sense. However, actions do not happen simply as a con-
+sequence of locution, as these further depend on outside factors."
+
+--Excess
+"Although programming languages are clearly not spoken as such, they express
+particular qualities that come close to speech and even extend our understanding of
+speech."
+
+Code legible and executable
+
+"The act of coding
+might be seen as the translation between a problem expressed in human terms of
+speech and one expressed in a way the computer can interpret, between ambiguous
+and complex expression and formal logic — or between loose and strict thinking."
+
+
+"Indeed, saying words or running code or simply understanding how they work is not
+enough in itself. What is important is the relation to the consequences of that action,
+and that is why the analogy of speech works especially well — although ultimately the
+phrase “ speech act ” may not be sufficient for the purpose."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

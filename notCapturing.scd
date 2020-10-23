@@ -46,11 +46,13 @@
 
 ~order.("listaOrdenada");
 
-~query.("live coding")  // 25 units for network and live coding music  // 5 units to spare in something else
-~query.("network music")
+~query.("sound studies")  // 25 units for network and live coding music  // 5 units to spare in something else
+~query.("time studies").collect({|item| item[0].postln })
 
 9.8666666666667 + 15.6 + 13.899966666667 + 12.966666666667 + 33.629993333334 + 33.746703333333
 // bin of lc nm: 26.4 units
+
+~query.("theory").collect({|item| item[2].postln }).asFloat.sum
 
 ~query.("sound studies")
 ~query.("time studies")
@@ -61,7 +63,7 @@
 
 // bin of sound / time studies: 19.1
 
-~query.("network technology")
+~query.("live coding")
 
 // bin of net tech: 47
 

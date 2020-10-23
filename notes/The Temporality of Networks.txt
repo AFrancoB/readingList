@@ -14,3 +14,555 @@ Notes:
 Abstract:
 
 This article addresses the seemingly paradoxical proliferation of coded systems designed to guarantee our safety and crises that endanger us. These two phenomena, it argues, are not opposites but rather complements; crises are not accidental to a culture focused on safety, they are its raison d'être. Mapping out the temporality of networks, it argues that crises are new media's critical difference: its exception and its norm. Although crises promise to disrupt memory – to disturb the usual programmability of our machines by indexing ‘real time’ – they reinforce codes and coded logic: both codes and crises are central to the production of mythical and mystical sovereign subjects who weld together norm with reality, word with action. Codes and states of exception are complementary functions, which render information and ourselves undead. Against this fantasy and against the exhaustion that crisis as norm produces, the article ends by arguing that we need a means to exhaust exhaustion, to recover the undecidable potential of our decisions and our information through a practice of constant care.
+
+----------------------------------------------------------------
+
+(Chun, 2016, p. 69)
+"Networks are made out of time: the chronic time of habits (memory) and
+the punctuating time of crisis."
+
+Habitual repetition ---> repetition
+
+Crisis breaks boundaries and creates new ones ----------> difference
+
+Crisis makes networks alive and volatile.
+
+Habit + Crisis Update; program (X) +
+exception (X) program (X + 1 ) .
+
+
+*********
+Crisis ==== endless optimization of the capture system.
+
+
+"In a networked world, there are two
+operational modes: habitual/programmed repetition (machinic and
+human) and critical exception."
+
+
+So, the point of this chapter is: "networks, which are made out of time (memory and real
+time), threaten to make us out of time."
+
+
+But out of time is the promise of new media. From crisis is that new media emerges from media.
+
+Crisis is new media's critical difference. Crisis is the normal exception.
+
+
+The logic of crisis are: codes and habits. Habits -> automatization and automatic codes which forecloses the future reducing it into the anticipated one from the past.
+
+(Chun, 2016, p. 70)
+"Exceptional crises justify
+states of exception that undo the traditional democratic separation of the
+executive branch from the legislative one."
+
+
+Within crisis and habit execution and legislation coincide.
+
+So: "To displace this twinning, this chapter argues for a
+practice of exhausting exhaustion: a recovery of the undead potential of
+our decisions and our information through a practice of constant care."
+
+A practice of exhausting exhaustion.......
+
+----- new section
+Internet Critical
+
+In the nineties there was an excessive an heterogeneous optimism on the internet: Bill Gates called it a source for "fritcionless capitalism" and some else just thought of it as a zone in which anything was possible: democracy, freedom, etc.
+
+The great "racial and global equalizer".
+
+"The Internet, that is, finally instantiated the Enlightenment and its
+critical dream by allowing people, as Kant prescribed, to break free from
+tutelage and to express their ideas as writers before the scholarly world."
+
+Internet was critical because it related very well with theory... somehow it instantiated theory...
+
+but the internet has not lived to such expectations...
+
+Internet is a place where loosely verified national claims or theories can prosper. The internet have become a place where it is impossible to become critical. Theories are not only literalised but...
+
+(Chun, 2016, p. 73)
+"theory is impossible because we have no time to register
+events, and we lack a credible authority to legitimate the past as past."
+
+Crisis structures new media's temporality.
+
+-------
+Crisis, new media's critical difference
+
+"Crises have been central to making the Internet a mass medium to
+end mass media: a mass (scratch mass) personalized device."
+
+New media also personalises crisis.
+
+
+
+
+
+an interesting comment on tv: difference between ne media user and tv spectator: couch potato and empowered user.
+
+Crises touch
+duration <- but a duration that is indexed
+
+"Further, crises, like televisual catastrophes, punctuate the
+constant stream of information, so that some information, however briefly,
+becomes (in)valuable. This value is not necessarily inherent to the material
+itself: this information could, at other moments, be incidental; but it
+becomes significant because it relates to an ongoing decision, to a 'real­
+time' action."
+
+
+This seems to be an interesting critique to real time and action-oriented media.
+
+A critique of "real time"
+
+"What is real is what unfolds in "real time."
+
+
+"That is, "real time" introduces indexicality to this seemingly anti­
+indexical medium; an indexicality that is felt most acutely in moments of
+crises, which enable connection and demand response."
+
+
+"the impasse "is a stretch of time
+in which one moves around with a sense that the world is at once intensely
+present and enigmatic, such that the activity of living demands both a wan­
+dering absorptive awareness and a hypervigilance that collects material that
+might help to clarify things, maintain one's sea legs, and coordinate the
+standard melodramatic crises with those processes that have not yet found
+their genre of event. ""
+
+The present is crisis-ordinary; we keep surviving in detriment of our long-term wellb eing
+
+the promise of a bright future is the biggest problem of the current temporality.
+"
+The belief in memory as storage, combined with the belief in "real time"
+as indexical, is a form of cruel optimism: memory, which once promised to
+save users from time, makes them out of time by making them respond
+constantly to information they have already responded to, to things that
+will not disappear. Information is curiously undead, constantly regenerat-
+· · - - -�
+ing, and users save things, if they do, by making the ephemeral endure. As
+_ .
+noted in the previous chapter, users save things digitally, if they do, by mak­
+ing what is stable ephemeral."
+
+Constantly saving information defers the future!!! ********
+
+Memory, which was initially posited as a way to save users by catching what
+they lose in real time, by making the ephemeral endure and thereby fulfill­
+ing that impossible promise of history to gather everything into the pres­
+ent, now threatens their sanity
+
+Excess of memory now threatens our sanity.
+
+
+*** Pay attention to the persistance of memory and its viscocity. How can we imagine a memory that can die off so we can preserve our historicity?
+
+(Chun, 2016, p. 79)
+"In computer systems, "real time" reacts to the live: their 'liveness' is their
+quick acknowledgment of and response to users' actions. Computers are
+"feedback machines, " based on control mechanisms that automate deci­
+sion making. As the definition of "real time" makes clear, "real time" refers
+to the time of computer processing, not to the user's time. "Real time" is
+never real time-it is deferred and mediated."
+
+*** REAL TIME is NEVER REAL TIME, is always deferred and mediated!!!*******
+
+
+Real time refers to the time of the computer ^^^
+
+Automatisation of decision making processes.
+
+(Chun, 2016, p. 79)
+"user decisions are like actions in a video game. They
+are immediately felt, affective, and based on user actions, and yet at the
+same time programmed."
+
+--- new section --------
+Logos as State of Exception
+
+Call for extraordinary responses. (Merging executive and legislative powers).
+
+A concept from Derrida is invoked: undecidability.
+
+"States of emergency respond
+to the undecidable by constructing a sovereign subject who closes the gap
+between rules and decisions, who knits together force and law (or, more
+properly, force and suspended law); this sovereign subj ect, through his
+actions, makes the spirit of the (dead) law live. Although these states seem
+to be the dead (that is, living) opposite of codes and programs, they are
+linked together through questions of agency or, more properly, as I explain
+later, authority."
+
+Construction of a sovereign subject that "knits together force and law".
+
+Authority links together such sovereign subjects with code and programs.   The dead here invoked opposes to the living (code) ¿?¿?
+
+State of exception according to Agamben:
+
+"in order to apply a norm it is ultimately necessary to suspend its application,
+to produce an exception. In every case, the state of exception marks a threshold at
+which logic and praxis blur with each other and a pure violence without logos claims
+to realize an enunciation without any real reference"
+
+These reveals that the norms and the code and reality, the praxis, are always separated. Cannot be the same ever.
+
+In the state of exception the sovereign authorises a law without any reference to reality. But:
+
+"a state of exception is langue in its pure state:
+language in the abstract and at its most mystical."
+
+Habits:
+"However, once established, they are " strongly
+and reliably activated, " regardless of any initial rewards or goals. 41 Habits
+are also described as "inflexible . ""
+
+Satisfy a habit: Repeat it exactly!
+
+
+Habit learning is non-conscious
+
+***** this right here is relevant:
+"Habits are trained algo­
+rithms, stored in involuntary memory."
+
+
+Intriging relationship between desire and habits: "This oddly reversed temporality-because I do it,
+I must like it;"
+
+But really?
+
+"Habit is both the source and the action because it is 'programmed. ' The
+logic of programming reduces the living world to dead writing; programs
+condense everything to " source code" written in advance, hence the adjec­
+tive " source. ""
+
+Then a lot of references to Invisibly visible and its views on source code:
+
+"software is word
+become action: a replacement of process with inscription that makes writ­
+ing a live power by conflating force and law."
+
+"Code as law is code as police. Insightfully, Derrida
+argues that modern technologies ensure the sphere of "the police absolute
+ubiquity. The police weld together norm with reality; they " are present
+or represented everywhere there is force of law . . . . They are present, some­
+times invisible but always effective, wherever there is preservation of the
+social order. 1"
+
+
+And now we can see the movement clearly: Legislative, executive and juridical powers collapse into one single unit.
+
+By making logos everything law/police/execution become a single sovereign that abstractly makes everything happen.
+
+The word is decoupled from reality, abstracted from it.
+
+That is why the computer programmer is such a magician. The word becomes reality.
+
+A claim towards democracy:
+
+"As Derrida has underscored, the police is the name for
+"the degeneration of democratic power . . . . Why? In absolute monarchy, leg­
+islative and executive powers are united. In it violence is therefore normal,
+conforming to its essence, its idea, its spirit. In democracy, on the contrary,
+violence is no longer accorded nor granted to the spirit of the police.
+Because of the presumed separation of powers, it is exercised illegitimately,
+especially when instead of enforcing the law, it makes the law. " 62 Code as
+logos and states of exception both signify a decay of the decay that is
+democracy."
+
+
+The exercise of violence can onyl hapṕen if the execution and the legislation are separated.
+
+
+So you a the sovereign user is... an act distant to democratic stances?
+
+"Celebrations of an all-powerful user/agent-YOU as the net­
+work, YOU as "produser"-counteract concerns over code as law as police
+by positing YOU as the sovereign subject, YOU as the decider. An agent,
+however, only holds power through proxy; an agent acts on behalf of
+another subject."
+
+The state of exception is the force of the law but with the law absent*****
+
+
+"They are both language at its
+most abstract and mystical, albeit for seemingly diametrically opposed rea­
+sons, for one is allegedly language without writing; the other writing with­
+out language."
+
+
+Language without writing. ¿New media, is that you?
+
+-------------------- new segment
+Habit + Crisis = Update
+
+To undermine the false sovereign here described we need to: "Habit needs to be rethought in relation to memory, in terms of repetition and difference."
+
+"Crisis are opportunities for changing habits"
+
+
+Actualising habits is to align your action to an imagined future (which has to differ from other futures imagined in the past).
+
+But what happens when an imagined future cease to activate present actions? The crisis mode here described does not permit to actually realise the future. The future, in this way, remains in the imagination.
+
+
+crisis is a sign of neoliberalism, weaponised by people like milton friedman and critiqued by people like naomi klein.
+
+
+"proliferation of crises: an affectively
+intense present that goes nowhere. The constant update, that is, deprives
+habit of its ability to habituate."
+
+
+Updating changes our habits, so we are always in a state of exception, in crisis.
+
+
+We need to question automatic execution in order to allow ourselves to habituate.
+
+Memory and its ubituity throughout the organs of the body is automatisation:
+"It is knowledge without
+knowing. It is memory that is directly performed without any awareness of
+memory."
+
+
+Even after loosing the memory one can develop habits.
+
+
+
+SO the author asks:
+
+"If memory is the strengthening and development of certain
+pathways-pathways that are not particular to memory but to sensory
+motor action and perception-is memory something separate, something
+that is stored? That is, what does memory have to do with memory? Does
+memory even exist?"
+
+"Wood herself argues
+that habit is not a knowledge structure, but a response pattern and a control
+mechanism."
+
+"Rather than arguing whether memory exists and what it is or is not,
+what is most needed is a change of perspective, one that acknowledges that
+memory is an action, an activation and difference in structure, perhaps
+m aking memory not anything because it is everything. This change in
+perspective would make the pertinent questions not "What is memory?"
+and "Where is memory stored?" but instead "What relations are central
+to habituation/training, which are evidence of both remembering and
+forgetting?""
+
+
+Memory seems to be the persistence of a movement. 
+
+***** THIS *****
+"habit enables radical change through reflection, by offering us the time needed to produce the truly different."
+
+
+The risks and responsabilities that come with such repetition patterns:
+"This necessary repetition makes us realize that our desire
+for safety as simple securing, as ensured by code, actually puts us at risk of
+losing what we value, whether it is data stored on old floppy drives or habit­
+uations."
+
+What remains is not what is static, but what can be repeated and repeated and repeated
+
+"To access repeatedly is to preserve through construction (and sometimes
+destruction) ."
+
+Preserving omething does not mean to fix it in space-time but to repeat it. Actively choose its persistence
+
+"The undecidable is thus freedom in the rigor­
+ous sense of the word; a freedom that comes not from security but rather
+from risk. It is a moment of pause that interrupts our retroviral dissemina­
+tion and induces the madness that, as Derrida (via Kierkegaard) has argued,
+accompanies any decision."
+
+********
+"To exhaust exhaus­tion, we need to exhaust too the desire for an end, for a moment in which
+things just can stand still."
+
+So, we have to stop wanting to reach the endpoint. To consume all the processes and to live all of the life and accept that we are always in transit, in a state of haecceity, in a state of becoming.
+
+Also:
+"'Trusting' a program does not mean simply accepting its predictions
+or letting it decide the future, but instead acknowledging the impossibility
+of knowing its truth in advance while nonetheless responding to its results."
+
+So, trust the models of programs even known that the future that they describe is already impossible to imagine
+
+Many predicitons done by computers are designed to be unverifiable.
+
+"To defer a future for another future is to engage with the undead of infor­
+mation. The undead of information haunts the past and the future; it is
+itself a haunting. As Derrida explains, "the undecidable remains caught,
+lodged, as a ghost . . . in every decision, in every event of decision. Its ghost­
+liness . . . deconstructs from within all assurance of presence, all certainty or
+all alleged criteriology assuring us of the justice of a decision, in truth of the
+very event of a decision. ""
+
+
+Decisions are nver final.
+
+
+((( think of these in relationship to live coding, the decisions made while performing might be gone in terms of information/computation, however they remain in the ears of people)))
+
+
+So, what emerges from these repetitions: an ethical (encounters) engagement with yourselve and others.
+
+"Repetition is not sim­
+ply exhaustion: not simply repetition of the same that uses up its object or
+subject. What can emerge positively from the linking of crises to networks­
+what must emerge from it, if we are not to exhaust our resources and
+ourselves-are constant ethical encounters between the self and other."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

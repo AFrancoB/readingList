@@ -13,7 +13,468 @@ Notes:
 
 pages: 49-88
 
-Intuition note: There is a need here for a decolonnial theorist providing an alternative critique and de-mistification of modernity.
+Background, what determines modernity is the dual understanding of nature and society. The book is a book of "anthropology of science". There are important concepts that are tackled: pre-modern, post-modern, anti-modern, non-modern. quasi-objects. 
 
-Latour says 'we have never been' modern. Echeverría replies: '¡No shit, Sherlock!'
+Modernism is a process of purification: depuring the human from the material and viceversa.
+
+Constitution refers to the dualism: nature / culture.
+
+Amodern/ non-modern:
+"This retrospective attitude, which deploys instead of unveiling, adds
+instead of subtracting, fraternizes instead of denouncing, sorts out
+instead of debunking, I characterize as nonmodern (or amodern). A
+nonmodern is anyone who takes simultaneously into account the
+moderns' Constitution and the populations of hybrids that that
+Constitution rejects and allows to proliferate."
+
+Postmodern:
+"Disappointed
+rationalists, its adepts indeed sense that modernism is done for, but they
+continue to accept its way of dividing up time; thus they can divide up
+eras only in terms of successive revolutions. They feel that they come
+'after' the moderns, but with the disagreeable sentiment that there is no
+more 'after'. 'No future': this is the slogan added to the moderns' motto
+'No past'. What remains? Disconnected instants and groundless denun­
+ciations, since the postmoderns no longer believe in the reasons that
+would allow them to denounce and to become indignant."
+
+
+The antimodern:
+"The antimodern reaction struggles fiercely against the effects
+of the Constitution, but accepts it fully. Antimoderns want to defend
+localities, or spirit, or rationality, or the past, or universality, or liberty,
+or society, or God, as if these entities really existed and actually had the
+form that the official part of the modern Constitution granted them.[...]
+The antimoderns even accept the chief oddity of the moderns, the idea of a
+time that passes irreversibly and annuls the entire past in its wake."
+
+So.... why are moderns victims of their own success:
+
+Modern live has multiplied hybrids. Modernity cannot develop mechanisms to "partition" the hybrids as fast as the creation of them.
+
+More hybrids require more partition mechanisms.
+
+Too much ambiguity in modernity, how can we determine if something is nature or culture?
+
+We need to add the practice of mediation to the practice of purification.
+
+
+The crisis described by Latour in the argument of the book: "the proliferation of hybrids has saturated the constitutional
+framework of the moderns." (Latour, 1993, pp. 51)
+
+There is a need to provide with a framework the osbervation of hybrids and other phenomena in-between.
+
+"By deploying both dimensions at once, we may be able to accommodate the hybrids and
+give them a place, a name, a home, a philosophy, an ontology and, I
+hope, a new constitution." (Latour, 1993, pp. 51)
+
+
+Quasi Objects:
+
+"To become a social scientist is to realize that the inner properties
+o f objects do not count, that they are mere receptacles for human
+ca tegories."
+
+Sometimes, sociologists determine an argument by their human or their natural causes: How the human project into the surface of the object rendering it meaningless unless it is coded by a human. And how material conditions are so powerful that humans are completely formed by them. Seeing double according to Latour.
+
+"The solution to this double contradictory denunciation is so pervasive
+that it has been providing social scientists with most of their common
+sense; it is called dualism. The Nature pole will be partitioned into two
+sets: the first list will incude its 'softer' parts - screens for projecting
+social categories - while the second list will include all its 'harder' parts -
+causes for determining the fate of human categories: that is, the sciences
+and the technologies. The same partition will be made on the Subject/
+Society pole: there will be its 'harder' components - the sui generis social
+factors - and its 'softer' components - determined by the forces
+discovered by sciences and technologies. Social scientists will happily
+alternate from one to the other showing without any trouble that for
+instance gods are mere idols shaped by the requirements of social order,
+while the rules of society are determined by biology."
+
+
+So dualism divides objects/society in hard and soft. Dualism allows hard x to affect soft y and viceversa.
+
+
+Gringo lol problem:
+"Social scientists did not really believe in religion and popular consumption.
+They did believe in science, however, from the bottom of their scientistic
+hearts."
+
+All of this is a critique to the epistemology of scoail sciences. And how the dualism principle was proven inadequate.
+
+
+Critique of dialectics:
+"On the contrary, dialectics makes the
+ignorance of that locus still deeper than in the dualist paradigm since it
+feigns to overcome it by loops and spirals and other complex acrobatic
+figures. Dialectics literally beats around the bush. Quasi-objects are in
+between and below the two poles, at the very place around which
+dualism and dialectics had turned endlessly without being able to come
+to terms with them."
+
+
+Philosophers, quick "survey" of how they deal with quasi-objects.
+
+
+Hobbes and Boyle separated objects and subjects very harshly: Boyle rigurous science / Hobbes citizen studies
+
+
+With Kant, the things-in-themselves are inaccessible and the trascendental subject is incommensurable. So:
+"Hybrids are indeed accepted, but solely
+as mixtures of pure forms in equal proportion."
+
+Mediation in Kant transmits pure forms.
+
+"Multiplying layers of intermediaries make it possible
+to accept the role of the quasi-objects, but without giving them an
+ontology that would call the 'Copernican Revolution' back into question."
+
+Dialectics:
+"But dialectics picked the wrong contradiction. It did manage to identify the
+one between the Subject pole and the Object pole, but it did not see the
+one between the whole of the modern Constitution that was establishing
+itself and the proliferation of quasi-objects"
+
+So the proliferation of quasiobjects (that contradicted the modern constitution) was elevated to the category of contradiciton by Hegel.
+
+Interesting:
+"Dialectics speaks of nothing but mediations, yet the countless
+mediations with which it peoples its grandiose history are only
+intermediaries that transmit pure ontological qualities - either of the
+spirit, in its right-wing version, or of matter, in its left-wing version."
+
+
+So mediators transmit pure ontological qualities. 
+
+The dialecticians were the greatest modernisers dice el pinche latour.
+
+Phenomenology attempts to occupy the hole opened in the middle by kant and dialecticians.
+
+The hole provoked by ever more proliferating quasiobjects.
+
+However the distance between objects and subjects grew widther.
+
+Phenomoenologists do not attribute any essence to neither subjects or objects.
+
+There are some that are called prepostmoderns which accept fully the divide and completely ignore the other side, as if their disciplines and their natural or cultural interests can explain the totallity.
+
+Then a harsh critique to postmodernists:
+Lyotard claims that hard sciences are completely decoupled from human society. Latour responds:
+"The postmoderns believe they are still modern because
+they accept the total division between the material and technological
+world on the one hand and the linguistic play of speaking subjects on the
+other - thus forgetting the bottom half of the modern Constitution; or
+because they relish only in the hybrid character of free floating networks
+and collages - thus forgetting the upper half of that same Constitution."
+
+But what mediators are multiplied in the process of explaining modernity  by the postmodern?
+
+"It is the double contradiction that is modern, the
+contradiction between the two constitutional guarantees of Nature and
+Society on the one hand, and between the practice of purification and the
+practice of mediation on the other."
+
+
+Postmoderns are an end point, that cinically accpets and furthers the divide between culture and nature and the practice of purification over mediation.
+
+The end of ends as called by latour. 
+
+But from phenomenology a branch different from this emerges in the intellectuals that (instead of concentrating in purififcation) concentrated in one of the most relevant mediation mechanisms: language (semiotics).
+
+"Everything becomes sign and sign system: architecture and cooking,
+fashion and mythology, politics - even the unconscious itself (Barthes,
+[ 1 985] 1 98 8 ) ."
+
+Problem with lhe linguistic turn:
+So how to connect the automatised discourse with the referent (nature)?
+
+"When we are dealing
+with science and technology it is hard to imagine for long that we are a
+text that is writing itself, a discourse that is speaking all by itself, a play of
+signifiers without signifieds. It is hard to reduce the entire cosmos to a
+grand narrative, the physics of subatomic particles to a text, subway
+systems to rhetorical devices, all social structures to discourse."
+(Latour, 1993, pp. 64)
+
+"From this crucial turning point, we have learned that the only way to
+escape from the parallel traps of naturalization and sociologization
+consists in granting language its autonomy. Without it, how could we
+deploy that median space between natures and societies so as to
+accommodate quasi-objects, quasi-subjects?[...]
+But by avoiding the double problem of connections to the referent and
+connections to the context, they prevent us from following the quasi­
+objects to the end. These latter, as I have said, are simultaneously real,
+discursive, and social. They belong to nature, to the collective and to
+discourse"
+
+VERY IMPORTANT: quasi objects belong to nature, to the collective and to discourse.
+
+Heidegger and being is a way to understand quasiobjects beyond nature, culture and discourse. But:
+"Thus Heidegger treats the modern world as the
+visitors treat Heraclitus: with contempt."
+
+In Heidegger there is too much purity too much essence in everything.
+
+
+"We are carrying out the impossible project undertaken by
+Heidegger, who believed what the modern Constitution said about itself
+without understanding that what is at issue there is only half of a larger
+mechanism which has never abandoned the old anthropological matrix.
+No one can forget Being, since there has never been a modern world, or,
+by the same token, metaphysics. We have always remained pre-Socratic,
+pre-Cartesian, pre-Kantian, pre-Nietzschean. No radical revolution can
+separate us from these pasts, so there is no need for reactionary counter­
+revolutions to lead us back to what has never been abandoned."
+
+So quasiobjects are treated like: a) naturalization, sociologization, discursivization and the forgetting of being. This all fail and the symptom is ironic cynica postmodernism.
+
+So Latour proposes:
+"All these critical resources share the
+failure to follow both the work of the proliferation of hybrids and the
+work of purification. In order to exit from the postmoderns' paralysis, it
+suffices to reutilize all these resources, but they must be pieced together
+and put to work in shadowing quasi-objects or networks."
+
+
+
+So latour is obliged to "retraced his steps" and consider the temporal frameworks of the modern. *******
+
+
+Return to the non-modern world that was never left behind.
+
+Analysis of time:
+
+
+Moderns sense time as an irreversible arrow, as capitalization as progress.
+
+OJO*******
+"The more they accumulate
+revolutions, the more they save; the more they capitalize, the more they
+put on display in museums. Maniacal destruction is counterbalanced by
+an equally maniacal conservation."
+(Latour, 1993, p. 69)
+
+In mediation a great remix of epochs happens that goes beyond the logic of accumulation of modern temporality.
+
+*the miracle of science (chapter)
+
+"The modern conception of time, as it is embedded into the discipline
+of history depends - strangely enough - on a certain conception of
+science that suppresses the ins and outs of Nature's objects and presents
+their sudden emergence as if it were miraculous."
+
+(Latour, 1993, p. 70)
+"The idea of radical revolution is the only solution
+the moderns have imagined to explain the emergence of the hybrids that
+their Constitution simultaneously forbids and allows, and in order
+to avoid another monster: the notion that things themselves have a
+history."
+
+
+Political revolution was a term borrowed from scientific revolution.
+
+So, things and people have their own forms of history (motivated by revolutions):
+"From now on there will thus be two different histories:
+one dealing with universal and necessary things that have always been
+present, lacking any historicity but that of total revolutions or epistemo­
+logical breaks; the other focusing on the more or less contingent or more
+or less durable agitation of poor human beings detached from things."
+
+Every new scientific breakthrough is a new begining comparable to the begining of a human epoch.
+
+Objects: what has no history but emerges in human histgory"
+
+(Latour, 1993, 71)
+"The asymmetry between nature and culture then
+becomes an asymmetry between past and future. The past was the
+confusion of things and men; the future is what will no longer confuse
+them."
+
+
+Present is marked by a series of breaks (microrevolutions) that advance as metronome ticks. The present either moves forwards as progess or as decadence.
+
+Time does not flow ina smooth line and direction, but it act as whirlpools. It goes into different directions:
+
+"The postmoderns are right about the dispersion; every contemporary
+assembly is polytemporal. But they are wrong to retain the framework
+and to keep on believing in the requirement of continual novelty that
+modernism demanded. By mixing elements of the past together in the
+form of collages and citations, the postmoderns recognize to what extent
+these citations are truly outdated. Moreover, it is because they are
+outmoded that the postmoderns dig them up, in order to shock the
+former 'modernist' avant-gardes who no longer know at what altar to
+worship. But it is a long way from a provocative quotation extracted out
+of a truly finished past to
+. a reprise, repetition or revisiting of a past that
+has never disappeared."
+
+
+So lets move against the monotime of succession of revolutions
+
+"It would be better to say that
+modern temporality has stopped passing."
+
+"Time is not a general framework but a provisional result of the
+connection among entities."
+
+Time as a spiral, not as a line.
+
+"In such a framework, our actions are
+recognized at last as polytemporal."
+
+
+The problem for latour seems to be the qualification of "archaic" and "futuristic" that quasiobjects might tend to. 
+
+THIS:************************************************
+"The idea of an identical repetition of the past and
+that of a radical rupture with any past are two symmetrical results of a
+single conception of time. We cannot return to the past, to tradition, to
+repetition, because these great immobile domains are the inverted image
+of the earth that is no longer promised to us today: progress, permanent
+revolution, modernization, forward flight."
+
+
+"It is the sorting that makes the times,
+not the times that make the sorting."
+
+Latour on "how can we absorb them (the third world peopl)?"
+
+"The connections among beings alone make time."
+"return to passing time - that is, to beings and their
+relationships, to the networks that construct irreversibility and rever­
+sibility."
+
+"By conceiving every hybrid as a mixture
+of two pure forms."
+
+So the work of mediation has to change into something different.
+
+The key is in mediation that has been mantained and abolished at the same time in modern times. This is why mediation has been multiplied because the hybrid, that what is in the middle, persists.
+
+
+The need of mediation rathert than intermediaries.
+
+"These metamorphoses
+become explicable, on the contrary, if we redistribute essence to all the
+entities that make up this history. But then they stop being simple, more
+or less faithful, intermediaries. They become mediators - that is, actors
+endowed with the capacity to translate what they transport, to redefine
+it, redeploy it, and also to betray it. The serfs have become free citizens
+once more."
+
+
+So, distributing the essence of not between the poles but in the mediators we arrive at the possibility of something new to emerge. Every agent is changed if the essence is redistributed in this way.
+
+(Latour, 1993, p. 84)
+"Those who follow networks, or study the sciences, are only
+documenting the nth loop in the spiral whose fabulous beginning Serres
+sketches for us. Contemporary science is a way of prolonging what we
+have already done. Hobbes constructs a political body on the basis of
+animated naked bodies: he finds himself with the gigantic artificial
+prosthesis of the Leviathan. Boyle concentrates all the dissension of civil
+wars on an air pump: he finds himself with the facts. Each loop in the
+spiral defines a new collective and a new objectivity."
+
+Defining new objectivities. The work of contemporary sciences only prolong what has been done already. 
+
+Connecting the 4 modern repertoires:
+
+1) Studies on the material. 
+
+2) Studies on the social
+
+3) Studies on discourse
+
+4) Studies on being
+
+
+How can the four critiques of modernity be articulated together?
+
+Well, moving from purification to mediation and from essence to events.
+
+
+"Of quasi-objects, quasi-subjects, we
+shall simply say that they trace networks."
+
+
+
+We have to cease to being modern since: "The linkage is impossible as long as we remain truly modern, since
+Nature, Discourse, Society and Being surpass us infinitely"
+
+
+"Real as Nature, narrated as Discourse, collective as Society, existential
+as Being: such are the quasi-objects that the moderns have caused to
+proliferate. As such it behoves us to pursue them, while we simply
+become once more what we have never ceased to be: amoderns."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

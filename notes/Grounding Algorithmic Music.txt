@@ -13,3 +13,712 @@ Notes:
 
 Even though I do not know the pages contained in this chapter I would like to only choose 60.
 
+I will read 1(McLean and Rogers),2 (Rorhuber) and 4 (Collins).
+
+--------------------------------------------
+
+1.Musical Algorithms as Tools, Languages, and Partners:
+A Perspective (Alex McLean and Roger T. Dean)
+
+"The landscape of algorithmic music"
+
+"what new musics are now being found through algorithmic means which humans could
+not otherwise have made. In reciprocation with this, we also explore cultural aspects—
+how is algorithmic music being assimilated back into human culture, and what is its
+social function or meaning?"
+
+Algorithm is a finite sequence or structure of instructions.
+
+Thus algorithmic music is related to the music of Stockhausen, Wolff, etc. The usual suspects of the postserial school, the new york bad boys, etc.
+
+Leigh Landy's distinction between note based and sound based music.
+
+"Note-based music involves a conception of discrete
+sequences of events, largely capable of being described in symbols (such as score
+notation), and most usually characterized in part by pitches: such music permits tonal,
+harmonic, and rhythmic hierarchies. On the other hand, sound-based music puts more
+emphasis on the spectral content of sounds, which may be slowly transforming, with
+relatively fewer discrete events and little emphasis on pitch (and usually no spectral
+hierarchy, but rather in-depth spectral organization)."
+
+There are problems defining algorithmic music. For example, is not all scorew ritten music algorithmic? does music practice generally involve the use of algorithms?
+
+"defined by the urge to explore and/or extend musical thinking through formalized abstractions. In the process
+of making music as (or if you prefer, via) algorithms, we express music through formal
+systems of notation, taking a view of music as the higher order interplay of ideas."
+
+To (almost) antagonistic undertsandings of the algorithmic: Algorithms that can act independently creating music or algorithm as ways of understanding and organising sound as a performative practice.
+
+
+About the relationship of live coders with determinism:
+
+"the algorithm may run deterministically, but this determinism is
+broken through live modifications by the human musician, who shapes the music through
+modifications to its code"
+
+"algorithmic composition allows us to work with abstractions of musical time while not
+being subjected to the very real constraints imposed by a listening audience."
+
+So, many music that uses algorithmic processes is fixed and replicable (as the composers would like it to be I guess) but goes "beyond human imagination".
+
+A little bit of taxonomy:
+
+a) generative (algorithmic) music. Music that requires no input
+
+b) reactive (algorithmic) music. Music that modifies or builds over certain input.
+
+c) Interactive (algorithmic) music. Music that is produced through the direct itneraction of end users and algorithms. (live coding and live algorithms are in this category)
+
+-- Origins.
+
+Beyond the araibic and indian origins "outside modernity" the history of automatas is facinating.
+
+-- Early algorithmic music
+
+Worth noting, the genealogy emphsises minimaliststs, xennakis, ligeti, stockhausen, etc. 
+
+No nancarrow, no ablinger, no new complexity (I mean, how can Fernneyhough be excluded from such genealogy?)
+
+
+-- Issues in algorithmic music
+
+"In other words, algorithms in principle may
+contribute to all stages of music making, to what historically has been a highly
+differentiated series of activities: composition, performance, acoustic spatialization,
+recording, editing, mixing, mastering."
+
+
+--
+
+"However, in terms of the activity of algorithmic music, everything is new: the speed of modern computation
+allowed by microprocessors, their plummeting cost, their proliferation in handheld
+devices, and social shifts too; free/open source culture and online social spaces; and in
+much of the world, an increasingly computer-literate populus. All this means that
+algorithmic music is now transforming from a niche activity, shared in fringe festivals and
+academic conferences, into a more inclusive music culture sometimes finding large
+audiences, end-users, and communities of practice."
+
+It is interesting how the commodification and generalisation of algorithmic music seems to be foreseen firstly but hidden in the form of "inclusion".
+
+---------------------------------------
+2. Algorithmic music and the philosophy of time
+
+"The liminal nature of algorithms is central for understanding the specificity of time. It is
+their temporal ambiguity, being half in and half out of time, that makes these ‘unfoldable
+formalizations’ such remarkable means and subjects of investigation. From some distance
+it seems clear why algorithmic music is an intriguing case here: it inhabits mathematical,
+cultural, aesthetic, and physical spheres alike, and because it is concerned with sound,
+which is an ongoing affair, a consideration of time cannot be avoided as easily as in other
+subject matters. Implicitly or explicitly philosophically, it thinks simultaneously through
+programming, process, and sound. And rather than taking it for granted—as a self-
+evident resource, as capital perhaps, that can be invested in the production of surplus
+time—implicitly or not, algorithmic music reasons about time"
+
+
+"algorithmic music is a distinctive way of understanding time"
+
+This paper draws on ideas on time from areas like philosophy, music and computer science
+
+"An algorithm is on the verge of time: on the one hand, it is strictly structural—a formal,
+unchanging entity. On the other hand, it is not only a formula, but a formula that
+prescribes steps to be made one after another, depending on one another. It is a formula
+that exists in order to unfold, in the form of a process, in time and over time, and
+dependent on its past inputs."
+
+
+Algorithms describe structures, but also describe a sequence of steps for such structure to exist. The input and output have to unfolded in a particular way. Sequence is necessary (then time plays a role) but it also pre-exist (so it does not need time).
+
+Succession?
+
+
+Algorithmic time **unfolds**
+
+"time and causation are entangled most inseparably"
+
+In algorithms time and causation are deeply entangled.
+
+The algorithm inhabits a different time of that of the time that it unfolds:
+
+"That is why the distinction between a program, which unfolds its
+consequences mechanically, and an algorithm, which unfolds them logically, is not at all
+trivial."
+
+
+Constancy/change
+abstract/concrete
+
+
+-- Clock Works
+
+This reminds me of what we are cooking at nanci nacan
+
+"To this end, much unlike clocks, their inner workings
+should not be contingent on the time at which the calculation happens."
+
+"Ideally, the display of clocks depends only on time, that of reckoners only on their input."
+
+
+Reckoning and keeping time are practices of measuring a distance, an interval between two disconnected components. 
+Reckoning is asking the time, giving a moment, a discrete point extracted from a continuum. The clock keeps going, requires no input, keeps measuring regardless of intevrention, marks a flow by many discrete moments.
+
+"At least one thing can be noted: timekeeping and 
+reckoning, independent of whether they involve continuous or discrete movements, are
+both exceptional practices insofar as they oblige us to strictly maintain an internal ratio
+between otherwise disconnected parts. They are both ‘rational’ in this sense."
+
+Clocks are media!!****** : "hey are best considered as media, halfway between
+machines, that exert influence, and instruments, that receive it."
+
+So clocks create time or give time?
+
+The clock exerts social power!!
+
+Clocks particularly do this when coupled with the sound that comes with them.
+
+
+Lack of time discipline == lack of synchronicity
+
+"Hence, time signals are not merely an expression of social power. They also mark moments and synchronize
+otherwise disconnected activities, conveying a specific moment in an internal state of
+their machinery that coincides with other events, such as planetary movements."
+
+
+Sound as a symptom of time.
+
+Something about the time apriori on Kant. How we can udnerstand space through geometry and time through arithmetic
+
+In the kantian a priori, the conception of time that pre-exists the human experience, is that we have developed an intuition of time.
+
+So relativistic ideas of time in the early 20 c: "the dialectics
+between form and content are changed: space passes no less than time and we move
+through time no less than through space."
+
+Jacktrip:
+"we do get an adequate analogue when we try to
+synchronize clocks without knowing the speed at which information travels in a medium—
+this issue is not only relevant in the cognition of time but has also been both a stumbling
+block and an inspiration for algorithmic music, network music in particular."
+
+So, the network has something in common with relativity (whihc normally only applies to massive objects like planets)!!!
+
+That is the speed and robustness of the netwrok that provides a speedy and stable flow of data.
+
+So network music is not dealing only with techniques and technology but mroe adequately put: ", even if indirect, confrontation
+with the structure of spacetime."
+
+In a parallel path, the modern dream of a "total system" that could control it all is over. So in terms of computational science:
+"Rather than being clear and unambiguous
+specifications of a schedule to be fulfilled, formalizations—and programming languages in
+particular—in fact have turned out to function as media that allow us to navigate and
+describe the interrelations between plan, process, and result."
+
+CLocks and computers (calculators) have a long history together:
+
+"Where in turn the mechanism of
+clocks depends on calculations, the flow of time becomes contingent, and in so far as
+temporal marks are set algorithmically, the meaning of duration may shift dependent on
+events that happen."
+
+
+In early days, computer scientists sonified internal processes of the computer to monitor the development of loops. Sonification allowed to hear if a loop was interrupted or fell into a infinite loop.
+
+"Even if not all calculations convey time, they certainly take time. This time is structured
+by the material and logical resources that are needed to make the calculations happen."
+
+So, computational time has many strata, such strata are dense and full of frictions (this can be material, logical, etc) but at the surface level the temporalities involved in such process are smooth and expressed as side effects: sound. 
+
+"Sound would be the realm of such a final order, a ground level of immediacy. Such an idea of a grounding presence,
+however, is misleading."
+
+
+"Both sound and
+formalization are possible responses to this abstractness of time, whose understanding
+must, as it seems, accept an essential diversification of its modes of access."
+
+So, all the strata of temporal understandings that intervene in the process of time keeping/production cannot be reduced to a unique totalising universal "temporality".
+
+"the sonification of the time structure of algorithmic processes was motivated
+by the difficulty of conveying how a computation proceeds over time, a difficulty it could
+not resolve."..."On a
+certain level, algorithmic computer music, and also algorithmic music by other means,
+reflects this paradoxical situation."
+
+-- Holding the error in Suspense
+
+
+THIS*****
+"there is no formal procedure that could tell us whether an
+arbitrary calculation will continue forever or eventually return a result"
+
+
+
+Halting problem:
+"the decidability of such problems itself is posed
+in formal terms of finality (termination) or recurrence (infinite loop)"
+
+
+Contradiction == timeless loop
+
+THIS:
+
+"while perfect repetition is the most fundamental elementary
+operation of computation, reaching a state of perfect repetition globally is a sign of its
+failure. Repetition is the real of computation."
+
+
+"This unfolding of a causal relation sometimes is best
+understood as a mathematical transformation, for instance when we reason about (p. 23)
+algorithmic complexity, and it happens in logical time.
+Or it can be understood as a
+physical process, a runtime behaviour of a machine."
+
+
+Between the physical processes and the logical ones there is a dialectical relationship. Success and failure are part of the unfolding of algorithmic thinking.
+
+Via algorithms deterministic music is LESS predictable.
+
+"In algorithmic music, the uncertainty in the formal methods, which assist
+such a specification, thus finally amalgamate with the uncertainty of sound description
+itself."
+
+
+Bold claim here:
+
+"Even if music were not already in itself an experimental field, algorithmic music
+would necessarily have to be."
+
+Consistency and the possibility of having two different timelines at the same time:
+
+"Hence, to diagnose a contradiction is to assume a
+specific temporality: something is and is not at the same time. Undecidability, on the
+other hand, is a precise notion for the lack of a formal procedure for determining whether
+such two paths can coexist."
+
+This is key:
+
+"the algorithm has to determine whether a given operation on the current
+data should be repeated (the imperative definition) or whether a function should call
+itself again from the current context (the recursive one). The first case is that of an
+external observer who decides whether and when to make the next step; it corresponds,
+if you want, to a clock externally attached to a reckoner, driving its calculation. The
+second is its inverse, like an internal observer who decides about how to continue. Rather
+than a clock driving a reckoner, it is a reckoner that commands a clock."
+
+Internal and external observers of temporal processes unfolding. 
+
+The imperative is the clock driving the calculations and the second is the reckoner that drives the clock!!!!!
+
+Iterative and recursive time are equivalent (wait)
+
+"As an iterative process that advances in time, operating on the past like a given thing, which is (partly)
+lost wherever it is changed. As a recursive process that advances in its own past, leaving
+it untouched, and leaving behind it ever new versions of pastness, that (partly) obscure
+each other temporarily."
+
+The iterative time responds fully to the cartesian, a priori time (apparently). The recursive process *leaves behind ever new versions of pastness!!!**.
+
+"The two modes are two ways to understand a conclusion from an
+ongoing process, a final break: one as a return to its beginning, one as a liberation from
+its future."
+
+"Algorithmic time might not be adequately described as a property of events
+in time (we have collected some evidence for this already), but the form of events,
+conversely, may prove to be the characteristic way of time appearing in a given world. In
+any case, to depict the medium of time as a continuous and homogeneous aether of
+presence is likely to be misleading. The suspension of error is a suspension in a situation
+of the possible mutual contradiction of laws, and thus a nonhomogeneous temporality. If
+sound should be an expression of the existence of time, time will have to appear within it
+in such a form."
+
+
+-- Self alienation of Time
+
+"There is no axis of causality, after all. The mixture
+between repeatability and variation, characteristic of algorithms, is not organized by a
+linear order of time: as laws organize both, the resulting music is much more predictable
+in a certain sense, and far less in another. And as we have seen already, the degree of
+indeterminacy in algorithms makes experiments necessary despite, or in fact because of,
+the determinism of rules."
+
+Experimentation is inherent to algorithmic music.
+
+
+What happens why / what happens when?
+
+
+"It is not obvious, however, whether the limits of human experience should
+coincide with the limits of musical time, and whether they can be clearly delimited at all. [...]
+If there is a unity of time that can only be known indirectly but not heard directly, does it
+exist nevertheless?"
+
+
+"Grisey’s originally rhetoric question ‘Who
+perceives them?’ should therefore perhaps be understood literally, namely as a search for
+an unspecified or alien audience."
+
+
+So the time that cannot be actualised in sound or belongs to a time span outside human cognition, is this time in reality time?
+
+Stockhausen claims that it is. But Grisey asks if this is not confusing the map with the land.
+
+In such case, are we looking for an alien audience? But this is actually a question related with what comes after us and came before us? When we generate a timeline should we be thinking of the consequences of such timeline in the futre and in the past?
+
+"The everyday experiences of the more or less
+subtle alienation through algorithmic phenomena make it more plausible that individual
+and collective learning is able to change cognition and that it may challenge foundational
+assumptions about what it means to organize time. In such a way, alienation should
+perhaps be considered deplorable only where it is the symptom of exploitation."
+
+Alienation as a tool to "change cognition and challenge foundational assumptions about what it means to organise time.
+
+"Certainly this: every delegation of an action is an
+alienating loss of immediacy that can only be sustained by an unconditional trust
+combined with an equally unconditional responsibility. And perhaps at the core of this
+loss is the alienation of temporality itself, an alienation that counters the structural
+violence of the idea that everything that appears must appear in the form of presence."
+
+"This break should not be understood as the disclosure of
+a manipulation, an extrinsic division forced upon the unity of time by technology, but as
+one of the central characteristics of time itself, which is ‘out of joint’ , 22 and that haunts
+technology from within. Hence, algorithmic sound lets us think of this dissolution as a
+self-alienation of time. Rather than alienating us from some assumed original immediacy,
+it allows us to inhabit the resulting zone of provisional existence."
+
+The idea of Time As An Encounter is introduced...
+
+-- A split between presence and existence
+
+"An orchestra is like a screen that displays the changes in
+light, and yet it is also like the changing light itself, more or less well rendered on the
+screen of its stage."
+
+"It is always too soon or too late to grasp presentation itself
+and present it. Such is the specific and paradoxical constitution of the event. That
+something happens, the occurrence, means that the mind is disappropriated."
+
+"Sound is a case in point for an existence that consists as a split in time: what
+and when are mutually incommensurable."
+
+About frequency and time, frequency is time effectively. Time is often discontinuous temproality.
+
+"What is called ‘time’ here actually means the ‘instant’. And indeed,
+for the very idea of the event as a part of time, as it is mathematically articulated here,
+the two aspects are mutually irreducible, and thus are both objective aspects of time."
+
+This is very interesting and it is derived from quantum mechanics principles:
+
+"The same interpretation of acoustics would imply that two mutually excluding perspectives of sound, its instants and its frequencies, exist merely for us hearing subjects, or for our measurement devices."
+
+"Looking back, we can also say that, rather than a
+reflection of our own limits, it should be understood as one of several possible
+manifestations of the self-alienation of time."
+
+"The acoustic uncertainty relation points to a possible solution to the central problem at hand—namely
+how something can properly be said to exist that is not present."
+
+
+-- Passage or Encounter?
+
+"This implicit philosophy of time casts a very specific light on algorithmic music. It is an
+anticipation of presence insofar as it conceives of the event as something that happens
+inside a formal structure, rather than to it."
+
+"Rather than passing from future to past, we encounter events, just like we
+encounter an unknown thing we stumble upon. Thus, even though this encounter may be
+surprising, it is nevertheless a latent reality that had been given already ‘before’ we
+encountered it."
+
+Algorithms coordinate encounters.!!!***
+
+
+"As we have seen, the idea of passage is essentially captured in an emphasis of a
+continuously changing state; the idea of encounter, by contrast, conceptualizes time as
+something like a spatial dimension, a location without place. In this sense, events are
+situated in time."
+
+
+Time is considered a form of space. Events are situated in time.
+
+"A program represents a model of past and future independent of its
+particular state, a time-geography."
+
+"but now in a
+completely different sense: an event does not happen inside a formal system, but the
+event actualizes itself as the formal system itself. Programming is a throw into a future,
+an anticipation of certainty,"
+
+"One can characterize this conception as hauntological: 45 in a program we
+encounter a past future which, as we can infer from mathematical logic, can be reduced
+to neither its presence nor its end."
+
+
+Hauntology past future***********
+
+-- Algorithmic music as a theory of time?
+
+"the ringing is not really a proper part of time, and neither is pastness and futurity"
+
+"so that it can work only indirectly, that is through experimental use of those
+media which convey and organize time. Within algorithmic music, such a renegotiation
+can be found in live coding,"
+
+So instantaneous time, frequency and algorithmic time complement each other in live coding.
+
+The challenge of live coding is not to write a program. It is to modify it on the fly. Modifying the laws of the program rather than its states.
+
+Thus live coding becomes a "crosssection" of different modes of experience and reasoning.
+
+
+The passage and encounter time modalities become relevant for live coding. When a program runs it prescribes a series of encounters with sound events, when a program is changed the passage of time (the causation of the sequence of events) changes from one passage to another.
+
+"But the measure of what counts as ‘now’ has no absolute
+reference, which it could use as a comparison. Under these conditions, also in algorithms,
+causal aspect and state aspect are conjugate or, in other words, complementary
+perspectives: where we focus on the first, we partly lose the second, and vice versa. If
+laws are real and subject to change, this is the logical consequence."
+
+Intervention and law:
+
+"Concerning itself with intervention and law, live coding—independent of its being
+understood more as a performative or compositional practice—marks a point of (p. 34)
+greatest tension in a wide field of algorithmic methods"
+
+Mediation is necessary to experiment such time tensions.
+
+Algorithmic music, rather than assesing time as a resource and as value. It reasons about and on time. Time is the subject and the medium for experimentation.
+
+---------------------------------------------------------------------
+
+4. Origins of algorithmic thinking in music.
+
+Union of music and math.
+
+Pitágoras, Quadrivium medieval (music, arithmetic, geometry, and astronomy)
+
+So 20 c:
+
+"Aside from Schoenberg’s sense of historical inevitability for the
+twelve-tone method, Xenakis is the modernist composer perhaps most closely associated
+with cross-fertilization between the fields of mathematics and music (Harley 2004;
+Xenakis 1992)."
+
+
+Pre-computational algorithmic music:
+
+"These were acts more
+than 200 years ahead of John Cage’s conceptions of chance operations, Cage also being
+beaten to the idea by his idol Marcel Duchamp’s Erratum Musical (1913), where notes are
+drawn from a hat! Athanasius Kircher had been a century ahead of his time in the 1650
+tract Musurgia Universalis, in which he described a music-generating machine, the ‘arca
+musarythmica’ , a box full of options for different components necessary to a composition,
+halfway between Guido’s method and the musical dice games."
+
+Automated music creation:
+
+"Self-playing mechanical musical
+instruments, also known as musical automata, have a long and distinguished history of
+over a millennium (Fowler 1967; Kapur 2005; Ord-Hume 1973). Founded on clockwork
+mechanisms, and making heavy use of drum-roll sequencing, early automata range from
+miniature music boxes through humanoid figures to larger-scale orchestrion automatic
+orchestras."
+
+"The earliest confirmed musical automata mentioned in the Koetsier article shows the
+strong Islamic engineering link. Even before Al-Jazari’s drinking-party robots (circa
+1200), and 900 years before Vaucanson, the ninth-century Musa brothers of Baghdad
+deployed hydraulics in the construction of a flute-playing robot!"
+
+". Visiting Amsterdam, he also visited the workshop of Winkel,
+where he discovered (i.e. stole) the idea for an accurate clockwork metronome. Whilst
+Mälzel grabbed the patents and the international market for the metronome, and even
+gave his name to the metronome’s tempo markings, Winkel’s revenge was to outdo the
+Panharmonicon. Winkel’s mechanical Componium (see Figure 4.1), premiered in 1821,
+combined the idea of an orchestrion with the musical dice game to create a musical
+automata capable of playing variations on a theme."
+
+Metronome brought the mechanization of musical creation!!
+
+"We have seen that music technology is sometimes unshocking, falling into a
+trend of the day such as the clockwork universe, and sometimes more threatening to
+older tradition (whilst attractive to others), such as the metronome’s new time regulation."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+

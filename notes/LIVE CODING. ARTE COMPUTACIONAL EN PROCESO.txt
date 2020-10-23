@@ -12,3 +12,145 @@ Links:http://www.revistacontenido.com/wp-content/uploads/2015/02/art%C3%ADculo-3
 Notes:
 
 Este trabajo, que forma parte de la investigación para  mi tesis doctoral, propone una aproximación a la actividad del live coding como configuración artística que hace del cambio, la apertura y la exploración constantes, prácticas que constituyen una actividad creativa, siempre en cuestión.A través del trabajo etnográfico se aborda el estudio de performances de artistas computacionales que programan música en vivo. Esta música (Live coding) es generada por los live coders en sus laptops, en “buscando cambiar las reglas al mismo tiempo que se siguen”, como ellos explican. Este tipo de experiencias puede conducirnos a una nueva comprensión de subjetividades y sociabilidades en escenas en las cuales el software se convierte en un canal de expresión del artista / programador. A partir del análisis de ciertos elementos de esta expresión artística pode-mos acercarnos a una caracterización de su relación con la tecnología, su perspectiva respecto de la creatividad, así como de su actividad como improvisación en sentido amplio.
+
+The text starts with a nuanced description of what live coding is. All based in the position of Alex McLean.
+
+The context of live coding acts: Public (algorave and academic) and private (private practice, developing and sharing a concert via streaming).
+
+Mostly, sound/music oriented but it can also be visual.
+
+(Di Próspero, 2014, p. 46)
+"el proceso de escritura (programación) se proyecta durante el evento, haciéndose visible la imagen del código que genera
+música “el código debe ser tanto visto como oído”"
+
+This is the most salient characteristic of live coding, the exposure and the transparency of the code.
+
+The article seems to make a poor distinction between algorave music and live coding practice. Such lack of distinction is more and more common in live coding papers.
+
+Virtuosity, oscured in Spanish as "dexterity":
+"la destreza es una característica a desta-
+car, valorada entre los live coders, ya que, durante las Al-
+goraves, programan los instrumentos, al mismo tiempo
+que los ejecutan, a partir de improvisar la repetición de
+condicionales y patrones de los lenguajes."
+
+
+A ,lot of common ground between live coders and free software culture.
+
+The live coder is a programer/musicican that shows a difference on intention that has to do with:
+"explorar más que ejecutar, crear más que reprodu-
+cir, experimentar el proceso más que alcanzar el producto
+terminado."
+
+Thus, it is improvisatory...
+
+
+The question of time: the time of the intervention of the live coder and the reaction of the program is fundamental.
+
+Who creates software and plays the music is the same person.
+
+Sociability of live coding is constructed harmonically with the technique.
+
+Subjects with technology is a big node to understand.
+
+
+
+Technology is not appropiatted but it is experienced. (Lived)
+
+
+Thus, the conformation of subjectivities and sociability is the outcome of the interactions between the computer and the subject.
+
+
+Live coding is social not individual. The ensembles computer-human are at its centre.
+
+So this paper explains the "work of art as mediation"
+
+Music: plural essence and distributed materiality. "Musical object as a constelation of mediations"
+
+"cuatro niveles de mediación propiciados
+por la música: (1) la música produce sus propias y diver-
+sas sociabilidades; (2) la música tiene poderes para crear
+comunidades, producir identificaciones colectivas que
+agregan, suman, unifican; (3) la música refracta forma-
+ciones de identidad social más amplias; (4) la música
+se enreda en las formas institucionales que permiten su
+producción (Born; 2011: 2-3)"
+
+So a scene is a group of people (in various levels of presence) that are gathered around specific "music styles".A
+
+"El término “escena”, como explica Andy
+Bennett, refiere a la actualización de las relaciones de
+grupos sociales que se reúnen en torno a coaliciones
+específicas de estilo musical. Las escenas pueden ser lo-
+cales, trans-locales o virtuales, o, como el caso del LC,
+las tres se van dando en diferentes momentos o solapa-
+damente."
+
+
+A scene builds identity. ***** BUILDS IDENTITY
+
+Also:
+"el LC no existiría sin las nuevas tecnologías digitales e Internet, con
+sus redes sociales y plataformas de interacción."
+
+LC needs social networks and interactive networked platforms.
+
+
+Anthropological approach to Live Coding (In Europe around AM). It has its advantages: the distinciton between what a community or an individual claims can be compared with what actually happens. The distinction between the discursive and the practice can be relevant.
+
+The weight of the digital and non-digital interactions and communications is similar (or the same) for th author.
+
+The relationship of this author with Alex McLean and with Gabriella Coleman and her anthropological work on free software.
+
+
+For live coding copyright does not allow the free circulation of ideas. These ideas are not property, but discourse.
+
+Live coding languages are socialised in the internet.
+
+On improviation:
+“obligadas a improvisar, no por estar operando en el interior de
+un cuerpo de convenciones establecidas, sino porque nin-
+gún sistema de códigos, reglas y normas puede anticipar
+cada posible circunstancia”
+
+Emphasis in the process rather than the final product.
+
+Live coding is assessed always as social but:
+"observemos su práctica
+paradigmática: la performance, el show en vivo, escena en la
+cual se pone en acción la relación entre el software y el artis-
+ta. Esta relación se construye desde un uso del software que
+expresa la intencionalidad del artista, el artista interviniendo
+su propio lenguaje de programación en el aquí y ahora de la
+improvisación “rompiendo las barreras artificiales entre los
+tecnólogos y usuarios creativos” (McLean, 2013: 83)."
+
+
+the performance is the space in which we can see in action the relationship between the software and the artist (singular). In which the audience evaluates the intentionality of the artist. The artist intervining HIS (since the author is discussing from the voice of AM) own language. 
+
+"Musicians are abducted by programming"
+
+** take into consideration the descriptions of the algoraves that the author elaborates, are very neat!! *****
+
+For the author the technology is an actant that must be transcended by the artist in a LOOP:
+"El diálogo con la tecnología se produce en el loop propio de
+la programación de música en vivo que va generando el am-
+biente de la performance"
+
+
+Live coders vindicate the agency of technology when they reinforce the loop in which the technological device intervenes the live coder and viceversa.
+
+Also live coding is heavily oriented towards processes rather than finished forms.
+
+
+
+
+
+
+
+
+
+
+
+
+

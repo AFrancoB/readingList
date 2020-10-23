@@ -35,10 +35,10 @@ Reading list - Alejandro Franco Briones
 , Units: 1, Zone:theory, 
 , Bibliography:Francisco De Parres Gómez y Alessandro Zagato. 2010. Arte, estética y política en el movimiento zapatista contemporáneo. 2019. DOMINIO PÚBLICO. IMAGINACIÓN SOCIAL EN MÉXICO DESDE 1968. Alberto López Cuenca, Renato Bermúdez Dini,Tania Valdovinos Reyes. Museo Amparo. 
 
-8 -  Reading: Communism or NeoFeudalism, 
+8 -  Reading: Communicative Capitalism and Revolutionary Form, 
 , Author: Jodi Dean, 
-, Units: 1, Zone:theory, 
-, Bibliography:Jodi Dean. 2020. Communism or Neo-Feudalism?, New Political Science, 42:1, 1-17, DOI: 10.1080/07393148.2020.1718974  
+, Units: 0.5, Zone:theory, 
+, Bibliography:Dean, Jodi.XXXX. Communicative Capitalism and Revolutionary Form. 
 
 9 -  Reading: The Desiring Machines - Chapter 1 in Anti-Oedipus : capitalism and schizophrenia, 
 , Author: Gilles Deleuze & Felix Guattari, 
@@ -136,15 +136,15 @@ Reading list - Alejandro Franco Briones
 , Units: 1, Zone:theory, 
 , Bibliography:Lowe, L. 2015. The intimacies of four continents. Durham : Duke University Press. 
 
-28 -  Reading: Can the subaltern speak, 
+28 -  Reading: Reconceiving Autonomy: Sources, Thoughts and Possibilities, 
+, Author: Jennifer Nedelsky, 
+, Units: 1, Zone:network technology, 
+, Bibliography:Nedelsky, Jennifer. 1989. Reconceiving Autonomy: Sources, Thoughts and Possibilities, 1 Yale J.L. & Feminism. pp. 7-36 
+
+29 -  Reading: Can the subaltern speak, 
 , Author: Gayatri Spivak, 
 , Units: 1, Zone:theory, 
 , Bibliography:Spivak, G. C. (1988). Can the subaltern speak?. Basingstoke: Macmillan.  
-
-29 -  Reading: More on Power Knowledge, 
-, Author: Gayatri Spivak, 
-, Units: 1, Zone:theory, 
-, Bibliography:Gayatri Chakravorty Spivak (1993). More on Power/Knowledge. in Outside In The Teaching Machine. New York, NY: Routledge. pp. 25-51. 
 
 30 -  Reading: Limits and Openings of Marx in Derrida., 
 , Author: Gayatri Spivak, 
@@ -296,555 +296,524 @@ Reading list - Alejandro Franco Briones
 , Units: 1.8, Zone:theory, 
 , Bibliography:Anna Munster. 2013. 'Refraining' Chapter 2 in An Aesthesia of Networks: Conjunctive Experience in Art and Technology. Cambridge, MA: MIT Press. pp. 97-150 
 
-60 -  Reading: Reconceiving Autonomy: Sources, Thoughts and Possibilities, 
-, Author: Jennifer Nedelsky, 
-, Units: 1, Zone:network technology, 
-, Bibliography:Nedelsky, Jennifer. 1989. Reconceiving Autonomy: Sources, Thoughts and Possibilities, 1 Yale J.L. & Feminism. pp. 7-36 
-
-61 -  Reading: Infrastructure studies meet platform studies in the age of Google and Facebook, 
+60 -  Reading: Infrastructure studies meet platform studies in the age of Google and Facebook, 
 , Author: Jean-Christopher Plantin & Carl Lagoze & Paul N. Edawrds & Christian Sandvig, 
 , Units: 0.6, Zone:network technology, 
 , Bibliography:Plantin, Jean-Christophe, Carl Lagoze, Paul N. Edwards, and Christian Sandvig. 2018. 'Infrastructure studies meet platform studies in the age of Google and Facebook.' New Media & Society 20, no. 1. pp. 293-310. 
 
-62 -  Reading: Introduction to Logistical Media Theory, 
+61 -  Reading: Introduction to Logistical Media Theory, 
 , Author: Ned Rossier, 
 , Units: 0.86666666666667, Zone:network technology, 
 , Bibliography:Rossier, Ned. 2016.Introduction to Logistical Media TheoryChapter 1in Software, Infrastructure, Labor: A Media Theory of Logistical Nightmares. New York: Routledge Taylor & Francis Group pp. 1-26 
 
-63 -  Reading: Imperial Infrastructures, 
+62 -  Reading: Imperial Infrastructures, 
 , Author: Ned Rossier, 
 , Units: 1.5333333333333, Zone:network technology, 
 , Bibliography:Rossier, Ned. 2016.Imperial InfrastructuresChapter 7in Software, Infrastructure, Labor: A Media Theory of Logistical Nightmares. New York: Routledge Taylor & Francis Group pp. 138-183 
 
-64 -  Reading: Sovereign Media and the Ruins of a Logistical Future, 
+63 -  Reading: Sovereign Media and the Ruins of a Logistical Future, 
 , Author: Ned Rossier, 
 , Units: 0.43333333333333, Zone:network technology, 
 , Bibliography:Rossier, Ned. 2016.Sovereign Media and the Ruins of a Logistical FutureChapter 8in Software, Infrastructure, Labor: A Media Theory of Logistical Nightmares. New York: Routledge Taylor & Francis Group pp. 184-196 
 
-65 -  Reading: How Infrastructures Matter, 
+64 -  Reading: How Infrastructures Matter, 
 , Author: Stephen Slota & Geoffrey Bowker, 
 , Units: 0.86666666666667, Zone:network technology, 
 , Bibliography:Slota, Stephen C., and Geoffrey Bowker. 2017. 'How Infrastructures Matter.' In The Handbook of Science and Technology Studies, Ulrike Felt, Rayvon Fouché, Clark A. Miller, And Laurel Smith-Doerr. MIT Press. pp. 529-554 
 
-66 -  Reading: The ethnography of infrastructure. American Behavioral Scientist, 
+65 -  Reading: The ethnography of infrastructure. American Behavioral Scientist, 
 , Author: Susan Star, 
 , Units: 0.5, Zone:network technology, 
 , Bibliography:Star, Susan L. 1999. The ethnography of infrastructure. American Behavioral Scientist, 43(3). pp. 377-391 
 
-67 -  Reading: Do Artifacts Have Politics?, 
+66 -  Reading: Do Artifacts Have Politics?, 
 , Author: Stephen Slota & Geoffrey Bowker, 
 , Units: 0.86666666666667, Zone:network technology, 
 , Bibliography:Slota, Stephen C., and Geoffrey Bowker. 2017. 'How Infrastructures Matter.' In The Handbook of Science and Technology Studies, Ulrike Felt, Rayvon Fouché, Clark A. Miller, And Laurel Smith-Doerr. MIT Press. pp. 529-554 
 
-68 -  Reading: The construction of platform imperialism in the globalization era, 
+67 -  Reading: The construction of platform imperialism in the globalization era, 
 , Author: Dal Yong Jin, 
 , Units: 0.93333333333333, Zone:network technology, 
 , Bibliography:Jin, Dal Yong. 2013. 'The construction of platform imperialism in the globalization era.' Communication, Capitalism & Critique. Open Access Journal for a Global Sustainable Information Society 11, no. 1. pp. 145-172 
 
-69 -  Reading: DIGITAL SOVEREIGNTY OR DIGITAL COLONIALISM? New tensions of privacy, security and national policies, 
+68 -  Reading: DIGITAL SOVEREIGNTY OR DIGITAL COLONIALISM? New tensions of privacy, security and national policies, 
 , Author: Renata Ávila Pinto, 
 , Units: 0.43333333333333, Zone:network technology, 
 , Bibliography:Pinto, Renata Ávila. 2018. 'DIGITAL SOVEREIGNTY OR DIGITAL COLONIALISM? New tensions of privacy, security and national policies.' Sur: Revista Internacional de Direitos Humanos 15, no. 27. pp. 15-27 
 
-70 -  Reading: Rethinking Collaboration in Networked Music., 
+69 -  Reading: Rethinking Collaboration in Networked Music., 
 , Author: Nicolas  Makelberge, 
 , Units: 0.23333333333333, Zone:network music, 
 , Bibliography:Makelberge, N. (2012). Rethinking Collaboration in Networked Music. Organised Sound, 17(1), 28-35. doi:10.1017/S1355771811000483 
 
-71 -  Reading: General Introduction, 
-, Author: Simha Arom, 
-, Units: 0.16666666666667, Zone:live coding, 
-, Bibliography:Armo, Simha. 1991.General IntroductionChapter 1 African Polyphony and Polyrhythm: Musical Structure and Methodology, trans. Martin Thom, Barbara Tuckett and Raymond Boyd, with a foreword by Gyorgy Ligeti. Cambridge: CUP, and Paris: Editions de la maison des sciences de l'homme. xxvii. pp. 1-5 
-
-72 -  Reading: The general features of traditional music, 
-, Author: Simha Arom, 
-, Units: 0.33333333333333, Zone:live coding, 
-, Bibliography:Armo, Simha. 1991.The general features of traditional musicChapter 2 African Polyphony and Polyrhythm: Musical Structure and Methodology, trans. Martin Thom, Barbara Tuckett and Raymond Boyd, with a foreword by Gyorgy Ligeti. Cambridge: CUP, and Paris: Editions de la maison des sciences de l'homme. xxvii. pp. 6-15 
-
-73 -  Reading: Typology, 
-, Author: Simha Arom, 
-, Units: 0.5, Zone:live coding, 
-, Bibliography:Armo, Simha. 1991.TypologyChapter 3 African Polyphony and Polyrhythm: Musical Structure and Methodology, trans. Martin Thom, Barbara Tuckett and Raymond Boyd, with a foreword by Gyorgy Ligeti. Cambridge: CUP, and Paris: Editions de la maison des sciences de l'homme. xxvii. pp. 16-30 
-
-74 -  Reading: Connective Criticism (1977), 
+70 -  Reading: Connective Criticism (1977), 
 , Author: Roy Ascott, 
 , Units: 0.066666666666667, Zone:network music, 
 , Bibliography:Ascott, Roy. 2003.Connective Criticism (1977)Chapter 7 in Telematic Embrace: Visionary Theories of Art, Technology, and Consciousness. (Ed.) Edward A. Shanken. Berkeley, CA:University of California Press. ISBN 978-0-520-21803-1 pp. 174-175 
 
-75 -  Reading: Network as Artwork: The Future of Visual Arts Education (1978), 
+71 -  Reading: Network as Artwork: The Future of Visual Arts Education (1978), 
 , Author: Roy Ascott, 
 , Units: 0.066666666666667, Zone:network music, 
 , Bibliography:Ascott, Roy. 2003.Network as Artwork: The Future of Visual Arts Education (1978)Chapter 8 in Telematic Embrace: Visionary Theories of Art, Technology, and Consciousness. (Ed.) Edward A. Shanken. Berkeley, CA:University of California Press. ISBN 978-0-520-21803-1 pp. 176-177 
 
-76 -  Reading: Art and Telematics: Towards a Network Consciousness (1984), 
+72 -  Reading: Art and Telematics: Towards a Network Consciousness (1984), 
 , Author: Roy Ascott, 
 , Units: 0.53333333333333, Zone:network music, 
 , Bibliography:Ascott, Roy. 2003.Art and Telematics: Towards a Network Consciousness (1984)Chapter 11 in Telematic Embrace: Visionary Theories of Art, Technology, and Consciousness. (Ed.) Edward A. Shanken. Berkeley, CA:University of California Press. ISBN 978-0-520-21803-1 pp. 185-200 
 
-77 -  Reading: Concerning Nets and Spurs: Meaning, Mind, and Telematic Difusion (1985), 
+73 -  Reading: Concerning Nets and Spurs: Meaning, Mind, and Telematic Difusion (1985), 
 , Author: Roy Ascott, 
 , Units: 0.36666666666667, Zone:network music, 
 , Bibliography:Ascott, Roy. 2003.Concerning Nets and Spurs: Meaning, Mind, and Telematic Difusion (1985)Chapter 12 in Telematic Embrace: Visionary Theories of Art, Technology, and Consciousness. (Ed.) Edward A. Shanken. Berkeley, CA:University of California Press. ISBN 978-0-520-21803-1 pp. 201-211 
 
-78 -  Reading: Art and Education in the Telematic Culture (1988), 
+74 -  Reading: Art and Education in the Telematic Culture (1988), 
 , Author: Roy Ascott, 
 , Units: 0.33333333333333, Zone:network music, 
 , Bibliography:Ascott, Roy. 2003.Art and Education in the Telematic Culture (1988)Chapter 13 in Telematic Embrace: Visionary Theories of Art, Technology, and Consciousness. (Ed.) Edward A. Shanken. Berkeley, CA:University of California Press. ISBN 978-0-520-21803-1 pp. 212-221 
 
-79 -  Reading: Is There Love in the Telematic Embrace? (1990), 
+75 -  Reading: Is There Love in the Telematic Embrace? (1990), 
 , Author: Roy Ascott, 
 , Units: 0.5, Zone:network music, 
 , Bibliography:Ascott, Roy. 2003.Is There Love in the Telematic Embrace? (1990)Chapter 16 in Telematic Embrace: Visionary Theories of Art, Technology, and Consciousness. (Ed.) Edward A. Shanken. Berkeley, CA:University of California Press. ISBN 978-0-520-21803-1 pp. 232-246 
 
-80 -  Reading: The Polyphonic History of Net Art, An Eternal Network?, 
+76 -  Reading: The Polyphonic History of Net Art, An Eternal Network?, 
 , Author: Launay Aude, 
 , Units: 0.16666666666667, Zone:network music, 
 , Bibliography:Aude, Launay. 2019. 'The Polyphonic History of Net Art, An Eternal Network?', Zerodeux 89. 
 
-81 -  Reading: The Silent Network — The Music of Wandelweiser, 
+77 -  Reading: The Silent Network — The Music of Wandelweiser, 
 , Author: Douglas Barret, 
 , Units: 0.7, Zone:network music, 
 , Bibliography: G. Douglas Barrett (2011): The Silent Network — The Music of Wandelweiser, Contemporary Music Review, 30:6, 449-470 
 
-82 -  Reading: Network Socio-Synthesis and Emergence in NOMADS, 
+78 -  Reading: Network Socio-Synthesis and Emergence in NOMADS, 
 , Author: M. Burtner, 
 , Units: 0.36666666666667, Zone:network music, 
 , Bibliography:Burtner, M., Kemper, S., & Topper, D. 2012. Network Socio-Synthesis and Emergence in NOMADS. Organised Sound, 17(1), 45-55. doi:10.1017/S1355771811000501 
 
-83 -  Reading: Liveness becomes Entelechy, 
+79 -  Reading: Liveness becomes Entelechy, 
 , Author: Luke Church, 
 , Units: 0.2, Zone:live coding, 
 , Bibliography:Church, L., Söderberg, E., Bracha, G., & Tanimoto, S. (2016). Liveness becomes Entelechy - a scheme for L6. In The second international conference on live coding. 
 
-84 -  Reading: What now, what next—kairotic coding and the unfolding future seized, 
+80 -  Reading: What now, what next—kairotic coding and the unfolding future seized, 
 , Author: Emma Cocker, 
 , Units: 0.43333333333333, Zone:live coding, 
 , Bibliography:COCKER, E., 2018. What now, what next—kairotic coding and the unfolding future seized. Digital Creativity, 29 (1), pp. 82-95. ISSN 1462-6268 
 
-85 -  Reading: Performing thinking in action: the meletē of live coding, 
+81 -  Reading: Performing thinking in action: the meletē of live coding, 
 , Author: Emma Cocker, 
 , Units: 0.5, Zone:live coding, 
 , Bibliography:COCKER, E., 2016. Performing thinking in action: the meletē of live coding. International Journal of Performance Arts and Digital Media, 12 (2), pp. 102-116. ISSN 1479-4713  
 
-86 -  Reading: Live Coding Practice, 
+82 -  Reading: Live Coding Practice, 
 , Author: Nick Collins, 
 , Units: 0.2, Zone:live coding, 
 , Bibliography:Collins, Nick. 2007. 'Live Coding Practice'. Proceedings of NIME. 
 
-87 -  Reading: Live Coding of Consequences, 
+83 -  Reading: Live Coding of Consequences, 
 , Author: Nick Collins, 
 , Units: 0.16666666666667, Zone:live coding, 
 , Bibliography:Collins, Nick. 2011. 'Live Coding of Consequence', Leonardo 44(3): pp. 207-211 
 
-88 -  Reading: TELEMATIC MUSIC TODAY, 
+84 -  Reading: TELEMATIC MUSIC TODAY, 
 , Author: Mark Cook, 
 , Units: 0.96666666666667, Zone:network music, 
 , Bibliography:Cook, M.D. 2015. ARTISTIC AND TECHNOLOGICAL PRECURSORS OF TELEMATIC MUSIC.  CHAPTER 1 in Telematic Music: History and Development of the Medium and Current Technologies Related to Performance. pp. 1-29 
 
-89 -  Reading: ARTISTIC AND TECHNOLOGICAL PRECURSORS OF TELEMATIC MUSIC, 
+85 -  Reading: ARTISTIC AND TECHNOLOGICAL PRECURSORS OF TELEMATIC MUSIC, 
 , Author: Mark Cook, 
 , Units: 0.96666666666667, Zone:network music, 
 , Bibliography:Cook, M.D. 2015. ARTISTIC AND TECHNOLOGICAL PRECURSORS OF TELEMATIC MUSIC.  CHAPTER 1 in Telematic Music: History and Development of the Medium and Current Technologies Related to Performance. pp. 1-29 
 
-90 -  Reading: Double Coding, 
+86 -  Reading: Double Coding, 
 , Author: Geoff Cox and Alex McLean, 
 , Units: 0.53333333333333, Zone:live coding, 
 , Bibliography:Geoff Cox and Alex McLean. 2012. 'Double Coding'. Chapter 0 in Speaking Code: Coding as Aesthetic and Political Expression. The MIT Press. 
 
-91 -  Reading: Vocable Code, 
+87 -  Reading: Vocable Code, 
 , Author: Geoff Cox and Alex McLean, 
 , Units: 0.7, Zone:live coding, 
 , Bibliography:Geoff Cox and Alex McLean. 2012. 'Vocable Code'. Chapter 1 in Speaking Code: Coding as Aesthetic and Political Expression. The MIT Press. 
 
-92 -  Reading: Coding Publics, 
+88 -  Reading: Coding Publics, 
 , Author: Geoff Cox and Alex McLean, 
 , Units: 0.96666666666667, Zone:live coding, 
 , Bibliography:Geoff Cox and Alex McLean. 2012. 'oding Publics'. Chapter 3 in Speaking Code: Coding as Aesthetic and Political Expression. The MIT Press. pp. 69-98 
 
-93 -  Reading: Scaling Up Live Internet Performance with The Global Net Orchestra, 
+89 -  Reading: Scaling Up Live Internet Performance with The Global Net Orchestra, 
 , Author: Roger Dannenberg and Tom Neuendorffer, 
 , Units: 0.23333333333333, Zone:network music, 
 , Bibliography:DANNENBERG , Roger B. and Tom NEUENDORFFER. 2014. Scaling Up Live Internet Performance with The Global Net Orchestra. Ann Arbor, Michigan, Michigan Publishing, University of Michigan Library. 
 
-94 -  Reading: Grounding Algorithmic Music, 
+90 -  Reading: Grounding Algorithmic Music, 
 , Author: Roger Dean and Alex McLean, 
 , Units: 2, Zone:live coding, 
 , Bibliography:2018-02-22. Dean, R., & McLean, A. (Eds.), 'Grounding Algorithmic Music' Part 1 in The Oxford Handbook of Algorithmic Music. : Oxford University Press. Retrieved 10 Jun. 2020, from https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190226992.001.0001/oxfordhb-9780190226992. pp. x-z 
 
-95 -  Reading: Perspectives on Practice A, 
+91 -  Reading: Perspectives on Practice A, 
 , Author: Roger Dean and Alex McLean, 
 , Units: 1, Zone:live coding, 
 , Bibliography:2018-02-22. Dean, R., & McLean, A. (Eds.), 'Perspectives on Practice A' in The Oxford Handbook of Algorithmic Music. : Oxford University Press. Retrieved 10 Jun. 2020, from https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190226992.001.0001/oxfordhb-9780190226992. pp. x-z 
 
-96 -  Reading: Part IV Algorithmic Culture, 
+92 -  Reading: Part IV Algorithmic Culture, 
 , Author: Roger Dean and Alex McLean, 
 , Units: 1, Zone:live coding, 
 , Bibliography:2018-02-22. Dean, R., & McLean, A. (Eds.), 'Algorithmic Culture' Part IV in The Oxford Handbook of Algorithmic Music. : Oxford University Press. Retrieved 10 Jun. 2020, from https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190226992.001.0001/oxfordhb-9780190226992. pp. x-z 
 
-97 -  Reading: LIVE CODING. ARTE COMPUTACIONAL EN PROCESO, 
+93 -  Reading: LIVE CODING. ARTE COMPUTACIONAL EN PROCESO, 
 , Author: Carolina Di Próspero, 
 , Units: 0.66666666666667, Zone:live coding, 
 , Bibliography:Di Próspero, Carolina. 2014. LIVE CODING. ARTE COMPUTACIONAL EN PROCESO. Contenido. Arte, Cultura y Ciencias Sociales, No. 5 (Diciembre), pp. 44-63 
 
-98 -  Reading: Tele-Media and Instrument Making, 
+94 -  Reading: Tele-Media and Instrument Making, 
 , Author: B Gremo, 
 , Units: 0.43333333333333, Zone:network music, 
 , Bibliography:Gremo, B. 2012. Tele-Media and Instrument Making. Organised Sound, 17(1), pp. 73-85 
 
-99 -  Reading: The Aesthetics and History of The Hub: The Effects of Changing Technology on Network Computer Music, 
+95 -  Reading: The Aesthetics and History of The Hub: The Effects of Changing Technology on Network Computer Music, 
 , Author: S. Gresham-Lancaster, 
 , Units: 0.16666666666667, Zone:network music, 
 , Bibliography:Gresham-Lancaster, S. 1998. ‘The Aesthetics and History of The Hub: The Effects of Changing Technology on 
 
-100 -  Reading: Curating the post-internet age, 
+96 -  Reading: Curating the post-internet age, 
 , Author: Boris Groys, 
 , Units: 0.5, Zone:network music, 
 , Bibliography:Groys, Boris. 'Curating the post-internet age' 2018. e-flux, Journal #94. october. 
 
-101 -  Reading: Live coding for all: three creative approaches to live coding for non programmers, 
+97 -  Reading: Live coding for all: three creative approaches to live coding for non programmers, 
 , Author: Mauro Herrera, Jaime Lobato, Alberto Cerro, F. J. Lomelí, 
 , Units: 0.26666666666667, Zone:live coding, 
 , Bibliography:Herrera Machuca, M., Lobato Cardoso, J. A., Torres Cerro, J. A. and Lomelí Bravo, F. J. 2016. ‘Live coding for all: three creative approaches to live coding for non programmers’, International Journal of Performance Arts and Digital Media, 12(2), pp. 187-194. 
 
-102 -  Reading: Network Musics: Play, Engagement and the Democratization of Performance, 
+98 -  Reading: Network Musics: Play, Engagement and the Democratization of Performance, 
 , Author: David Kim-Boyle, 
 , Units: 0.4, Zone:network music, 
 , Bibliography:Kim-Boyle, David. 2009, pp. 370. ‘Network Musics: Play, Engagement and the Democratization of Performance’. 
 
-103 -  Reading: Changing Music’s Constitution: Network Music and Radical Democratization, 
+99 -  Reading: Changing Music’s Constitution: Network Music and Radical Democratization, 
 , Author: Shelly Knotts, 
 , Units: 0.2, Zone:network music, 
 , Bibliography:Knotts, S., 2015. ‘Changing Music’s Constitution: Network Music and Radical Democratization’, Leonardo Music Journal, vol. 25, 2015. pp. 47-52 
 
-104 -  Reading: Live Coding and Failure, 
+100 -  Reading: Live Coding and Failure, 
 , Author: Shelly Knotts, 
 , Units: 0.26666666666667, Zone:live coding, 
 , Bibliography:Knotts, Shelly. 2020. 'Live Coding and Failure.' in Pearson, Lara and Hamilton, Andy (eds.) Aesthetics of Imperfection. Bloomsbury 
 
-105 -  Reading: Telematic Music vs. Networked Music: Distinguishing Between Cybernetic Aspirations and Technological Music-Making., 
+101 -  Reading: Telematic Music vs. Networked Music: Distinguishing Between Cybernetic Aspirations and Technological Music-Making., 
 , Author: Eric Lemmon, 
 , Units: 0.73333333333333, Zone:network music, 
 , Bibliography:Lemmon, Eric C.. 'Telematic Music vs. Networked Music: Distinguishing Between Cybernetic Aspirations and Technological Music-Making.' Journal of Network Music and Arts 1, 1 (2019). https://commons.library.stonybrook.edu/jonma/vol1/iss1/2 
 
-106 -  Reading: Foreword by Gyorgy Ligeti, 
-, Author: Gyorgy Ligeti, 
-, Units: 0.43333333333333, Zone:live coding, 
-, Bibliography:Arom, Sima. 1991.Foreword by Gyorgy LigetiChapter Foreword African Polyphony and Polyrhythm: Musical Structure and Methodology, trans. Martin Thom, Barbara Tuckett and Raymond Boyd, with a foreword by Gyorgy Ligeti. Cambridge: CUP, and Paris: Editions de la maison des sciences de l'homme. xxvii. pp. 7-19 
-
-107 -  Reading: Dislocated Sound: A Survey of Improvisation in Networked Audio Platforms, 
+102 -  Reading: Dislocated Sound: A Survey of Improvisation in Networked Audio Platforms, 
 , Author: Roger Mills, 
 , Units: 0.13333333333333, Zone:network music, 
 , Bibliography:Mills, R. 2010. 'Dislocated Sound: A Survey of Improvisation in Networked Audio Platforms', in Proceedings of New Interfaces for Musical Expression, Sydney, Australia, 15-18 June 2010. 
 
-108 -  Reading: Tele-Improvisation: A Multimodal Analysis of Intercultural Improvisation in Networked Music Performance, 
+103 -  Reading: Tele-Improvisation: A Multimodal Analysis of Intercultural Improvisation in Networked Music Performance, 
 , Author: Roger Mills, 
 , Units: 2.0666666666667, Zone:network music, 
 , Bibliography:Mills, R. (2014). 'Literature Review' Chapter 2 in Tele-Improvisation: A Multimodal Analysis of Intercultural Improvisation in Networked Music Performance (University of Technology, Sydney PhD thesis). 
 
-109 -  Reading: Intercultural Tele-Improvisation: Multi-idiomatic Approaches, 
+104 -  Reading: Intercultural Tele-Improvisation: Multi-idiomatic Approaches, 
 , Author: Roger Mills, 
 , Units: 0.7, Zone:network music, 
 , Bibliography:Mills, R. 2019. 'Intercultural Tele-Improvisation: Multi-idiomatic Approaches' Chapter 3 in Tele-Improvisation: Intercultural Interaction in the Online Global Jam Session. London, Springer. pp. 59-80 
 
-110 -  Reading: Towards a Theory of Tele-Improvisatory Collaboration, 
+105 -  Reading: Towards a Theory of Tele-Improvisatory Collaboration, 
 , Author: Roger Mills, 
 , Units: 0.73333333333333, Zone:network music, 
 , Bibliography:Mills, R. 2019. 'Towards a Theory of Tele-Improvisatory Collaboration' Chapter 3 in Tele-Improvisation: Intercultural Interaction in the Online Global Jam Session. London, Springer. pp. 119-141 
 
-111 -  Reading: Bellacode: localized textual interfaces for livecoding music, 
+106 -  Reading: Bellacode: localized textual interfaces for livecoding music, 
 , Author: Luis Navarro del Angel & Marianne Teixido & Emilio Ocelotl & Ivanka Cotrina, 
 , Units: 0.3, Zone:live coding, 
 , Bibliography:Del Ángel, Luis N., Teixido, Marianne, Ocelotl, Emilio and Cotrina, Ivanka. 2019. 'Bellacode: localized textual interfaces for livecoding music'. Proceedings of the Fourth International Conference on Live Coding. Madrid. 
 
-112 -  Reading: Saboritmico: A Report from the Dance Floor in Mexico, 
+107 -  Reading: Saboritmico: A Report from the Dance Floor in Mexico, 
 , Author: Emilio Ocelotl, Luis N. Del Angel, Marianne Teixido, 
 , Units: 0.1, Zone:live coding, 
 , Bibliography:Ocelotl, E., Del Angel, L. N. and Teixido, M. 2018. ‘Saboritmico: A Report from the Dance Floor in Mexico’, Dancecult Journal of Electronic Dance Music Culture, 10(1), available: https://dj.dancecult.net/index.php/dancecult/article/view/1066/962 - accessed: 25 September 2019
  
 
-113 -  Reading: Network Music and the Algorithmic Ensemble, 
+108 -  Reading: Network Music and the Algorithmic Ensemble, 
 , Author: David Ogborn, 
 , Units: 0.56666666666667, Zone:network music, 
 , Bibliography:Dean, R., McLean, A., & Ogborn, D. 2018-02-22. Network Music and the Algorithmic Ensemble. In The Oxford Handbook of Algorithmic Music. : Oxford University Press. Retrieved 7 Jun. 2020, from https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190226992.001.0001/oxfordhb-9780190226992-e-7. 
 
-114 -  Reading: Estuary: Browser-based Collaborative Projectional Live Coding of Musical Patterns, 
+109 -  Reading: Estuary: Browser-based Collaborative Projectional Live Coding of Musical Patterns, 
 , Author: David Ogborn, 
 , Units: 0.33333333333333, Zone:network music, 
 , Bibliography:Ogborn, David; Beverley, Jamie; Navarro Del Ángel. Luis; Tsabary, Eldad; McLean Alex. 2017. 
 
-115 -  Reading: Telematic Music: Six Perspectives, 
+110 -  Reading: Telematic Music: Six Perspectives, 
 , Author: Pauline Oliveros, S. Weaver, M. Dresser, J. Pitcher, J. Braasch, and C. Chafe, 
 , Units: 0.96666666666667, Zone:network music, 
 , Bibliography:P. Oliveros, S. Weaver, M. Dresser, J. Pitcher, J. Braasch, and C. Chafe, “Telematic Music: Six Perspectives,” Leonardo Music Journal, vol. 19, no. 1, 2009. 
 
-116 -  Reading: netart | arte en red prácticas artísticas en red situadas en latinoamérica: de las experiencias pioneras a la web 2(punto)0, 
+111 -  Reading: netart | arte en red prácticas artísticas en red situadas en latinoamérica: de las experiencias pioneras a la web 2(punto)0, 
 , Author: Lila Pagola, 
 , Units: 0.46666666666667, Zone:network music, 
 , Bibliography:Pagola, Lila. 2012. net.art | arte en red prácticas artísticas en red situadas en latinoamérica: de las experiencias pioneras a la web 2.0. 
 
-117 -  Reading: Musical implications of media and network infrastructures Perturbations of traditional artistic roles, 
+112 -  Reading: Musical implications of media and network infrastructures Perturbations of traditional artistic roles, 
 , Author: Atau Tanaka, 
 , Units: 0.3, Zone:network music, 
 , Bibliography:Tanaka, A. 2001. Musical implications of media and network infrastructures Perturbations of traditional artistic roles. 
 
-118 -  Reading: The Euclidean Algorithm Generates Traditional Musical Rhythms, 
+113 -  Reading: The Euclidean Algorithm Generates Traditional Musical Rhythms, 
 , Author: Godfried Toussaint, 
 , Units: 0.33333333333333, Zone:live coding, 
 , Bibliography:Toussaint, Godfried. 2003. The Euclidean Algorithm Generates Traditional Musical Rhythms. School of Computer Science, McGill University Montréal, Quebec, Canada. 
 
-119 -  Reading: Stabilizing and Destabilizing Agents in Laptop Orchestra Improvisation, 
+114 -  Reading: Stabilizing and Destabilizing Agents in Laptop Orchestra Improvisation, 
 , Author: Eldad Tsabary, 
 , Units: 0.36666666666667, Zone:network music, 
 , Bibliography:Tsabary, E. (2016). Stabilizing and Destabilizing Agents in Laptop Orchestra Improvisation. Les Cahiers de la Société québécoise de recherche en musique, 17 (1), 39–49. https://doi.org/10.7202/1044668ar 
 
-120 -  Reading: Building on the Foundations of Network Music: Exploring interaction contexts and shared robotic instruments, 
+115 -  Reading: Building on the Foundations of Network Music: Exploring interaction contexts and shared robotic instruments, 
 , Author: O Vallis, 
 , Units: 0.36666666666667, Zone:network music, 
 , Bibliography:Vallis, O., Diakopoulos, D., Hochenbaum, J., & Kapur, A. 2012. Building on the Foundations of Network Music: Exploring interaction contexts and shared robotic instruments. Organised Sound, 17(1). pp. 62-72 
 
-121 -  Reading: Live Coding From Scratch: The Cases of Practice in Mexico City and Barcelona, 
+116 -  Reading: Live Coding From Scratch: The Cases of Practice in Mexico City and Barcelona, 
 , Author: Hernani Villaseñor & Iván Paz, 
 , Units: 0.23333333333333, Zone:live coding, 
 , Bibliography:Villaseñor, Hernani & Paz Iván. 2020. 'Live Coding From Scratch: The Cases of Practice in Mexico City and Barcelona', Proceedings of the Fifth International Conference on Live Coding. Ireland. pp. 23-29 
 
-122 -  Reading: Sema, 
+117 -  Reading: Sema, 
 , Author: Sarah Weaver, 
 , Units: 0.066666666666667, Zone:network music, 
 , Bibliography:Weaver, Sarah. 2009. Sema. Leonardo Music Journal Volume 19 - December 2009 pp. 103-104 
 
-123 -  Reading: Internet2 and Global Electroacoustic Music: Navigating a decision space of production, relationships and languages, 
+118 -  Reading: Internet2 and Global Electroacoustic Music: Navigating a decision space of production, relationships and languages, 
 , Author: I Whalley, 
 , Units: 0.4, Zone:network music, 
 , Bibliography:Whalley, I. 2012. Internet2 and Global Electroacoustic Music: Navigating a decision space of production, relationships and languages. Organised Sound, 17(1). pp. 4-15 
 
-124 -  Reading: Towards Responsive Scoring Techniques in Networked Music Performance, 
+119 -  Reading: Towards Responsive Scoring Techniques in Networked Music Performance, 
 , Author: Rebekah Wilson, 
 , Units: 0.3, Zone:network music, 
 , Bibliography:Wilson, R., 2019. 'Towards Responsive Scoring Techniques in Networked Music Performance'. Proceedings of the 2019 TENOR Conference, Melbourne. 
 
-125 -  Reading: Becoming Latency-Native, 
+120 -  Reading: Becoming Latency-Native, 
 , Author: Rebekah Wilson, 
 , Units: 0.066666666666667, Zone:network music, 
 , Bibliography:Wilson, R., 2019. 'Becoming Latency-Native'. Proceedings of the Web Audio Conference 2019: Trondheim 
 
-126 -  Reading: Post-Acousmatic Practice: Re-Evaluating Schaeffer’s Heritage, 
+121 -  Reading: Post-Acousmatic Practice: Re-Evaluating Schaeffer’s Heritage, 
 , Author: Monty Adkins & Pierre Alexandre Tremblay, 
 , Units: -2.9666666666667, Zone:sound studies, 
-, Bibliography:Adkins, Monty, Richard Scott, and Pierre Alexandre Tremblay. 2016. 'Post-Acousmatic Practice: Re-Evaluating Schaeffer’s Heritage.' Organised Sound 21, no. 2: pp. 106-16 
+, Bibliography:Adkins, Monty, Richard Scott, and Pierre Alexandre Tremblay. 2016. 'Post-Acousmatic Practice: Re-Evaluating Schaeffer’s Heritage.' Organised Sound 21, no. 2: pp. 106-116 
 
-127 -  Reading: Time Robbers, Time Rebels: Limits of Fast-Capital, 
+122 -  Reading: Time Robbers, Time Rebels: Limits of Fast-Capital, 
 , Author: Ben Agger, 
 , Units: 0.53333333333333, Zone:time studies, 
 , Bibliography:Agger, Ben. 2007. Time Robbers, Time Rebels: Limits of Fast-Capital. in Hassan, R. and Purser, R. 2007. (eds.) 24/7: Time and temporality in the Network Society. Stanford, Calif.: Stanford University Press. pp. 219-234 
 
-128 -  Reading: Repeating, 
+123 -  Reading: Repeating, 
 , Author: Jacques Attali, 
 , Units: 1.5333333333333, Zone:sound studies, 
 , Bibliography:Attali, Jaques. 1985.RepeatingChapter 4in Noise: The Political Economy of Music. University of Minnesota Press pp. 87-132 
 
-129 -  Reading: Composing, 
+124 -  Reading: Composing, 
 , Author: Jacques Attali, 
 , Units: 0.53333333333333, Zone:sound studies, 
 , Bibliography:Attali, Jaques. 1985.ComposingChapter 5in Noise: The Political Economy of Music. University of Minnesota Press pp. 133-148 
 
-130 -  Reading: Time, Biopolitics and the Capitalist World-System, 
+125 -  Reading: Time, Biopolitics and the Capitalist World-System, 
 , Author: Christopher Breu, 
 , Units: 0.16666666666667, Zone:time studies, 
 , Bibliography:Breu, Christopher. 2012. Time, Biopolitics and the Capitalist World-System. Working Papers Series: An Interdisciplinary Forum on Time and Globalization 12/3. pp. 11-15 
 
-131 -  Reading: Lived Time and Polytemporality book: Feminism, Time, and Nonlinear History. Breaking Feminist Waves, 
+126 -  Reading: Lived Time and Polytemporality book: Feminism, Time, and Nonlinear History. Breaking Feminist Waves, 
 , Author: Victoria Browne, 
 , Units: 0.76666666666667, Zone:time studies, 
 , Bibliography:Browne, Victoria. 2014.Lived Time and PolytemporalityChapter 1 in Feminism, Time, and Nonlinear History. Breaking Feminist Waves. Palgrave Macmillan, New York pp. 25-47 
 
-132 -  Reading: Generational Time book: Feminism, Time, and Nonlinear History. Breaking Feminist Waves, 
+127 -  Reading: Generational Time book: Feminism, Time, and Nonlinear History. Breaking Feminist Waves, 
 , Author: Victoria Browne, 
 , Units: 0.76666666666667, Zone:time studies, 
 , Bibliography:Browne, Victoria. 2014.Generational TimeChapter 5 in Feminism, Time, and Nonlinear History. Breaking Feminist Waves. Palgrave Macmillan, New York pp. 119-141 
 
-133 -  Reading: Conclusion book: Feminism, Time, and Nonlinear History. Breaking Feminist Waves, 
+128 -  Reading: Conclusion book: Feminism, Time, and Nonlinear History. Breaking Feminist Waves, 
 , Author: Victoria Browne, 
 , Units: 0.13333333333333, Zone:time studies, 
 , Bibliography:Browne, Victoria. 2014.ConclusionChapter Conclusion in Feminism, Time, and Nonlinear History. Breaking Feminist Waves. Palgrave Macmillan, New York pp. 143-146 
 
-134 -  Reading:  Decolonizing the Ear: The Transcolonial Reverberations of Vernacular Phonograph Music, 
+129 -  Reading:  Decolonizing the Ear: The Transcolonial Reverberations of Vernacular Phonograph Music, 
 , Author: Michael Denning, 
 , Units: 0.66666666666667, Zone:sound studies, 
 , Bibliography:Denning, Michael. 2016. Decolonizing the Ear: The Transcolonial Reverberations of Vernacular Phonograph Music. In R. Radano & T. Olaniyan (Eds.), Audible Empire: Music, Global Politics, and Critique. Duke University Press. pp. 25-44 
 
-135 -  Reading: UIO-BOG Estudios Sonoros desde la Región Andina, 
+130 -  Reading: UIO-BOG Estudios Sonoros desde la Región Andina, 
 , Author: Mayra Estévez Trujillo, 
 , Units: 3.6666666666667, Zone:sonic studies, 
 , Bibliography:Estévez Trujillo, Mayra. 2008. UIO-BOG Estudios Sonoros desde la Región Andina. Centro Experimental Oído Salvaje. Quito, Ecuador. 
 
-136 -  Reading: Of Other Spaces: Utopias and Heterotopias, 
+131 -  Reading: Of Other Spaces: Utopias and Heterotopias, 
 , Author: Michel Foucault, 
 , Units: 0.13333333333333, Zone:time studies, 
 , Bibliography:Foucault, Michel. 1984. 'Of Other Spaces: Utopias and Heterotopias' Trans. Jay Miskowiec. AMC: Architecture / Mouvement / Continuité 5 (1984): pp. 46-49 
 
-137 -  Reading: 1999: Vibrational Anarchitecture, 
+132 -  Reading: 1999: Vibrational Anarchitecture, 
 , Author: Steve Goodman, 
 , Units: 0.2, Zone:sound studies, 
 , Bibliography:Goodman, Steve. 2012.1999: Vibrational AnarchitectureChapter 14in Sonic Warfare: Sound, Affect, and the Ecology of Fear. MIT Press pp. 75-80 
 
-138 -  Reading: 13.7 Billion B.C.: The Ontology of Vibrational Force, 
+133 -  Reading: 13.7 Billion B.C.: The Ontology of Vibrational Force, 
 , Author: Steve Goodman, 
 , Units: 0.13333333333333, Zone:sound studies, 
 , Bibliography:Goodman, Steve. 2012.13.7 Billion B.C.: The Ontology of Vibrational ForceChapter 15in Sonic Warfare: Sound, Affect, and the Ecology of Fear. MIT Press pp. 81-84 
 
-139 -  Reading: 1931: Rhythmanalysis, 
+134 -  Reading: 1931: Rhythmanalysis, 
 , Author: Steve Goodman, 
 , Units: 0.2, Zone:sound studies, 
 , Bibliography:Goodman, Steve. 2012.1931: RhythmanalysisChapter 16in Sonic Warfare: Sound, Affect, and the Ecology of Fear. MIT Press pp. 85-90 
 
-140 -  Reading: 1900: The Vibrational Nexus, 
+135 -  Reading: 1900: The Vibrational Nexus, 
 , Author: Steve Goodman, 
 , Units: 0.13333333333333, Zone:sound studies, 
 , Bibliography:Goodman, Steve. 2012.1900: The Vibrational NexusChapter 17in Sonic Warfare: Sound, Affect, and the Ecology of Fear. MIT Press pp. 91-94 
 
-141 -  Reading: 1677: Ecology of Speeds, 
+136 -  Reading: 1677: Ecology of Speeds, 
 , Author: Steve Goodman, 
 , Units: 0.2, Zone:sound studies, 
 , Bibliography:Goodman, Steve. 2012.1677: Ecology of SpeedsChapter 19in Sonic Warfare: Sound, Affect, and the Ecology of Fear. MIT Press pp. 99-104 
 
-142 -  Reading: 1993: Vorticist Rhythmachines, 
+137 -  Reading: 1993: Vorticist Rhythmachines, 
 , Author: Steve Goodman, 
 , Units: 0.13333333333333, Zone:sound studies, 
 , Bibliography:Goodman, Steve. 2012.1993: Vorticist RhythmachinesChapter 22in Sonic Warfare: Sound, Affect, and the Ecology of Fear. MIT Press pp. 113-116 
 
-143 -  Reading: 2012: Artificial Acoustic Agencies, 
+138 -  Reading: 2012: Artificial Acoustic Agencies, 
 , Author: Steve Goodman, 
 , Units: 0.2, Zone:sound studies, 
 , Bibliography:Goodman, Steve. 2012.2012: Artificial Acoustic AgenciesChapter 24in Sonic Warfare: Sound, Affect, and the Ecology of Fear. MIT Press pp. 123-128 
 
-144 -  Reading: 1877: Capitalism and Schizophonia, 
+139 -  Reading: 1877: Capitalism and Schizophonia, 
 , Author: Steve Goodman, 
 , Units: 0.13333333333333, Zone:sound studies, 
 , Bibliography:Goodman, Steve. 2012.1877: Capitalism and SchizophoniaChapter 25in Sonic Warfare: Sound, Affect, and the Ecology of Fear. MIT Press pp. 129-132 
 
-145 -  Reading: 1928: Contagious Orality, 
+140 -  Reading: 1928: Contagious Orality, 
 , Author: Steve Goodman, 
 , Units: 0.26666666666667, Zone:sound studies, 
 , Bibliography:Goodman, Steve. 2012.1928: Contagious OralityChapter 30in Sonic Warfare: Sound, Affect, and the Ecology of Fear. MIT Press pp. 163-170 
 
-146 -  Reading: 2003: Contagious Transmission, 
+141 -  Reading: 2003: Contagious Transmission, 
 , Author: Steve Goodman, 
 , Units: 0.2, Zone:sound studies, 
 , Bibliography:Goodman, Steve. 2012.2003: Contagious TransmissionChapter 32in Sonic Warfare: Sound, Affect, and the Ecology of Fear. MIT Press pp. 177-182 
 
-147 -  Reading: Network Time - 24 7: Time and temporality in the Network Society, 
+142 -  Reading: Network Time - 24 7: Time and temporality in the Network Society, 
 , Author: Robert Hassan, 
 , Units: 0.83333333333333, Zone:time studies, 
 , Bibliography:Hassan, Robert. 2007. Network Time. in Hassan, R. and Purser, R. 2007. (eds.) 24/7: Time and temporality in the Network Society. Stanford, Calif.: Stanford University Press. pp. 37-61 
 
-148 -  Reading: The Rhythmic Event: Art, Media, and the Sonic, 
+143 -  Reading: The Rhythmic Event: Art, Media, and the Sonic, 
 , Author: Eleni Ikoniadou, 
 , Units: 1, Zone:sound studies, 
 , Bibliography:Ikoniadou, Eleni. 2014. The Rhythmic Event: Art, Media, and the Sonic. MIT Press. 
 
-149 -  Reading: Introduction, 
+144 -  Reading: Introduction, 
 , Author: Caleb Kelly, 
 , Units: 1.4333333333333, Zone:sound studies, 
 , Bibliography:Kelly, Caleb. 2009.IntroductionChapter IntroductionCracked Media: The sounds of malfunction. MIT Press pp. 1-43 
 
-150 -  Reading: Tactic shadows and new media, 
-, Author: Caleb Kelly, 
-, Units: 1.2666666666667, Zone:sound studies, 
-, Bibliography:Kelly, Caleb. 2009.Tactic shadows and new mediaChapter 4Cracked Media: The sounds of malfunction. MIT Press pp. 284-321 
-
-151 -  Reading: The Complex and the Singular, 
+145 -  Reading: The Complex and the Singular, 
 , Author: Stanley Kwinter, 
 , Units: 1.1666666666667, Zone:time studies, 
 , Bibliography:Kwinter, Stanley. 2002. 'The Complex and the Singular.' Architectures of Time: Toward a Theory of the Event inn Modernist Culture.” MIT Press. 
 
-152 -  Reading: Unlikely Publics: on the Edge of Appearance, 
+146 -  Reading: Unlikely Publics: on the Edge of Appearance, 
 , Author: Brandon Labelle, 
 , Units: 0.33333333333333, Zone:sound studies, 
 , Bibliography:LaBelle, B. 2018. 'Poor Acoustics: Listening from Below' Chapter 6 in Sonic agency: Sound and emergent forms of resistance. Goldsmith Press 
 
-153 -  Reading: Poor Acoustics: Listening from Below, 
+147 -  Reading: Poor Acoustics: Listening from Below, 
 , Author: Brandon Labelle, 
 , Units: 0.33333333333333, Zone:sound studies, 
 , Bibliography:LaBelle, B. 2018. 'Poor Acoustics: Listening from Below' Chapter 6 in Sonic agency: Sound and emergent forms of resistance. Goldsmith Press 
 
-154 -  Reading: The Technicity of Time, 
+148 -  Reading: The Technicity of Time, 
 , Author: A Mackenzie, 
 , Units: 0.76666666666667, Zone:time studies, 
 , Bibliography:Mackenzie, A. (2001). The Technicity of Time. Time & Society, 10(2–3). pp. 235-257 
 
-155 -  Reading: soundtimelanguage, 
+149 -  Reading: soundtimelanguage, 
 , Author: Christof Migone, 
 , Units: 1.5333333333333, Zone:sound studies, 
 , Bibliography:Migone, Christof. 2012. 'Soundtimeslanguage' Chapter 3 in sonic somatic: performances of the unsound body. Errant Bodies Press. 
 
-156 -  Reading: Time, 
+150 -  Reading: Time, 
 , Author: Alfred North Whitehead, 
 , Units: 0.83333333333333, Zone:time studies, 
 , Bibliography:Whitehead, Alfred North. 1920. 'Time'. Chapter 3 in The Concept of Nature. Cambridge: Cambridge University Press. pp. 49-73. 
 
-157 -  Reading: The time of the Black Swan, 
+151 -  Reading: The time of the Black Swan, 
 , Author: Susie O’Brien, 
 , Units: 0.13333333333333, Zone:time studies, 
 , Bibliography:O’Brien, Susie. 2012. The Time of the Black Swan. Working Papers Series: An Interdisciplinary Forum on Time and Globalization 12/3. pp. 16-19 
 
-158 -  Reading: LONG-TERM PROCESSES book: Politics in Time: History, Institutions, and Social Analysis, 
+152 -  Reading: LONG-TERM PROCESSES book: Politics in Time: History, Institutions, and Social Analysis, 
 , Author: P. Pierson, 
 , Units: 0.8, Zone:time studies, 
 , Bibliography:Pierson, P. 2011.LONG-TERM PROCESSESChapter 3in Politics in Time: History, Institutions, and Social Analysis. (Course Book ed.). Princeton: Princeton University Press pp. 79-102 
 
-159 -  Reading: THE LIMITS OF INSTITUTIONAL DESIGN book: Politics in Time: History, Institutions, and Social Analysis, 
+153 -  Reading: THE LIMITS OF INSTITUTIONAL DESIGN book: Politics in Time: History, Institutions, and Social Analysis, 
 , Author: P. Pierson, 
 , Units: 1, Zone:time studies, 
 , Bibliography:Pierson, P. 2011.THE LIMITS OF INSTITUTIONAL DESIGNChapter 4in Politics in Time: History, Institutions, and Social Analysis. (Course Book ed.). Princeton: Princeton University Press pp. 103-132 
 
-160 -  Reading: INSTITUTIONAL DEVELOPMENT book: Politics in Time: History, Institutions, and Social Analysis, 
+154 -  Reading: INSTITUTIONAL DEVELOPMENT book: Politics in Time: History, Institutions, and Social Analysis, 
 , Author: P. Pierson, 
 , Units: 1.1333333333333, Zone:time studies, 
 , Bibliography:Pierson, P. 2011.INSTITUTIONAL DEVELOPMENTChapter 5in Politics in Time: History, Institutions, and Social Analysis. (Course Book ed.). Princeton: Princeton University Press pp. 133-166 
 
-161 -  Reading: TEMPORAL CONTEXT IN SOCIAL SCIENCE INQUIRY book: Politics in Time: History, Institutions, and Social Analysis, 
+155 -  Reading: TEMPORAL CONTEXT IN SOCIAL SCIENCE INQUIRY book: Politics in Time: History, Institutions, and Social Analysis, 
 , Author: P. Pierson, 
 , Units: 0.4, Zone:time studies, 
 , Bibliography:Pierson, P. 2011.TEMPORAL CONTEXT IN SOCIAL SCIENCE INQUIRYChapter CONCLUSIONin Politics in Time: History, Institutions, and Social Analysis. (Course Book ed.). Princeton: Princeton University Press pp. 167-178 
 
-162 -  Reading: Socialism, Anew? Russia’s New Left, “Chevengur” and the Re-thinking of Failure, 
+156 -  Reading: Socialism, Anew? Russia’s New Left, “Chevengur” and the Re-thinking of Failure, 
 , Author: Petra Rethmann, 
 , Units: 0.13333333333333, Zone:time studies, 
 , Bibliography:Rethmann, Petra. 2012. Socialism, Anew? Russia’s New Left, 'Chevengur' and the Re-thinking of Failure. Working Papers Series: An Interdisciplinary Forum on Time and Globalization 12/3. pp. 30-33 
 
-163 -  Reading: Hungry Listening, 
+157 -  Reading: Hungry Listening, 
 , Author: Dylan Robinson, 
 , Units: 1.2333333333333, Zone:sound studies music, 
 , Bibliography:Robinson, Dylan. 2020. 'Hungry Listening'. Ch. 1 in Hungry Listening: Resonant Theory for Indigenous Sound Studies. Minneapolis: University of Minnesota Press. pp. 37-73. 
 
-164 -  Reading: The Clock-Time Paradox: Time Regimes in the Network Society, 
+158 -  Reading: The Clock-Time Paradox: Time Regimes in the Network Society, 
 , Author: Ida Sabelis, 
 , Units: 0.8, Zone:time studies, 
 , Bibliography:Sabelis, Ida H. J. 2007. The Clock-Time Paradox: Time Regimes in the Network Society. in Hassan, R. and Purser, R. 2007. (eds.) 24/7: Time and temporality in the Network Society. Stanford, Calif.: Stanford University Press. pp. 255-278 
 
-165 -  Reading: Tempo Tantrums: Speed and the Cultural Politics of Time book: In the Meantime: Temporality and Cultural Politics, 
+159 -  Reading: Tempo Tantrums: Speed and the Cultural Politics of Time book: In the Meantime: Temporality and Cultural Politics, 
 , Author: Sarah Sharma, 
 , Units: 0.86666666666667, Zone:time studies, 
 , Bibliography:Sharma, S. 2014.Tempo Tantrums: Speed and the Cultural Politics of TimeChapter Introduction in In the Meantime: Temporality and Cultural Politics. Durham, NC and London: Duke University Press. pp. 1-26 
 
-166 -  Reading: Slow Space: Another Pace and Time book: In the Meantime: Temporality and Cultural Politics, 
+160 -  Reading: Slow Space: Another Pace and Time book: In the Meantime: Temporality and Cultural Politics, 
 , Author: Sarah Sharma, 
 , Units: 0.96666666666667, Zone:time studies, 
 , Bibliography:Sharma, S. 2014.Slow Space: Another Pace and TimeChapter 4 in In the Meantime: Temporality and Cultural Politics. Durham, NC and London: Duke University Press. pp. 108-136 
 
-167 -  Reading: Toward a Temporal Public book: In the Meantime: Temporality and Cultural Politics, 
+161 -  Reading: Toward a Temporal Public book: In the Meantime: Temporality and Cultural Politics, 
 , Author: Sarah Sharma, 
 , Units: 0.46666666666667, Zone:time studies, 
 , Bibliography:Sharma, S. 2014.Toward a Temporal PublicChapter Conclusion in In the Meantime: Temporality and Cultural Politics. Durham, NC and London: Duke University Press. pp. 137-150 
 
-168 -  Reading: Musical Economies of the Elusive Metropolis, 
+162 -  Reading: Musical Economies of the Elusive Metropolis, 
 , Author: G Steingo, 
 , Units: 0.63333333333333, Zone:sound studies, 
 , Bibliography:Steingo, G. 2016. Musical Economies of the Elusive Metropolis. In R. Radano & T. Olaniyan (Eds.), Audible Empire: Music, Global Politics, and Critique. Duke University Press. pp. 246-264 
 
-169 -  Reading: 'Time-lag' and Catching Up: Managing Polysemic Temporality in the Context of Immigration, 
+163 -  Reading: 'Time-lag' and Catching Up: Managing Polysemic Temporality in the Context of Immigration, 
 , Author: Rachel Zhou, 
 , Units: 0.16666666666667, Zone:time studies, 
 , Bibliography:Zhou, Rachel Y. 2012. 'Time-lag' and Catching Up: Managing Polysemic Temporality in the Context of Immigration. Working Papers Series: An Interdisciplinary Forum on Time and Globalization 12/3. pp. 6-10 
 
-[ Reading: Imagined Communities, Author: Anderson, Units: 1, Zone:theory, Bibliography:Anderson, B. R. O. G. (1991). Imagined communities: Reflections on the origin and spread of nationalism. London: Verso.  ]
